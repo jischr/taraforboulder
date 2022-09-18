@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Tara For Boulder
-=======
 # Tara for Boulder
 
 Made with [Doks Starter theme](https://github.com/h-enk/doks)
@@ -29,4 +26,3 @@ npm run start
 - [Netlify](https://docs.netlify.com/)
 - [Hugo](https://gohugo.io/documentation/)
 - [Doks](https://getdoks.org/)
->>>>>>> e41f924 (initial readme to get going)
