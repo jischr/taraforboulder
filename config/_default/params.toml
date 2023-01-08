@@ -1,0 +1,110 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Tara for Boulder"
+titleSeparator = "-"
+titleAddition = "Boulder City Council"
+description = "Balanced Solutions for a Stronger Community"
+
+## Documentation
+# docsVersion = "0.1"
+
+## Open Graph
+images = ["logo-tw.png"]
+ogLocale = "en_US"
+domainTLD = "taraforboulder.com"
+titleHome = "Tara for Boulder City Council"
+
+## Twitter Cards
+twitterSite = ""
+twitterCreator = ""
+
+## JSON-LD
+schemaType = "Organization"
+schemaName = "Tara Winer for Council"
+# schemaAuthor = ""
+# schemaAuthorTwitter = ""
+# schemaAuthorLinkedIn = ""
+# schemaAuthorGitHub = ""
+schemaLocale = "en-US"
+schemaLogo = "logo-tw.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "logo-tw.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = ""
+# schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Paid for and authorized by Tara Winer for Council"
+
+# Feed
+copyRight = "Copyright (c) 2023 Tara Winer for Council"
+
+# Alert
+alert = false
+alertDismissable = true
+alertText = ""
+
+# Edit Page
+repoHost = "GitHub"
+docsRepo = "https://github.com/jischr/taraforboulder"
+docsRepoBranch = "main"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[sections]
+  sectionNav = ["issues", "experience", "bio", "news", "contact"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
