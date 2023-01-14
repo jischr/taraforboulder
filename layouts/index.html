@@ -1,11 +1,21 @@
 {{ define "main" }}
-<section class="section section-md container-fluid mt-n3 pb-3">
+<section class="section section-md container-fluid mt-n3 pb-3 px-0">
   <div class="row justify-content-center">
     <div class="col-12 text-center">
       {{- .Scratch.Set "fillImage" "1270x715 Center" -}}
+      {{ with resources.Get "/images/logo-tw.png" }}
+        <img src="{{ .RelPermalink }}" width="100%" alt="Tara Winer Boulder City Council logo">
+      {{ end }}
+   </div>
+  </div>
+  <div class="row justify-content-center my-5">
+    <div class="col-12 col-md-6">
+      {{- .Scratch.Set "fillImage" "1270x1270 Center" -}}
       {{ partial "content/figure.html" . }}
+    </div>
+    <div class="col-12 col-md-6 text-center">
       <h1 class="mt-0 h3 lead">{{ .Title }}</h1>
-      <h2 class="mt-0"><a href="https://bouldercolorado.gov/person/tara-winer">Boulder City Council</a><h2>
+      <h2 class="mt-0"><a href="https://bouldercolorado.gov/person/tara-winer">for Boulder City Council</a><h2>
     </div>
   </div>
 </section>
