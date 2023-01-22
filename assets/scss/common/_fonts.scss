@@ -8,3 +8,12 @@
     url("/fonts/vendor/inter/inter-v2-latin-500.woff2") format("woff2"),
     url("/fonts/vendor/inter/inter-v2-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
+@font-face {
+  font-family: Libre_Franklin;
+  font-style: normal;
+  font-display: swap;
+  src: 
+    local("Libre_Franklin")
+    url("/fonts/vendor/libre_franklin/LibreFranklin-VariableFont_wght.ttf") format("truetype");
+}
