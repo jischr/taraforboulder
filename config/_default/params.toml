@@ -83,7 +83,7 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["issues", "experience", "bio", "news", "contact"]
+  sectionNav = ["issues", "experience", "bio", "news"]
 
 [options]
   lazySizes = true

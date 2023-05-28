@@ -18,10 +18,6 @@
   url = "/news/"
   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "https://bouldercolorado.gov/person/tara-winer"
-  weight = 50
 
 [[social]]
   name = "Facebook"
