@@ -1,0 +1,18 @@
+<div class="card contact">
+    <div class="card-bar"></div>
+    <div class="card-body">
+      <h3 class="h4 card-title">👋 Say Hello</h3>
+      <p class="card-text">Looking to get in touch with Tara? Fill in your info below.</p>
+      <form class="row gx-2 gy-3 email-form" name="contact" method="post" netlify-honeypot="name" data-netlify="true" onsubmit="subscribeButton.disabled = true">
+        <div class="col-s-12">
+          <input name="name" type="text" class="form-control my-3" placeholder="Name" aria-label="Name" required>
+          <input name="email" type="email" class="form-control my-3" placeholder="Email" aria-label="Email address" required>
+          <textarea name="message" type="text" class="form-control my-3" placeholder="Message" aria-label="Message" required></textarea>
+
+          <input name="page" type="hidden" value="{{ .Page.Permalink }}">
+          <button id="subscribeButton" type="submit" class="btn btn-dark px-3" aria-label="Send">Send</button>
+
+        </div>
+      </form>
+    </div>
+</div>
