@@ -80,7 +80,7 @@ Boulder Public Library District Trustee
 **Joel Koenig**  
 Boulder Library Foundation Board
 
-**Micahel Carr**
+**Michael Carr**  
 Beverage Licensing Authority Board
 
 **Michael Christy**  
@@ -126,22 +126,23 @@ David	Davalos	<br>
 Mike	Deskevich	<br>
 Karen	Ditz	<br>
 Itai	Divinsky, Jewish Colorado	<br>
+Shari	Edelstein	<br>
 Trish	Emser	<br>
 Stuart	Feinhor	<br>
 Eli	Feldman	<br>
 Sarah	Friend	<br>
 Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
-Mary	Girard, Fullbright Scholar, India	<br>
+Mary	Girard	<br>
 Jill	Grano	<br>
 Liz	Hanson	<br>
 John	Harris	<br>
 Elaine	Harris	<br>
 Brooke	Harrison	<br>
-Zach	Hunter – Congrats on your graduation from CU!	<br>
+Zach	Hunter	<br>
 Nancy	Kornblum	<br>
 Tamar	Larsen	<br>
-Margaret	Lazar, Healthcare Executive, Sydney, Australia	<br>
+Margaret	Lazar	<br>
 Jan	Liverance	<br>
 Jen	Livovich	<br>
 Julie	Marshall,  Animal Wellness Action Colorado & former Daily Camera Opinion Editor	<br>
@@ -155,6 +156,8 @@ Danica	Powell	<br>
 Amir	Ronen	<br>
 Shari	Roth	<br>
 Edina	Segal, Jewish Colorado	<br>
+Jackie	Seltzer	<br>
+Wayne	Seltzer 	<br>
 Aza	Squarer	<br>
 Ron	Squarer	<br>
 Charlie	Stein	<br>
