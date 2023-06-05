@@ -14,4 +14,15 @@ weight: 200
 toc: true
 ---
 
-Coming soon!
+Junie Joseph, Colorado State Representative HD10 & Boulder City Council
+>Tara is a thoughtful and awesome. Tara is a thoughtful and kind leader. She has served the ppl of boulder well. I am grateful to have served on City Council with Councilmember Winer. I am in full support of her re-election to the City Council.
+
+<br>
+
+Rachel Friend, Boulder City Council
+> It’s been a joy to serve with Tara, and I am happy to endorse her for re-election. She is working tirelessly for all who live in our community, and we would be silly not to bring her back for 4 more years!
+
+<br>
+
+Jen Livovich
+> Tara Winer has the kind of leadership Boulder needs- Community centered and responsive to all.

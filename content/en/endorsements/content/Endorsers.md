@@ -37,6 +37,9 @@ Boulder City Council Member
 **Bob Yates**  
 Boulder City Council Member
 
+**Lesley Smith**  
+CU Regent
+
 ### Endorsements by Former Elected Officials
 
 **Leslie Durgin**  
