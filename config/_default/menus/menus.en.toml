@@ -13,11 +13,21 @@
   url = "/experience/"
   weight = 20
 
+
+[[main]]
+  name = "Endorsements"
+  url = "/endorsements/"
+  weight = 30
+
 [[main]]
   name = "News"
   url = "/news/"
   weight = 40
 
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
 
 [[social]]
   name = "Facebook"
