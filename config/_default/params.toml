@@ -64,7 +64,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Paid for and authorized by Tara Winer for Council"
+footer = ""
 
 # Feed
 copyRight = "Copyright (c) 2023 Tara Winer for Council"
