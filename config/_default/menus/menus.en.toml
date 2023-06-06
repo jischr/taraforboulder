@@ -4,30 +4,30 @@
   weight = 10
 
 [[main]]
-  name = "Bio"
-  url = "/bio/"
-  weight = 30
-
-[[main]]
   name = "Experience"
   url = "/experience/"
   weight = 20
 
 
 [[main]]
-  name = "Endorsements"
-  url = "/endorsements/"
+  name = "Bio"
+  url = "/bio/"
   weight = 30
+
+[[main]]
+  name = "Endorsements"
+  url = "/endorsements/content/endorsers/"
+  weight = 40
 
 [[main]]
   name = "News"
   url = "/news/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "/contact/"
-  weight = 50
+  weight = 60
 
 [[social]]
   name = "Facebook"
