@@ -16,7 +16,7 @@ toc: true
 
 My top priorities for Economic Vitality include:
 - increasing safety for downtown businesses
-- supporting local businesses, especially BIPOC and womem owned
+- supporting local businesses, especially BIPOC and women owned
 - expanding the labor pool by providing incentives and housing diversity
 - finding ways to increase affordability for new businesses
 - broadening community outreach so all community members feel welcome and included
