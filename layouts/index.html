@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="section section-md container-fluid mt-n3 px-0 py-0">
   <div class="row justify-content-center mt-5">
-    <div class="col-12 text-center" style="max-height:200px;">
+    <div class="col-12 text-center" style="max-height:200px;overflow: auto;">
       {{- .Scratch.Set "fillImage" "Center" -}}
       {{ with resources.Get "/images/logo-tw.png" }}
         <img src="{{ .RelPermalink }}" class="mw-100 mh-100" alt="Tara Winer Boulder City Council logo">
