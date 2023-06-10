@@ -13,9 +13,13 @@ menu:
 weight: 200
 toc: true
 ---
+Judy Amabile, Colorado State Representation HD49
+> I enthusiastically support Tara Winer for Boulder City Council. If there is a better solution to a problem, Tara is a leader who listens and works to bring forth solutions--no matter who suggests them. That is the Magic of Tara Winer.
+
+<br>
 
 Junie Joseph, Colorado State Representative HD10 & Boulder City Council
->Tara is a thoughtful and awesome. Tara is a thoughtful and kind leader. She has served the ppl of boulder well. I am grateful to have served on City Council with Councilmember Winer. I am in full support of her re-election to the City Council.
+> Tara is a thoughtful and awesome. Tara is a thoughtful and kind leader. She has served the ppl of boulder well. I am grateful to have served on City Council with Councilmember Winer. I am in full support of her re-election to the City Council.
 
 <br>
 
@@ -26,3 +30,8 @@ Rachel Friend, Boulder City Council
 
 Jen Livovich
 > Tara Winer has the kind of leadership Boulder needs- Community centered and responsive to all.
+
+<br>
+
+Gordon Riggle, Former Boulder City Council
+> I’m grateful for her sensible leadership on council.

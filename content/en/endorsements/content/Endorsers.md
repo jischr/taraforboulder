@@ -60,8 +60,11 @@ Former Deputy Mayor
 **George Karakehian**  
 Former Deputy Mayor
 
+**Gordon Riggle**  
+Former Boulder City Council Member
+
 **Andrew Shoemaker**  
-Former Deputy Mayor
+Former Boulder City Council Member
 
 **Allyn Feinberg**  
 Former Boulder City Council Member
@@ -117,11 +120,15 @@ Former Planning Board Member
 Former BVSD Board Member
 
 ### Endorsers in Our Community
-Daniel	Aizenman	<br>
-Meghan	Bach	<br>
+Cindy	Agnes	<br>
+Gerry Agnes	<br>
+Daniel Aizenman	<br>
+Meghan Bach	<br>
+Nancy	Blackwood	<br>
 Terri	Brncic	<br>
 Russ	Chandler	<br>
 Andree, Olivia, and Jack	Christy	<br>
+David	Dadone	<br>
 Elaine	Danemiller	<br>
 Colin	Dart	<br>
 Virginia	Dart	<br>
@@ -148,14 +155,18 @@ Tamar	Larsen	<br>
 Margaret	Lazar	<br>
 Jan	Liverance	<br>
 Jen	Livovich	<br>
-Julie	Marshall,  Animal Wellness Action Colorado & former Daily Camera Opinion Editor	<br>
-Lyra	Mayfield	<br>
-Jill	Oliver	<br>
+Maryann Mahoney	<br>
+Julie	Marshall, Former Daily Camera Opinion Editor	<br>
+Lyra Mayfield	<br>
+Andrea Meneghel	<br>
+Robin	Noble	<br>
+Jill Oliver	<br>
 Anne	Peters	<br>
 Jerry	Pinsker	<br>
 Marilyn	Pinsker	<br>
 Jennifer	Polk Robins	<br>
 Danica	Powell	<br>
+Chris 	Robins	<br>
 Amir	Ronen	<br>
 Shari	Roth	<br>
 Edina	Segal, Jewish Colorado	<br>
@@ -166,3 +177,6 @@ Ron	Squarer	<br>
 Charlie	Stein	<br>
 Tim	Thomas	<br>
 Nancy	Travis	<br>
+Tami	Turczyn 	<br>
+Richie	Zietz	<br>
+Roz	Zietz	<br>
