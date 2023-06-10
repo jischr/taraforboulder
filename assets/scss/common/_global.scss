@@ -42,6 +42,10 @@ body.docs {
   padding-top: 0 !important;
 }
 
+html,body{
+  overflow-x: hidden !important;
+}
+
 @include media-breakpoint-up(md) {
   body {
     font-size: $font-size-md;
