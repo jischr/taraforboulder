@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="container-fluid">
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar{{ if ne .Site.Params.options.navbarSticky true }} docs-sidebar-top{{ end }} d-none d-lg-block">
 			<nav {{ if eq .Site.Params.menu.section.collapsibleSidebar false }}id="sidebar-default" {{ end }}class="docs-links" aria-label="Main navigation">
@@ -41,13 +42,7 @@
 				{{ end -}}
 			</div>
 			{{ partial "main/docs-navigation.html" . }}
-<!-- 			
-			{{ if not .Site.Params.options.collapsibleSidebar -}}
-				{{ partial "main/docs-navigation.html" . }}
-			{{ else -}}
-				<div class="my-n3"></div>
-			{{ end -}}
-			 -->
 		</main>
 	</div>
+</div>
 {{ end }}
