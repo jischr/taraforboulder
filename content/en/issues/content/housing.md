@@ -1,5 +1,5 @@
 ---
-title: "Creative Housing Solutions"
+title: "Housing Solutions"
 description: ""
 lead: ""
 date: 2020-11-16T13:59:39+01:00
@@ -19,7 +19,7 @@ Let’s reimagine transit corridors, old shopping centers, unused parking lots, 
 
 The Holiday Neighborhood in North Boulder is a great model for creative housing solutions. It transformed an unused urban space into a desirable, low-rise, mixed-use community with single-family residences, condominiums, townhomes, and apartments surrounding a common greenspace with intermingled community gardens. The neighborhood has convenient public transit, highway access, and walking paths. Most importantly, over 40% of the Holiday Neighborhood is Affordable Housing.
 
- In East Boulder, we will now have an opportunity to build new multi-family housing communities.  I am hopeful that the East Boulder Subcommunity Plan will be the next successful neighborhood plan with diverse housing options. As always, design should not be an afterthought. Including a robust urban tree canopy, lively retail and restaurants, good lighting, access to our bike paths and transit system, and housing diversity will be a key to its success and to the success of our climate goals. 
+ In East Boulder, we will now have an opportunity to build new multi-family housing communities.  I am hopeful that the East Boulder Subcommunity Plan we recently approved on City Council will be the next successful neighborhood plan with diverse housing options. As always, design should not be an afterthought. Including a robust urban tree canopy, lively retail and restaurants, good lighting, access to our bike paths and transit system, and housing diversity will be a key to its success and to the success of our climate goals. 
 
 Unfortunately, most of Boulder’s new housing development consists of large single-family homes and 1 and 2 bedroom apartments, which is either too expensive or too small for growing families. There is a better way. We must pursue the right-sized housing options for our community and fund pilot programs to increase housing access to middle-class families, such as the Middle Income Down Payment Assistance Program.
 

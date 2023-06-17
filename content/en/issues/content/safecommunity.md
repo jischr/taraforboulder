@@ -16,7 +16,7 @@ toc: true
 My top safety priorities include:
 - expanding fire prevention and mitigation
 - increasing the safety of Boulder Creek, our bike paths and underpasses, our parks, and our schools
-- decreasing property crime and bike theftin our neighborhoods and our commercial spaces. 
+- decreasing property crime and bike theft in our neighborhoods and our commercial spaces. 
 
 ## Fire Prevention & Mitigation
 We need to ensure that our infrastructure is robust enough to meet the growing fire threat.  And we are doing that.  With a focus on thinning of the trees on our open space closest to our neighborhoods,  community education on fire preparedness, our emergency notification system, and the rebuilding of fire station #3, we are working hard to ensure safety for all residents. 
@@ -29,7 +29,7 @@ The Boulder bike paths provide necessary transportation and recreation for our r
 ### Parks
 Boulder’s parks are treasured shared community spaces.  I have been advocating for them to be clean and well-maintained. I support Boulder’s current safety and preservation initiatives, including the ban on propane tanks, tents, and camping in public spaces.  
 ### Public Schools
-We must increase safety in the areas directly surrounding our schools, especially Boulder High School. I support enforcing the camping ban, closing off the space surrounding the school, and enforcing a drug-free zone.
+We must increase safety in the areas directly surrounding our schools, especially Boulder High School. I support enforcing the camping ban and enforcing a drug-free zone.
 
 ## Combating Property Crime
 ### Neighborhoods

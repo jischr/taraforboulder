@@ -16,7 +16,7 @@ The arts and culture are an important part of Boulder’s ethos as a welcoming, 
 
 On the Downtown Boulder Community Initiatives board I am surrounded by a group of community leaders who believe that Boulder’s vibrancy is driven by arts, culture, diversity, and equity. There is an imperative to preserve and expand arts and culture through consistent funding, designated affordable space, and grant opportunities. 
 
-My top priorities for Arts and Culture in Boulder are expanding access to affordable, physical space for artists and advocating for near-term and long-term funding.
+My top priorities for Arts and Culture in Boulder are expanding access to affordable, physical space for artists and advocating for near-term and long-term funding. This past year on council I successfully added an additional $100,000 of ARPA funds to go to our arts community.
 
 Let’s start with space. Access to affordable, physical space for the thousands of artists residing in Boulder is increasingly challenging due to high commercial rental prices. Boulder does not have a performing arts center and both indoor and outdoor space for the creation, exhibition, and administration of the arts is scarce. I will advocate for more city-owned spaces, such as: office space, garages, parking lots, greenspace, etc., to be partially or wholly designated for the arts. While a Boulder performing arts center should be a long-term goal, increasing access to affordable artist space must be a short-term one.
 

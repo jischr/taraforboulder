@@ -14,7 +14,7 @@ toc: true
 ---
 
 My top priorities for Transportation include:
-- improveing biking safety by creating protected bike lanes and enhancing Boulder bike paths
+- improving biking safety by creating protected bike lanes and enhancing Boulder bike paths
 - increasing the quality and consistency of our public transit
 - improving road safety and maintenance
 

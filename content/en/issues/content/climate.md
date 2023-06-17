@@ -1,7 +1,7 @@
 ---
 title: "Climate Action"
 description: ""
-lead: "Climate change is a crisis facing our planet, and all of us. Climate change poses a greater risk to Boulder year over year, contributing to drought, wildfires, rising temperatures, record-low water levels, and air pollution."
+lead: "Climate change poses a greater risk to Boulder year over year, contributing to floods, drought, wildfires, rising temperatures, record-low water levels, and air pollution."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,10 +15,11 @@ toc: true
 
 ## Fire Mitigation
 
-Climate change poses a greater risk to Boulder year over year, contributing to drought, wildfires, rising temperatures, record-low water levels, air pollution and floods. 
+We can no longer fully prevent wildfires, although we can decrease the risk to our community.  We need to build resilience. Making sure our homes are fire resistant and thinning our forests that are on the wildland-urban interface are just two of the many ways we can mitigate and or manage fire risk. 
 
-We can no longer fully prevent wildfires, although we can decrease the risk to our community.  We need to build resilience.  Making sure our homes are fire resistent and thinning our forests that are on the wildland-urban interface are just two of the many ways we can mitigate and or manage fire risk. 
+## Flood Mitigation
 
+This spring has been the wettest in decades. I support increased flood mitigation by improving our infrastructure, especially around our many flood prone creeks.
 
 ## Climate Emergency
 
