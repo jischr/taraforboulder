@@ -1,11 +1,17 @@
-<section class="section section-open-collective">
-    <div class="container">
-        <div class="row justify-content-center align-items-center">
+<section class="section section-open-collective ">
+    <div class="container mt-lg-3 mb-lg-3">
+        {{- .Scratch.Set "fillImage" "Center" -}}
+        {{ with resources.Get "/images/mountains.png" }}
+        <div class="row justify-content-center align-items-center mx-0 mw-100 h-100"
+            style="background-image: url('{{ .RelPermalink }}');
+                background-repeat: no-repeat;
+                background-position: top right;
+                background-size: 75%;">
+        {{ end }}
             <div class="col-12">
-                <h1 class="lead">Balanced Solutions for a <br/><strong>Stronger Community</strong></h1>
-            </div>
-            <div class="col-12">
-                <p class="mb-0 mt-4"><a class="btn btn-dark btn-lg px-3 mb-2" href="{{ "docs/issues/economicvitality" | relURL }}" role="button">Tara's Priorities</a></p>
+                <h1 class="lead pb-3">Balanced Solutions for a <br/><strong>Stronger Community</strong></h1>
+                <p>I passionately supports a Boulder that is welcoming, inclusive, safe, and accessible for all, a Boulder that fosters creativity and mutual respect.</p>
+                <p>It has truly been an honor and privilege to be your representative on Boulder City Council, and I am running for re-election because there is much work left to do.</p>
             </div>
         </div>
     </div>

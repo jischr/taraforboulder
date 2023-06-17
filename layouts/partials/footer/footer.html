@@ -1,8 +1,12 @@
 <footer class="footer text-muted">
   <div class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }}">
     <div class="row">
-      <p class="md__image">
-        {{ partial "logos/main.html" . }}
+      <p class="md__image text-center">
+        {{ $image := resources.GetMatch "/images/logo-tw.png" }}
+        {{ $image := $image.Resize "250x" }}
+        {{ with $image }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+        {{ end }}
       </p>      
     </div>
     <div class="row">

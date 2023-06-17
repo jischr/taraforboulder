@@ -72,9 +72,13 @@ html,body{
 }
 
 .home h1 {
-  /* font-size: calc(1.375rem + 1.5vw); */
+  // /* font-size: calc(1.375rem + 1.5vw); */
   font-size: calc(1.875rem + 1.5vw);
   margin-bottom: 0;
+}
+
+.header {
+  font-size: calc(1.875rem + 3vw) !important;
 }
 
 .lead {
@@ -123,6 +127,10 @@ body {
 }
 */
 
+// * {
+//   outline: 1px solid #f00 !important;
+// }
+
 .docs-sidebar {
   order: 2;
 }
@@ -158,7 +166,7 @@ body {
   @supports ((position: -webkit-sticky) or (position: sticky)) {
     .docs-links {
       max-height: calc(100vh - 4rem);
-      overflow-y: auto;
+      overflow-y: hidden;
     }
   }
 }
@@ -175,13 +183,14 @@ body {
   order: 2;
 }
 
+
 @supports ((position:-webkit-sticky) or (position:sticky)) {
   .docs-toc {
     position: sticky;
     position: sticky;
     top: 4rem;
     height: calc(100vh - 4rem);
-    overflow-y: auto;
+    overflow-y: hidden;
   }
 }
 
@@ -230,6 +239,17 @@ a.btn:focus,
   background: lighten($primary, 55%);
 }
 */
+
+.bg-image {
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+
+.bg-green {
+  background-color: #1e722e;
+}
 
 .bg-dots {
   background-image: radial-gradient($gray-300 15%, transparent 15%);

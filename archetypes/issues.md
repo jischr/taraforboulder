@@ -7,7 +7,7 @@ lastmod: {{ .Date }}
 draft: true
 images: []
 menu:
-  docs:
+  issues:
     parent: ""
     identifier: "{{ .Name }}-{{ delimit (shuffle (split (md5 .Name) "" )) "" }}"
 weight: 999

@@ -14,10 +14,10 @@
   transform: scale(1.025);
 }
 
-.home .card-body,
-.newsletter .card-body,
-.blog .card-body,
-.contributors.list .card-body {
+.home .card-body.newsletter,
+.newsletter .card-body.newsletter,
+.blog .card-body.newsletter,
+.contributors.list .card-body.newsletter {
   padding: 0 2rem 1rem;
 }
 
