@@ -1,6 +1,6 @@
 [[main]]
   name = "Issues"
-  url = "/docs/issues/"
+  url = "/issues/content/"
   weight = 10
 
 [[main]]
