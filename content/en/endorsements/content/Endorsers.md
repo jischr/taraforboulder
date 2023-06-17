@@ -60,14 +60,17 @@ Former Deputy Mayor
 **George Karakehian**  
 Former Deputy Mayor
 
+**Allyn Feinberg**  
+Former Boulder City Council Member
+
 **Gordon Riggle**  
 Former Boulder City Council Member
 
 **Andrew Shoemaker**  
 Former Boulder City Council Member
 
-**Allyn Feinberg**  
-Former Boulder City Council Member
+**Mary Young**  
+Former Boulder City Council
 
 ### Endorsements by Board & Commission Members
 
@@ -113,6 +116,9 @@ Colorado Chautauqua Association Board of Directors
 **Pat Shanks**  
 Colorado Chautauqua Association Board of Directors
 
+**Stephanie Rudy**  
+Downtown Boulder Community Initiatives (DCBI) Board
+
 **John Spitzer**  
 Former Planning Board Member
 
@@ -121,13 +127,18 @@ Former BVSD Board Member
 
 ### Endorsers in Our Community
 Cindy	Agnes	<br>
-Gerry Agnes	<br>
-Daniel Aizenman	<br>
-Meghan Bach	<br>
+Gerry 	Agnes	<br>
+Daniel	Aizenman	<br>
+Meghan	Bach	<br>
+Jennifer	Banyan	<br>
+Doug	Bendt	<br>
+Sonia 	Bendt	<br>
 Nancy	Blackwood	<br>
 Terri	Brncic	<br>
+Alan 	Caplan	<br>
 Russ	Chandler	<br>
 Andree, Olivia, and Jack	Christy	<br>
+George	Craft	<br>
 David	Dadone	<br>
 Elaine	Danemiller	<br>
 Colin	Dart	<br>
@@ -145,6 +156,7 @@ Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
 Mary	Girard	<br>
 Jill	Grano	<br>
+Stephanie 	Greenberg	<br>
 Liz	Hanson	<br>
 John	Harris	<br>
 Elaine	Harris	<br>
@@ -153,14 +165,16 @@ Zach	Hunter	<br>
 Nancy	Kornblum	<br>
 Tamar	Larsen	<br>
 Margaret	Lazar	<br>
+Lois 	Linsky	<br>
 Jan	Liverance	<br>
 Jen	Livovich	<br>
-Maryann Mahoney	<br>
-Julie	Marshall, Former Daily Camera Opinion Editor	<br>
-Lyra Mayfield	<br>
-Andrea Meneghel	<br>
+Maryann 	Mahoney	<br>
+Julie	Marshall,  Former Daily Camera Opinion Editor	<br>
+Lyra	Mayfield	<br>
+Andrea	Meneghel	<br>
+Andrea	Mengehal	<br>
 Robin	Noble	<br>
-Jill Oliver	<br>
+Jill	Oliver	<br>
 Anne	Peters	<br>
 Jerry	Pinsker	<br>
 Marilyn	Pinsker	<br>
@@ -169,14 +183,20 @@ Danica	Powell	<br>
 Chris 	Robins	<br>
 Amir	Ronen	<br>
 Shari	Roth	<br>
+Jen	Schreiber	<br>
 Edina	Segal, Jewish Colorado	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
+Joel 	Smith	<br>
 Aza	Squarer	<br>
 Ron	Squarer	<br>
 Charlie	Stein	<br>
 Tim	Thomas	<br>
+Scott 	Thomas	<br>
 Nancy	Travis	<br>
 Tami	Turczyn 	<br>
+John	Wesley	<br>
+Howard	Witkin	<br>
+Patty	Witkin	<br>
 Richie	Zietz	<br>
 Roz	Zietz	<br>

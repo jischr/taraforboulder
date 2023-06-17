@@ -28,6 +28,11 @@ Rachel Friend, Boulder City Council
 
 <br>
 
+Matt Benjamin, Boulder City Council
+> I am excited to endore my council colleague and friend Tara Winer because she has the tenacity to leave no stone unturned.  She actively seeks ways for council to find a middle ground when council is split on an issue. In our short time on council Tara has grown tremendously as a leader and deservies another term in serving our community.
+
+<br>
+
 Jen Livovich
 > Tara Winer has the kind of leadership Boulder needs- Community centered and responsive to all.
 
@@ -35,3 +40,18 @@ Jen Livovich
 
 Gordon Riggle, Former Boulder City Council
 > I’m grateful for her sensible leadership on council.
+
+<br>
+
+Sonia Bendt
+> Dedicated to safety. Safety is important. I love the fact that Tara  focuses on safety as one of her goals. Security for Boulder residents and businesses is important. To be safe physically, emotionally and environmentally impacts everyone in Boulder. Vote for Tara!
+
+<br>
+
+Sarah Friend
+> Tara is a bridge builder. She doesn't see politics, she sees people.
+
+<br>
+
+Doug Bendt
+> Tara is a dedicated public servant, committed to making Boulder a better place to live. She has already made a difference in her first two years on the City Council. I can't wait to see what she will do in her next four years.
