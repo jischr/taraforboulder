@@ -21,8 +21,7 @@
         <button type="button" class="btn-close text-reset me-2" data-bs-dismiss="offcanvas" aria-label="Close main menu"></button>
       </div>
       <div class="offcanvas-body px-4">
-        <h3 class="mb-3 d-md-none">Main</h3>
-        <ul class="nav flex-column flex-md-row ms-md-n3 align-items-center">
+        <ul class="nav flex-column flex-md-row ms-md-n3">
           
           <li class="nav-item"><a class="nav-link ps-0 py-1" href="{{ "/" | relURL }}">
             {{ $image := resources.GetMatch "/images/logo-tw.png" }}
@@ -44,7 +43,7 @@
             </li>
           {{ end -}}
         </ul>
-        <ul class="nav flex-column flex-md-row ms-md-auto me-md-n5 pe-md-2 align-items-center">
+        <ul class="nav flex-column flex-md-row ms-md-auto me-md-n5 pe-md-2">
           {{ range .Site.Menus.social -}}
             <li class="nav-item">
               <a class="nav-link ps-0 py-1" href="{{ .URL | relURL }}">{{ .Pre | safeHTML }}<small class="ms-2 d-md-none">{{ .Name | safeHTML }}</small></a>
