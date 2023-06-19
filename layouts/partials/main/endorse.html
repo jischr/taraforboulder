@@ -9,8 +9,16 @@
         </div>
         <div class="col">
           <h3 class="h4 card-title">Endorse Tara Winer for Boulder City Council</h3>
-          <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust.  If you are not already listed as a supporter and you would like to become an endorser, click below.</p>
-          <p class="mb-0 mt-4"><a class="btn btn-dark px-3 mb-2" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Become an Endorser</a></p>
+          <div class="mb-4 mt-4">
+            {{ if (or (and (isset .Params "title") (eq .Params.title "Hear What People are Saying")) (.IsHome)) }}
+            <a class="btn btn-dark px-3 mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
+            {{ end }}
+            {{ if (and (isset .Params "title") (eq .Params.title "Tara's Endorsers"))}}
+            <a class="btn btn-dark px-3 mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
+            {{ end }}
+            <a class="btn btn-dark text-orange mb-2 mx-1 " target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara</a>
+          </div>
+          <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara today.</a></p>
         </div>
       </div>
     </div>

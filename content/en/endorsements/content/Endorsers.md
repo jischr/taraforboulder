@@ -13,6 +13,10 @@ menu:
 weight: 150
 toc: true
 ---
+
+To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
+___
+
 ### Endorsements by Elected Officials
 
 **Judy Amabile**  
@@ -200,3 +204,5 @@ Howard	Witkin	<br>
 Patty	Witkin	<br>
 Richie	Zietz	<br>
 Roz	Zietz	<br>
+
+To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
