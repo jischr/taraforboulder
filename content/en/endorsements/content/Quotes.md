@@ -29,6 +29,11 @@ Junie Joseph, Colorado State Representative HD10 & Boulder City Council
 
 <br>
 
+Ashley Stolzmann, Boulder County Commissioner
+> Councilmember Winer is a tireless advocate for the Boulder community. She is a collborator, problem solver, and excellent partner.
+
+<br>
+
 Rachel Friend, Boulder City Council
 > It’s been a joy to serve with Tara, and I am happy to endorse her for re-election. She is working tirelessly for all who live in our community, and we would be silly not to bring her back for 4 more years!
 
@@ -36,6 +41,11 @@ Rachel Friend, Boulder City Council
 
 Matt Benjamin, Boulder City Council
 > I am excited to endore my council colleague and friend Tara Winer because she has the tenacity to leave no stone unturned.  She actively seeks ways for council to find a middle ground when council is split on an issue. In our short time on council Tara has grown tremendously as a leader and deservies another term in serving our community.
+
+<br>
+
+Mark Wallach, Boulder City Council
+> There are a few qualities that go into being a successful member of the Boulder City Council. You need to have a capacity for work – a lot of it; you need to be able to work effectively with your colleagues; and you need to have a clear set of values. Tara checks all of these boxes. She also has a passion for improving the lives of those who live in Boulder, no matter their ethnic background, economic status or sexual orientation. Improving lives is the primary function of any elected official. That is her mission and that is why I am happy to endorse Tara for reelection.
 
 <br>
 
