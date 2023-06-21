@@ -30,7 +30,7 @@ Junie Joseph, Colorado State Representative HD10 & Boulder City Council
 <br>
 
 Ashley Stolzmann, Boulder County Commissioner
-> Councilmember Winer is a tireless advocate for the Boulder community. She is a collborator, problem solver, and excellent partner.
+> Councilmember Winer is a tireless advocate for the Boulder community. She is a collaborator, problem solver, and excellent partner.
 
 <br>
 

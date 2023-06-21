@@ -46,14 +46,16 @@ CU Regent
 
 ### Endorsements by Former Elected Officials
 
-**Leslie Durgin**  
-Former Boulder Mayor
+
 
 **Susan Osborne**  
 Former Boulder Mayor
 
 **Sam Weaver**  
 Former Boulder Mayor
+
+**Leslie Durgin**  
+Former Boulder Mayor Pro Tem
 
 **Lisa Morzel**  
 Former Boulder Mayor Pro Tem
