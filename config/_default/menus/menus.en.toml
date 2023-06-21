@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Contact"
-  url = "/contact/"
+  url = "https://forms.gle/NkJo5bzddj8UHzCn6"
   weight = 60
 
 [[social]]
