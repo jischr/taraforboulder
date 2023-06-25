@@ -32,6 +32,7 @@
           </a></li>
           {{- $current := . -}}
           {{ range .Site.Menus.main -}}
+            {{- $externalLink := eq .Name "Contribute"}}
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Docs") (eq $current.Section "docs")) -}}
@@ -39,7 +40,7 @@
             {{- $active = or $active (and (eq .Name "Showcase") (eq $current.Section "showcase")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "authors")) -}}
             <li class="nav-item">
-              <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a>
+              <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}" target="{{if $externalLink}}_blank{{end}}">{{ .Name }}</a>
             </li>
           {{ end -}}
         </ul>
