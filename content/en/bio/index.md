@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "About Me"
 description: "Learn a little about me."
 date: 2020-10-06T08:49:55+00:00
 lastmod: 2020-10-06T08:49:55+00:00
@@ -19,6 +19,6 @@ Jen and her husband live in East Boulder, Stephanie, her husband, and my grandda
 
 I am passionate about the outdoors and can be found riding my electric bike through Boulder’s many bike paths and hiking with my family and friends on Boulder’s trails and the Indian Peaks Wilderness.
 
-{{< figure src="Tara_Kids.jpg" alt="Tara with Daughters and Granddaugher" caption="My daughters, Lexi, Stephanie, and Jen, and granddaughter Shira" >}}
+{{< figure src="Tara_Grandkids.png" alt="Tara with Grandchildren" caption="My grandchildren, Lilah, Orli, and Shira" >}}
 
 {{< figure src="Tara_Robert.jpg" alt="Tara with Husband Robert" caption="My husband Robert and me" >}}
