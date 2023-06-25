@@ -1,6 +1,6 @@
-<footer class="footer text-muted">
+<footer class="footer">
   <div class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }}">
-    <div class="row">
+    <div class="row text-muted">
       <p class="md__image text-center">
         {{ $image := resources.GetMatch "/images/logo-tw.png" }}
         {{ $image := $image.Resize "250x" }}
@@ -9,7 +9,14 @@
         {{ end }}
       </p>      
     </div>
-    <div class="row">
+    <div class="row text-center">
+      <div class="col">
+        <hr>
+        <a class="btn btn-orange btn-lg px-3 my-2 mx-1 text-white" target="_blank" href="https://forms.gle/NkJo5bzddj8UHzCn6">Contact</a>
+        <a class="btn btn-orange btn-lg px-3 my-2 mx-1 text-white" target="_blank" href="https://linktr.ee/taraforboulder">Get Involved</a>
+      </div>
+    </div>
+    <div class="row text-muted">
       <div class="col-lg-8 order-last order-lg-first">
         <ul class="list-inline">
           <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
@@ -22,7 +29,6 @@
           {{ end -}}
         </ul>
       </div>
-   
     </div>
   </div>
 </footer>

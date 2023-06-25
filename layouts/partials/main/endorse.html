@@ -11,12 +11,12 @@
           <h3 class="h4 card-title">Endorse Tara Winer for Boulder City Council</h3>
           <div class="mb-4 mt-4">
             {{ if (or (and (isset .Params "title") (eq .Params.title "Hear What People are Saying")) (.IsHome)) }}
-            <a class="btn btn-dark px-3 mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
+            <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
             {{ end }}
             {{ if (and (isset .Params "title") (eq .Params.title "Tara's Endorsers"))}}
-            <a class="btn btn-dark px-3 mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
+            <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
             {{ end }}
-            <a class="btn btn-dark text-orange mb-2 mx-1 " target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara</a>
+            <a class="btn btn-dark mb-2 mx-1 " target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara</a>
           </div>
           <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara today.</a></p>
         </div>

@@ -1,0 +1,18 @@
+<div class="card endorse">
+    <div class="card-bar"></div>
+    <div class="card-body home">
+      <div class="row align-items-center">
+
+        <div class="col">
+          <h3 class="h4 card-title">Request a Yard Sign</h3>
+          <p class="card-text">If you live or work in Boulder and you are willing to post a yard sign, click below to send us your request. We will be delivering yard signs in August.</p>
+          <a class="btn btn-dark text-orange mb-2 mx-1 " target="_blank" href="https://forms.gle/DWWN9DLst6CPba118">Get a Sign</a>
+        </div>
+        <div class="col-md-6 col-sm-12 mt-2">
+          {{ with resources.Get "/images/yardsign.png" }}
+            <img style="vertical-align:middle" src="{{ .RelPermalink }}" width="75%" alt="Tara Winer extending arm out to the mountains">
+          {{ end }}
+        </div>
+      </div>
+    </div>
+</div>
