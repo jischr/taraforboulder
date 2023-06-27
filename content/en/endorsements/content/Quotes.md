@@ -72,6 +72,25 @@ Sarah Friend
 Doug Bendt
 > Tara is a dedicated public servant, committed to making Boulder a better place to live. She has already made a difference in her first two years on the City Council. I can't wait to see what she will do in her next four years.  
 
+<br>
+
+Annie Fox
+> Tara is a dedicated member of the community with an ability to hear all sides of an issue and see reason.
+
+<br>
+
+Ryan Lapham
+> A voice of reason.
+
+<br>
+
+Sarah Mitton
+> A valuable member of Council to work towards Boulder's future.
+
+<br>
+
+Stuart Walker
+> Hyperbole aside, we are at a critical juncture in Boulder.  We desperately need reasonable and responsible representation on City Council, and can count on Tara to provide the leadership that Boulder needs.
 
 <br>
 

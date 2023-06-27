@@ -46,7 +46,8 @@ CU Regent
 
 ### Endorsements by Former Elected Officials
 
-
+**Edie Hooton**   
+Former State Representative
 
 **Susan Osborne**  
 Former Boulder Mayor
@@ -143,12 +144,14 @@ Nancy	Blackwood	<br>
 Terri	Brncic	<br>
 Alan 	Caplan	<br>
 Russ	Chandler	<br>
+Leslie 	Chandler	<br>
 Andree, Olivia, and Jack	Christy	<br>
 George	Craft	<br>
 David	Dadone	<br>
 Elaine	Danemiller	<br>
 Colin	Dart	<br>
 Virginia	Dart	<br>
+Colin	Dart	<br>
 David	Davalos	<br>
 Mike	Deskevich	<br>
 Karen	Ditz	<br>
@@ -157,6 +160,7 @@ Shari	Edelstein	<br>
 Trish	Emser	<br>
 Stuart	Feinhor	<br>
 Eli	Feldman	<br>
+Annie	Fox	<br>
 Sarah	Friend	<br>
 Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
@@ -167,8 +171,10 @@ Liz	Hanson	<br>
 John	Harris	<br>
 Elaine	Harris	<br>
 Brooke	Harrison	<br>
+Jim	Hooton	<br>
 Zach	Hunter	<br>
 Nancy	Kornblum	<br>
+Ryan	Lapham	<br>
 Tamar	Larsen	<br>
 Margaret	Lazar	<br>
 Lois 	Linsky	<br>
@@ -177,10 +183,16 @@ Jen	Livovich	<br>
 Maryann 	Mahoney	<br>
 Julie	Marshall,  Former Daily Camera Opinion Editor	<br>
 Lyra	Mayfield	<br>
+Liam	McClintock	<br>
+Ty	Melton	<br>
 Andrea	Meneghel	<br>
 Andrea	Mengehal	<br>
+Sarah	Mitton	<br>
+Jeff	Mitton	<br>
 Robin	Noble	<br>
 Jill	Oliver	<br>
+Dennis	Paul	<br>
+Debra	Paul	<br>
 Anne	Peters	<br>
 Jerry	Pinsker	<br>
 Marilyn	Pinsker	<br>
@@ -189,6 +201,7 @@ Danica	Powell	<br>
 Chris 	Robins	<br>
 Amir	Ronen	<br>
 Shari	Roth	<br>
+Paul	Sattizahn	<br>
 Jen	Schreiber	<br>
 Edina	Segal, Jewish Colorado	<br>
 Jackie	Seltzer	<br>
@@ -197,10 +210,14 @@ Joel 	Smith	<br>
 Aza	Squarer	<br>
 Ron	Squarer	<br>
 Charlie	Stein	<br>
+Eric	Swanson	<br>
 Tim	Thomas	<br>
 Scott 	Thomas	<br>
+Jean	Thompson	<br>
+Jack	Thompson	<br>
 Nancy	Travis	<br>
 Tami	Turczyn 	<br>
+Stuart	Walker	<br>
 John	Wesley	<br>
 Howard	Witkin	<br>
 Patty	Witkin	<br>
