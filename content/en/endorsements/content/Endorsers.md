@@ -220,7 +220,5 @@ Stuart	Walker	<br>
 John	Wesley	<br>
 Howard	Witkin	<br>
 Patty	Witkin	<br>
-Richie	Zietz	<br>
-Roz	Zietz	<br>
 
 To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
