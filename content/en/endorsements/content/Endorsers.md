@@ -62,12 +62,21 @@ Former Boulder Mayor Pro Tem
 Former Boulder Mayor Pro Tem
 
 **Crystal Gray**  
-Former Deputy Mayor
+Former Boulder Deputy Mayor
 
 **George Karakehian**  
-Former Deputy Mayor
+Former Boulder Deputy Mayor
+
+**Jan	Burton**  
+Former Boulder City Council Member
+
+**Macon	Cowles**  
+Former Boulder City Council Member
 
 **Allyn Feinberg**  
+Former Boulder City Council Member
+
+**Steve Pomerance**  
 Former Boulder City Council Member
 
 **Gordon Riggle**  
@@ -77,7 +86,7 @@ Former Boulder City Council Member
 Former Boulder City Council Member
 
 **Mary Young**  
-Former Boulder City Council
+Former Boulder City Council Member
 
 ### Endorsements by Board & Commission Members
 
@@ -86,6 +95,9 @@ Parks & Recreation Advisory Board
 
 **Jason Unger**  
 Parks & Recreation Advisory Board 
+
+**Jorge Boone**  
+City of Boulder Planning Board
 
 **Benita Duran**  
 Boulder Public Library District Trustee
@@ -126,8 +138,11 @@ Colorado Chautauqua Association Board of Directors
 **Stephanie Rudy**  
 Downtown Boulder Community Initiatives (DCBI) Board
 
+**Sean Maher**  
+Former CEO of the Downtown Boulder Partnership
+
 **John Spitzer**  
-Former Planning Board Member
+Former Boulder Planning Board Member
 
 **Tina Marquis**  
 Former BVSD Board Member
