@@ -216,7 +216,7 @@ Lyra	Mayfield	<br>
 Liam	McClintock	<br>
 Ty	Melton	<br>
 Andrea	Meneghel	<br>
-Sarah	Mitton	<br>
+Sara	Mitton	<br>
 Jeff	Mitton	<br>
 Richard	Monje	<br>
 Joan	Nagel	<br>
