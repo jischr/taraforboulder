@@ -20,7 +20,7 @@
 {{ partial "sidebar/quote.html" . }}
 <section class="bg-green h-100">
   <div class="d-flex">
-    <div class="p-2 px-0 py-0" style="width: 130%;">
+    <div class="p-2 px-0 py-0" style="width: 110%;">
       {{ $image := resources.GetMatch "images/flowers.jpeg" }}
       {{ with $image }}
       <div class="h-100 bg-image"
@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="p-2 flex-shrink-1">
-      <div class="w-75 align-items-center mx-auto text-white no-gutters">
+      <div class="w-75 align-items-center mx-auto no-gutters">
         <div class="row flex-grow-1 py-3">
           <h2>___</h2>
           <h2 class="text-uppercase mb-0"><b>On the Issues</b></h2>
@@ -44,7 +44,7 @@
             <li>Improving community engagement</li>
             <li>Enhancing fire and flood preparedness and mitigation</li>
           </ul>
-          <p class="mb-0 mt-4"><a class="btn btn-light px-3 mb-3" href="{{ "issues/content/economicvitality" | relURL }}" role="button">Learn More</a></p>
+          <p class="mb-0 mt-4"><a class="btn btn-dark px-3 mb-3" href="{{ "issues/content/economicvitality" | relURL }}" role="button">Learn More</a></p>
         </div>
       </div>
     </div>
