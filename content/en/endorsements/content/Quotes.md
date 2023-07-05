@@ -48,12 +48,12 @@ Rachel Friend, Boulder City Council
 Mark Wallach, Boulder City Council
 > There are a few qualities that go into being a successful member of the Boulder City Council. You need to have a capacity for work – a lot of it; you need to be able to work effectively with your colleagues; and you need to have a clear set of values. Tara checks all of these boxes. She also has a passion for improving the lives of those who live in Boulder, no matter their ethnic background, economic status or sexual orientation. Improving lives is the primary function of any elected official. That is her mission and that is why I am happy to endorse Tara for reelection.
 
-### Board & Commision Members
+### Board & Commission Members
 
 Trudy	Turvey, Colorado Chautauqua Association Board of Directors
 >	I have worked with Tara on another board and found her to be straightforward, willing to speak about difficult issues and dedicated to finding solutions for the good of the organization.
 
-### Former Electeds, Board, & Commision Members
+### Former Electeds, Board, & Commission Members
 
 Sam	Weaver, Former Boulder Mayor
 > Tara is an outstanding community leader because she is a great listener. Tara’s work on Council combines pragmatism and compassion to build a Boulder that is supportive and safe for families of all backgrounds and businesses of all types. I’m an enthusiastic supporter of Tara Winer for Boulder City Council.
