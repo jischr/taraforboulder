@@ -19,6 +19,9 @@ ___
 
 ### Endorsements by Elected Officials
 
+**Steve	Fenberg**  
+Colorado Senate President
+
 **Judy Amabile**  
 Colorado State Representation HD49
 
@@ -135,6 +138,9 @@ Colorado Chautauqua Association Board of Directors
 **Pat Shanks**  
 Colorado Chautauqua Association Board of Directors
 
+**Peter Speer**  
+Colorado Chautauqua Association Board of Directors
+
 **Stephanie Rudy**  
 Downtown Boulder Community Initiatives (DCBI) Board
 
@@ -147,11 +153,16 @@ Former Boulder Planning Board Member
 **Tina Marquis**  
 Former BVSD Board Member
 
+**Pam	Yugar**  
+Former Chair, Parks & Recreation Advisory Board
+
 ### Endorsers in Our Community
 Cindy	Agnes	<br>
 Gerry 	Agnes	<br>
 Daniel	Aizenman	<br>
-Meghan	Bach	<br>
+Andy 	Allison	<br>
+Siga	Andrew	<br>
+Meghan	Bach 	<br>
 Jennifer	Banyan	<br>
 Doug	Bendt	<br>
 Sonia 	Bendt	<br>
@@ -177,12 +188,15 @@ Karen	Ditz	<br>
 Itai	Divinsky, Jewish Colorado	<br>
 Roz	Dorf	<br>
 Shari	Edelstein	<br>
+Dan	Elliott	<br>
 Mary 	Ellis 	<br>
 John 	Ellis 	<br>
 Trish	Emser	<br>
+Janos	Englander	<br>
 Stuart	Feinhor	<br>
 Eli	Feldman	<br>
 Jeffrey	Flynn	<br>
+Nick	Forster	<br>
 Annie	Fox	<br>
 Liz	Fox	<br>
 Sid	Fox	<br>
@@ -190,6 +204,7 @@ Sarah	Friend	<br>
 Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
 Mary	Girard	<br>
+Paula	Glinkman	<br>
 Jill	Grano	<br>
 Stephanie 	Greenberg	<br>
 Liz	Hanson	<br>
@@ -202,6 +217,7 @@ Zach 	Hunter	<br>
 Nina	Judd	<br>
 Terry	Keatley	<br>
 Nancy	Kornblum	<br>
+Ellen	Kort	<br>
 Ryan	Lapham	<br>
 Tamar	Larsen	<br>
 Margaret	Lazar	<br>
@@ -212,6 +228,8 @@ Jen	Livovich	<br>
 Sean	Maher	<br>
 Maryann 	Mahoney	<br>
 Julie	Marshall	<br>
+Mandi	Mateer	<br>
+Peter	Mayer	<br>
 Lyra	Mayfield	<br>
 Liam	McClintock	<br>
 Ty	Melton	<br>
@@ -219,8 +237,10 @@ Andrea	Meneghel	<br>
 Sara	Mitton	<br>
 Jeff	Mitton	<br>
 Richard	Monje	<br>
+Estere	Morris	<br>
 Joan	Nagel	<br>
 Robin	Noble	<br>
+Fern	O'Brien	<br>
 Jill	Oliver	<br>
 Justin	Olson	<br>
 Dennis	Paul	<br>
@@ -231,10 +251,14 @@ Marilyn	Pinsker	<br>
 Jerry	Pinsker	<br>
 Jennifer	Polk Robins	<br>
 Danica	Powell	<br>
+Bev	Progreba	<br>
+Dawn	Reinfeld	<br>
+Jennifer	Rhodes	<br>
 Chris 	Robins	<br>
 Amir	Ronen	<br>
 Marci	Rosenthal	<br>
 Shari	Roth	<br>
+Diz	Rotta	<br>
 Shelley	Russell	<br>
 Karen	Sandburg	<br>
 Peggy	Sands	<br>
@@ -245,9 +269,12 @@ Jann	Scott	<br>
 Edina	Segal, Jewish Colorado	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
+Bruce 	Shaffer	<br>
+David	Shomper	<br>
 Joel 	Smith	<br>
 Aza	Squarer	<br>
 Ron	Squarer	<br>
+Wyatt	Stack	<br>
 Charlie	Stein	<br>
 Eric	Swanson	<br>
 Tim	Thomas	<br>
@@ -256,6 +283,7 @@ Jean	Thompson	<br>
 Jack	Thompson	<br>
 Nancy	Travis	<br>
 Tami	Turczyn 	<br>
+Jud	Valeski	<br>
 Jill	Vidas	<br>
 Stuart	Walker	<br>
 John	Wesley	<br>
