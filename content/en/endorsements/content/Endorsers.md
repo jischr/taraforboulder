@@ -79,6 +79,9 @@ Former Boulder City Council Member
 **Allyn Feinberg**  
 Former Boulder City Council Member
 
+**Jill Grano**  
+Former Boulder City Council Member
+
 **Steve Pomerance**  
 Former Boulder City Council Member
 
@@ -205,7 +208,6 @@ Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
 Mary	Girard	<br>
 Paula	Glinkman	<br>
-Jill	Grano	<br>
 Stephanie 	Greenberg	<br>
 Liz	Hanson	<br>
 John	Harris	<br>
