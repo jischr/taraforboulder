@@ -101,6 +101,11 @@ Meghan Bach
 
 <br>
 
+Peter Barlerin
+> Tara stands for all the things important to our community, including sensible development, safety and security, compassion for those less fortunate, and local solutions to the challenges of a changing climate and environment.
+
+<br>
+
 Doug Bendt
 > Tara is a dedicated public servant, committed to making Boulder a better place to live. She has already made a difference in her first two years on the City Council. I can't wai t to see what she will do in her next four years.
 
@@ -111,6 +116,11 @@ Sonia Bendt
 
 <br>
 
+Shelly Bobbins
+> Asks pertinent questions and is concerned about tenants and problems in affordable housing
+
+<br>
+
 Betty	Devine
 > I endorse Tara because she truly cares about Boulder and all of the various populations who live here. She is very interested and extremely helpful to residents in Affordable Housing. She is interested in the people who live here, their daily struggles, and most of all - she wants to serve - and help - those who need it.  She is a sparkling representative of caring humanity.  Please vote for Tara!
 
@@ -118,6 +128,11 @@ Betty	Devine
 
 Roz Dorf
 > I think Tara's views on issues are important for the City of Boulder.
+
+<br>
+
+Chris Drummond
+> I endorse Tara Winer for re-election to Boulder City Council. Tara has been an asset on the City Council and has advocated for safety and crime reduction. Her approach to these important issues has not only been proactive and pragmatic but also humane. I have been working on solutions to Boulder’s encampment issue since last October and Tara has been much more responsive and constructive in helping to solve this issue. She is also effective at working with and compromising with other City Council members on important issues which is particularly effective in today’s divisive environment. I am confident that if we had 9 Taras' on the City Council we could quickly solve some of Boulder’s most pressing issues like safety, crime reduction, encampments, housing, etc. I would strongly encourage you to vote for Tara to keep Boulder a great place to live.
 
 <br>
 
@@ -171,6 +186,11 @@ Jen Livovich
 
 <br>
 
+Lyra Mayfield
+> She represents my values, is thoughtful and accessible, and is able to work well with all other Council members.
+
+<br>
+
 Sara Mitton
 > A valuable member of Council to work towards Boulder's future.
 
@@ -193,6 +213,16 @@ Tom	Phillips
 
 Jerry	Pinsker
 > She is doing a great job
+
+<br>
+
+Bev Pogreba
+> Tara always approaches issues from a fair & balanced point of view. Boulder has greatly benefited from Tara on city council.
+
+<br>
+
+Rabbi Charna Rosenholtz
+> Tara's thoughtful leadership continues to include partnership building, looking at an issue from multiple points of view, and deep curiosity about how policies effect and impact real people. She is the kind of leader that inspires and gets things done.
 
 <br>
 
@@ -226,6 +256,16 @@ David Shomper
 
 <br>
 
+Douglas Sparks
+> Tara is thoughtful and considered in her positions and is practical in examining issues while equally values driven.
+
+<br>
+
+Valerie Stoyva
+> I do think a candidate who tries to occupy the middle ground is valuable in this day and age.
+
+<br>
+
 Jill Vidas
 > Tara cares about the safety of our town
 
@@ -233,6 +273,11 @@ Jill Vidas
 
 Stuart Walker
 > Hyperbole aside, we are at a critical juncture in Boulder.  We desperately need reasonable and responsible representation on City Council, and can count on Tara to provide the leadership that Boulder needs.
+
+<br>
+
+Michael Whelan
+> For putting public safety in our public spaces first, for understanding that social/economic health hinges on public security, for valuing the decades of hard-fought efforts for environmental conservation to acquire these public parks. For standing up against property crimes. For valuing walkability and public access as a heart of what makes Boulder unique.
 
 <br>
 

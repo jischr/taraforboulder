@@ -167,16 +167,22 @@ Andy 	Allison	<br>
 Siga	Andrew	<br>
 Meghan	Bach 	<br>
 Jennifer	Banyan	<br>
+Peter	Barlerin	<br>
 Doug	Bendt	<br>
 Sonia 	Bendt	<br>
 Renee	Beshures	<br>
 Matt	Bissonette	<br>
 Nancy	Blackwood	<br>
+Shelly	Bobbins	<br>
 Terri	Brncic	<br>
 Alan 	Caplan	<br>
 Russ	Chandler	<br>
 Leslie	Chandler	<br>
+Jonathan	Chernoff	<br>
+Debbie	Chernoff	<br>
 Andree, Olivia, and Jack	Christy	<br>
+Madelyn	Clair	<br>
+Rachel	Clair	<br>
 Sarah-Jane	Cohen	<br>
 Bill 	Cohen	<br>
 George	Craft	<br>
@@ -188,8 +194,9 @@ David	Davalos	<br>
 Mike	Deskevich	<br>
 Betty	Devine	<br>
 Karen	Ditz	<br>
-Itai	Divinsky, Jewish Colorado	<br>
+Itai	Divinsky	<br>
 Roz	Dorf	<br>
+Chris	Drummond	<br>
 Shari	Edelstein	<br>
 Dan	Elliott	<br>
 Mary 	Ellis 	<br>
@@ -198,6 +205,7 @@ Trish	Emser	<br>
 Janos	Englander	<br>
 Stuart	Feinhor	<br>
 Eli	Feldman	<br>
+Paul	Ferris	<br>
 Jeffrey	Flynn	<br>
 Nick	Forster	<br>
 Annie	Fox	<br>
@@ -227,6 +235,7 @@ Beth	Lesniak	<br>
 Lois 	Linsky	<br>
 Jan	Liverance	<br>
 Jen	Livovich	<br>
+Steve	Lynton	<br>
 Sean	Maher	<br>
 Maryann 	Mahoney	<br>
 Julie	Marshall	<br>
@@ -238,6 +247,7 @@ Ty	Melton	<br>
 Andrea	Meneghel	<br>
 Sara	Mitton	<br>
 Jeff	Mitton	<br>
+Tara 	Mohr	<br>
 Richard	Monje	<br>
 Estere	Morris	<br>
 Joan	Nagel	<br>
@@ -248,9 +258,11 @@ Justin	Olson	<br>
 Dennis	Paul	<br>
 Debra	Paul	<br>
 Anne 	Peters	<br>
+Roxanne	Peterson	<br>
 Tom	Phillips	<br>
 Marilyn	Pinsker	<br>
 Jerry	Pinsker	<br>
+Bev	Pogreba	<br>
 Jennifer	Polk Robins	<br>
 Danica	Powell	<br>
 Bev	Progreba	<br>
@@ -258,6 +270,7 @@ Dawn	Reinfeld	<br>
 Jennifer	Rhodes	<br>
 Chris 	Robins	<br>
 Amir	Ronen	<br>
+Rabbi Charna	Rosenholtz	<br>
 Marci	Rosenthal	<br>
 Shari	Roth	<br>
 Diz	Rotta	<br>
@@ -265,31 +278,43 @@ Shelley	Russell	<br>
 Karen	Sandburg	<br>
 Peggy	Sands	<br>
 Paul	Sattizahn	<br>
+Dave	Schell	<br>
 Jen	Schreiber	<br>
+Matt	Schreiber	<br>
 Michael	Schreiner	<br>
 Jann	Scott	<br>
-Edina	Segal, Jewish Colorado	<br>
+Edina	Segal	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
 Bruce 	Shaffer	<br>
 David	Shomper	<br>
 Joel 	Smith	<br>
+Joel	Smith	<br>
+Douglas	Sparks	<br>
+Stephen	Sparn	<br>
 Aza	Squarer	<br>
 Ron	Squarer	<br>
 Wyatt	Stack	<br>
 Charlie	Stein	<br>
+Valerie	Stoyva	<br>
+Mark	Strynar	<br>
+Mary	Strynar	<br>
 Eric	Swanson	<br>
 Tim	Thomas	<br>
 Scott 	Thomas	<br>
 Jean	Thompson	<br>
 Jack	Thompson	<br>
 Nancy	Travis	<br>
+Andrew	Trees	<br>
 Tami	Turczyn 	<br>
 Jud	Valeski	<br>
 Jill	Vidas	<br>
 Stuart	Walker	<br>
 John	Wesley	<br>
+Michael	Whelan	<br>
 Howard	Witkin	<br>
 Patty	Witkin	<br>
+Val 	Yates	<br>
+Joan	Zimmermann	<br>
 
 To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
