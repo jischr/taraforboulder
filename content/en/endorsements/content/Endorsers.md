@@ -79,9 +79,6 @@ Former Boulder City Council Member
 **Allyn Feinberg**  
 Former Boulder City Council Member
 
-**Jill Grano**  
-Former Boulder City Council Member
-
 **Steve Pomerance**  
 Former Boulder City Council Member
 
