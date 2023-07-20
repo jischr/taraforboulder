@@ -112,12 +112,22 @@ Doug Bendt
 <br>
 
 Sonia Bendt
-> Dedicated to safety. Safety is important. I love the fact that Tara  focuses on safety as one of her goals. Security for Boulder residents and businesses is important. To be safe physically, emotionally and environmentally impacts everyone in Boulder. Vote for Tara!
+> Dedicated to safety. Safety is important. I love the fact that Tara focuses on safety as one of her goals. Security for Boulder residents and businesses is important. To be safe physically, emotionally and environmentally impacts everyone in Boulder. Vote for Tara!
 
 <br>
 
 Shelly Bobbins
 > Asks pertinent questions and is concerned about tenants and problems in affordable housing
+
+<br>
+
+Debra Chernoff
+> Tara cares deeply about Boulder as a city and community. She’s not only smart but also  brings a lot of wisdom to the table.
+
+<br>
+
+David	Dadone
+> Tara not only cares for what is important to our community but she authentically cares about arts and culture for the City of Boulder.
 
 <br>
 
@@ -153,6 +163,11 @@ Liz Fox
 
 Sid Fox
 > Tara has worked tirelessly to ensure that Boulder is a safe, welcoming and economically viable place to live. She is open, passionate and a team player. She has proven to be a wonderful city council member and should be reelected.
+
+<br>
+
+Carla	Graubard
+> Tara has the practical vision to understand what Boulder needs NOW & the ability to rally the troops to get it done.
 
 <br>
 

@@ -141,6 +141,9 @@ Colorado Chautauqua Association Board of Directors
 **Peter Speer**  
 Colorado Chautauqua Association Board of Directors
 
+**Star Waring**  
+Colorado Chautauqua Association Board of Directors
+
 **Stephanie Rudy**  
 Downtown Boulder Community Initiatives (DCBI) Board
 
@@ -165,8 +168,10 @@ Siga	Andrew	<br>
 Meghan	Bach 	<br>
 Jennifer	Banyan	<br>
 Peter	Barlerin	<br>
+Len	Barron	<br>
 Doug	Bendt	<br>
 Sonia 	Bendt	<br>
+Marina	Bernstein	<br>
 Renee	Beshures	<br>
 Matt	Bissonette	<br>
 Nancy	Blackwood	<br>
@@ -176,12 +181,13 @@ Alan 	Caplan	<br>
 Russ	Chandler	<br>
 Leslie	Chandler	<br>
 Jonathan	Chernoff	<br>
-Debbie	Chernoff	<br>
+Debra	Chernoff	<br>
 Andree, Olivia, and Jack	Christy	<br>
 Madelyn	Clair	<br>
 Rachel	Clair	<br>
 Sarah-Jane	Cohen	<br>
 Bill 	Cohen	<br>
+Sandi	Collins	<br>
 George	Craft	<br>
 David	Dadone	<br>
 Elaine	Danemiller	<br>
@@ -193,6 +199,7 @@ Betty	Devine	<br>
 Karen	Ditz	<br>
 Itai	Divinsky	<br>
 Roz	Dorf	<br>
+Brian	Draves	<br>
 Chris	Drummond	<br>
 Shari	Edelstein	<br>
 Dan	Elliott	<br>
@@ -213,6 +220,7 @@ Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
 Mary	Girard	<br>
 Paula	Glinkman	<br>
+Carla	Graubard	<br>
 Stephanie 	Greenberg	<br>
 Liz	Hanson	<br>
 John	Harris	<br>
@@ -271,6 +279,7 @@ Rabbi Charna	Rosenholtz	<br>
 Marci	Rosenthal	<br>
 Shari	Roth	<br>
 Diz	Rotta	<br>
+Daphna	Rubin	<br>
 Shelley	Russell	<br>
 Karen	Sandburg	<br>
 Peggy	Sands	<br>
@@ -283,6 +292,7 @@ Jann	Scott	<br>
 Edina	Segal	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
+Amanda	Sfeir 	<br>
 Bruce 	Shaffer	<br>
 David	Shomper	<br>
 Joel 	Smith	<br>
