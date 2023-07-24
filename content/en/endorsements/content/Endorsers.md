@@ -288,7 +288,6 @@ Dave	Schell	<br>
 Jen	Schreiber	<br>
 Matt	Schreiber	<br>
 Michael	Schreiner	<br>
-Jann	Scott	<br>
 Edina	Segal	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
