@@ -72,8 +72,8 @@ copyRight = "Copyright (c) 2023 Tara Winer for Council"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Show your support by endorsing Tara for Boulder City Council"
-alertLink = "https://forms.gle/YtJU1AqWsxUQKqnS6"
+alertText = "Show your support and contribute to Tara's re-election campaign"
+alertLink = "https://tarawinerforcouncil.square.site/"
 
 # Edit Page
 repoHost = "GitHub"
