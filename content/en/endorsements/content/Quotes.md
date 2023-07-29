@@ -261,11 +261,6 @@ Michael Schreiner
 
 <br>
 
-Jann Scott
-> Tara is nice to me. She talks to me. She engages. She listens. A rare quality for a public servant
-
-<br>
-
 David Shomper
 > She needs to win to save Boulder.
 
