@@ -246,7 +246,12 @@ Marci	Rosenthal
 
 <br>
 
-Shelley	Russell
+Shari Roth
+> Tara consistently prioritizes public health and safety. She cares, is accessible to ALL community members, and works hard on council to find practical solutions. She understands that everyone should feel safe in their community, and that those struggling with behavioral health issues deserve to be supported with better treatment options.
+
+<br>
+
+Shelley Russell
 > Her work with homelessness. I had the pleasure of walking with her along Boulder Creek and discussing solutions to the issue.
 
 <br>
