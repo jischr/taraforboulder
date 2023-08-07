@@ -216,11 +216,14 @@ Annie	Fox	<br>
 Liz	Fox	<br>
 Sid	Fox	<br>
 Sarah	Friend	<br>
+Ruth	Friend	<br>
+George	Friend	<br>
 Ruhama	Gedamu	<br>
 Kokeb	Gedamu	<br>
 Mary	Girard	<br>
 Paula	Glinkman	<br>
 Carla	Graubard	<br>
+Molly	Greacen	<br>
 Stephanie 	Greenberg	<br>
 Liz	Hanson	<br>
 John	Harris	<br>
@@ -270,7 +273,6 @@ Jerry	Pinsker	<br>
 Bev	Pogreba	<br>
 Jennifer	Polk Robins	<br>
 Danica	Powell	<br>
-Bev	Progreba	<br>
 Dawn	Reinfeld	<br>
 Jennifer	Rhodes	<br>
 Chris 	Robins	<br>
@@ -291,11 +293,13 @@ Michael	Schreiner	<br>
 Edina	Segal	<br>
 Jackie	Seltzer	<br>
 Wayne	Seltzer 	<br>
-Amanda	Sfeir 	<br>
+Amanda	Sfeir	<br>
 Bruce 	Shaffer	<br>
 David	Shomper	<br>
+Sina	Simantob	<br>
 Joel 	Smith	<br>
 Joel	Smith	<br>
+Kerri	Somers	<br>
 Douglas	Sparks	<br>
 Stephen	Sparn	<br>
 Aza	Squarer	<br>
