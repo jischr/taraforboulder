@@ -64,7 +64,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = ""
+footer = "Paid for and authorized by Tara Winer for Council"
 
 # Feed
 copyRight = "Copyright (c) 2023 Tara Winer for Council"
@@ -72,8 +72,8 @@ copyRight = "Copyright (c) 2023 Tara Winer for Council"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Show your support by endorsing Tara for Boulder City Council"
-alertLink = "https://forms.gle/YtJU1AqWsxUQKqnS6"
+alertText = "Show your support and contribute to Tara's re-election campaign"
+alertLink = "https://tarawinerforcouncil.square.site/"
 
 # Edit Page
 repoHost = "GitHub"
