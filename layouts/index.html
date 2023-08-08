@@ -54,26 +54,6 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
- 
-<section class="section section-open-collective ">
-  <div class="container mt-lg-3 mb-lg-3">
-      {{- .Scratch.Set "fillImage" "Center" -}}
-      {{ with resources.Get "/images/trees.png" }}
-      <div class="row justify-content-center align-items-center mx-0 mw-100 h-100"
-          style="background-image: url('{{ .RelPermalink }}');
-              background-repeat: no-repeat;
-              background-position: top right;
-              background-size: 100%;">
-      {{ end }}
-          <div class="col-12">
-              <h1 class="lead pb-3">We need your support.<br/><strong>Contribute today!</strong></h1>
-              <p>Making a contribution is easy and secure. Visit the contribution site to choose from various payment options and support Tara's campaign. If you have any questions or need assistance, <a href="https://forms.gle/NkJo5bzddj8UHzCn6" target="_blank">get in touch here.</a>
-              </p>
-              <p class="mb-0 mt-4 mb-3"><a class="btn btn-dark btn-lg px-3 mb-2" target ="_blank" href="https://tarawinerforcouncil.square.site/" role="button">Contribute</a></p>
-            </div>
-      </div>
-  </div>
-</section>
 
 <section class="section section-sm my-3 justify-content-center container">
   <div class="row justify-content-center">

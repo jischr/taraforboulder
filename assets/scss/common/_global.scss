@@ -220,6 +220,12 @@ body {
   }
 }
 
+@include media-breakpoint-up(md) {
+  .quote-break {
+    display: block;
+  }
+}
+
 .navbar a:hover,
 .navbar a:focus,
 a.btn:hover,
