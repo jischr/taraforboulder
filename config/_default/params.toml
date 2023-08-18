@@ -72,7 +72,7 @@ copyRight = "Copyright (c) 2023 Tara Winer for Council"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Show your support and contribute to Tara's re-election campaign"
+alertText = "Show your support and put up a yard sign. Request one now!"
 alertLink = "https://tarawinerforcouncil.square.site/"
 
 # Edit Page
