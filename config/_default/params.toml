@@ -73,7 +73,7 @@ copyRight = "Copyright (c) 2023 Tara Winer for Council"
 alert = true
 alertDismissable = true
 alertText = "Show your support and put up a yard sign. Request one now!"
-alertLink = "https://tarawinerforcouncil.square.site/"
+alertLink = "https://forms.gle/DWWN9DLst6CPba118"
 
 # Edit Page
 repoHost = "GitHub"

@@ -32,7 +32,7 @@
           </a></li>
           {{- $current := . -}}
           {{ range .Site.Menus.main -}}
-            {{- $externalLink := eq .Name "Contribute"}}
+            {{- $externalLink := eq .Name "Yard Sign"}}
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Docs") (eq $current.Section "docs")) -}}
