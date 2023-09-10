@@ -50,8 +50,18 @@ Mark Wallach, Boulder City Council
 
 ### Board & Commission Members
 
+Charles (Chuck)	Brock, Chair of Parks & Recreation Advisory Board Chair
+> Tara is willing to listen to arguments, weigh them appropriately, and come up with responsive solutions that are based on facts and compassion. Just what Boulder needs on Council!
+
+<br>
+
 Trudy	Turvey, Colorado Chautauqua Association Board of Directors
 >	I have worked with Tara on another board and found her to be straightforward, willing to speak about difficult issues and dedicated to finding solutions for the good of the organization.
+
+<br>
+
+Star Waring, Colorado Chautauqua Association Board of Directors
+> She has the right priorities and will get results.
 
 ### Former Electeds, Board, & Commission Members
 
@@ -121,8 +131,23 @@ Shelly Bobbins
 
 <br>
 
+Kim	Boston
+> Thoughtful governance!
+
+<br>
+
+Betsy	Broder
+> I feel she is extremely capable of bringing both sides of the aisle together.
+
+<br>
+
 Debra Chernoff
-> Tara cares deeply about Boulder as a city and community. She’s not only smart but also  brings a lot of wisdom to the table.
+> Tara cares deeply about Boulder as a city and community. She’s not only smart but also brings a lot of wisdom to the table.
+
+<br>
+
+Macon	Cowles
+> She’s a great listener, works very hard and is optimistic about our future together.
 
 <br>
 
@@ -146,6 +171,16 @@ Chris Drummond
 
 <br>
 
+David	Ensign
+> Tara is a great collaborator, leader, and listener. Everyone who has had the opportunity to work with her has had great thins to say about the experience. Tara should most definitely retain her council seat.
+
+<br>
+
+Jean Friedberg
+> I admire Tara's ability to explore all sides of an issue in depth -- and to explain her reasoning -- before casting a vote.
+
+<br>
+
 Sarah Friend
 > Tara is a bridge builder. She doesn't see politics, she sees people.
 
@@ -166,8 +201,23 @@ Sid Fox
 
 <br>
 
+Ebenezer Gedamu
+> Tara and her husband saved my families life which gave me the opportunities I have. Coming from a difficult situation in Ethiopia, I now have endless potential due to the generosity of Tara. I’ve only known her to have others interests in mind for the two decades I’ve known her.
+
+<br>
+
+Merrill	Glustrom
+> Because Tara is interested in Boulder taking leadership in working for a sustainable environment and taking on the challenge of climate change. Also, Tara is respectful of others and civil discussion. Even if we disagree, Tara believes we can disagree agreeably.
+
+<br>
+
 Carla	Graubard
 > Tara has the practical vision to understand what Boulder needs NOW & the ability to rally the troops to get it done.
+
+<br>
+
+Brent	Grohman
+> Tara is a pragmatic leader that works to improve public safety and quality of life for the citizens of Boulder. She deserves re-election to provide representation for the everyday concerns of voters throughout the city.
 
 <br>
 
@@ -181,8 +231,23 @@ Zach Hunter
 
 <br>
 
+Leeann Hyland
+> Voting for Tara because we need a council who will work toward common sense solutions for providing a safer community for our residents, businesses, and their families.
+
+<br>
+
 Terry	Keatley
 > I am endorsing candidates who are serious about doing something about the encampments and associated crime and lack of safety in Boulder.
+
+<br>
+
+Alexandr Khizver
+> Tara is a pragmatic leader who will protect what we all cherish about Boulder.   She is a huge asset to the city.  I enthusiastically endorse her.
+
+<br>
+
+> Rex	Laceby
+As a proud CU Buff, Boulder High School parent, Volunteer Wildland Firefighter / Technical Rescuer and active member of our Veteran community, I fully endorse Tara as she continues to be a voice of reason, innovation and common sense for Boulder. We need to protect our community and that requires leadership and commitment. Tara is both and more. She is also one of the only council members that actually responds to my emails and calls. We are blessed to have her leadership and commitment to our families, homes, animals and spaces.
 
 <br>
 
@@ -206,6 +271,11 @@ Lyra Mayfield
 
 <br>
 
+Kathleen McCormick
+> Boulder City Council and our community have benefitted from Tara's thoughtful and pragmatic approach to governing. She is solution-oriented and focused on helping direct Boulder toward a more sustainable, resilient, and livable city through her support for more affordable housing options, climate action, bike and pedestrian improvements, solutions for homelessness, and arts and culture to create a safer and more welcoming community.
+
+<br>
+
 Sara Mitton
 > A valuable member of Council to work towards Boulder's future.
 
@@ -213,6 +283,16 @@ Sara Mitton
 
 Richard	Monje
 > She is responsive, responsible, and fair.
+
+<br>
+
+Ann	Norris
+> Tara Winer takes the time to research issues and arrive at good next steps and/or solutions!  We need her on Boulder City Council!
+
+<br>
+
+Kerry	Patterson
+> I think she can get things done being a likable intelligent enthusiastic woman.
 
 <br>
 
@@ -266,13 +346,28 @@ Michael Schreiner
 
 <br>
 
+Bruce	Shaffer
+> Determining the City's policies requires thoughtful deliberation and sensible decisionmaking. That's Tara Winer.
+
+<br>
+
 David Shomper
 > She needs to win to save Boulder.
 
 <br>
 
+Amy	Skaife
+> Tara cares deeply about this community. After writing council members about my very real safety concerns and crime, Tara took time to meet with me and hear my experiences. 
+
+<br>
+
 Douglas Sparks
 > Tara is thoughtful and considered in her positions and is practical in examining issues while equally values driven.
+
+<br>
+
+Miriam Sproul
+> Tara works hard to understand City issues, and supports common-sense, attainable, non-partisan solutions.
 
 <br>
 

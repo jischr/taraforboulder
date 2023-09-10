@@ -93,11 +93,14 @@ Former Boulder City Council Member
 
 ### Endorsements by Board & Commission Members
 
+**Charles (Chuck) Brock**  
+Chair, Parks & Recreation Advisory Board
+
 **Elliott Hood**  
-Parks & Recreation Advisory Board 
+Parks & Recreation Advisory Board
 
 **Jason Unger**  
-Parks & Recreation Advisory Board 
+Parks & Recreation Advisory Board
 
 **Jorge Boone**  
 City of Boulder Planning Board
@@ -110,6 +113,9 @@ Boulder Public Library District Trustee
 
 **Joel Koenig**  
 Boulder Library Foundation Board
+
+**Miriam Gilbert**  
+Boulder Library Commission
 
 **Michael Carr**  
 Beverage Licensing Authority Board
@@ -147,6 +153,9 @@ Colorado Chautauqua Association Board of Directors
 **Stephanie Rudy**  
 Downtown Boulder Community Initiatives (DCBI) Board
 
+**Bill Rigler**  
+Former Chair Transportation Advisory Board
+
 **Sean Maher**  
 Former CEO of the Downtown Boulder Partnership
 
@@ -179,7 +188,6 @@ Nancy	Blackwood	<br>
 Shelly	Bobbins	<br>
 Kim	Boston	<br>
 Terri	Brncic	<br>
-Charles (Chuck)	Brock	<br>
 Michael	Broder	<br>
 Betsy	Broder	<br>
 Alan	Caplan	<br>
