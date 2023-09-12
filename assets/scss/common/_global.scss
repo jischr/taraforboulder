@@ -289,6 +289,10 @@ a.btn:focus,
   -moz-text-fill-color: transparent;
 }
 
+.text-green {
+  color: $green
+}
+
 .text-gradient-purple-coral {
   background: linear-gradient(-70deg, #9867f0, #ed4e50);
   background-clip: text;
@@ -337,4 +341,9 @@ table {
 
 .hidden {
   display: none
+}
+
+.endorsement-logo {
+  display: flex;
+  align-items: center;
 }
