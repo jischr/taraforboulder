@@ -50,10 +50,63 @@
     </div>
   </div>
 </section>
+
+<section class="section section-open-collective">
+  <div class="container">
+    <div class="row text-center">
+      <h2 class="text-green">Community Endorsements</h2>
+    </div>
+    <div class="row pb-5">
+      <div class="col-md-4 col-sm-6 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/betterboulder.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-sm-6 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/boulderelevated.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-sm-6 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/plan.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-sm-6 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/sierraclub.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-sm-6 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/thinkboulder.jpeg" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center">
+      <div class="col col-12 bg-light py-4">
+        <p>"Tara Winer has been a responsive, hard-working, and evolving council member during her first term. We admire her commitment to transportation equity and bicycle safety, and housing accessibility. We also appreciate her willingness to meet with Boulder residents and truly consider their differing perspectives - a quality that has become a true hallmark of her character as council member."</p>
+        <p>-Better Boulder</p>
+        <hr>
+        <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara today.</a></p>
+        <div class="mb-4 mt-4 text-center">
+          <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
+          <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm my-3 justify-content-center container">
+<section class="section section-sm justify-content-center container">
   <div class="row justify-content-center">
     <div class="col-12">
       {{ partial "main/yardsign.html" . -}}
@@ -61,12 +114,12 @@
   </div>
 </section>
 
-<section class="section section-sm my-3 justify-content-center container">
+<!-- <section class="section section-sm my-3 justify-content-center container">
   <div class="row justify-content-center">
     <div class="col-12">
       {{ partial "main/endorse.html" . -}}
     </div>
   </div>
-</section>
+</section> -->
 
 {{ end }}
