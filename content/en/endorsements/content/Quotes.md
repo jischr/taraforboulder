@@ -85,7 +85,12 @@ Gordon Riggle, Former Boulder City Council
 
 <br>
 
-John	Spitzer, Former City of Boulder Planning Board Member
+Raj Seymour, Former Chair of Parks & Recreation Advisory Board
+> During my years on the Parks and Rec Advisory Board, I appreciated her insights, reflections and willingness to see all sides. She is an asset to our community and I look forward to having her on the City Council for many years to come.
+
+<br>
+
+John Spitzer, Former City of Boulder Planning Board Member
 > Tara is engaged, knowledgeable, but most of all compassionate toward others and the city of Boulder itself.
 
 <br>
