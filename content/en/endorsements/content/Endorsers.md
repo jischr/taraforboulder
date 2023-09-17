@@ -52,6 +52,9 @@ CU Regent
 **Edie Hooton**   
 Former State Representative
 
+**Matt Appelbaum**  
+Former Boulder Mayor
+
 **Susan Osborne**  
 Former Boulder Mayor
 
@@ -117,6 +120,9 @@ Boulder Library Foundation Board
 **Miriam Gilbert**  
 Boulder Library Commission
 
+**Philip Ogren**  
+Housing Advisory Board
+
 **Michael Carr**  
 Beverage Licensing Authority Board
 
@@ -165,6 +171,9 @@ Former Boulder Planning Board Member
 **Tina Marquis**  
 Former BVSD Board Member
 
+**Raj Seymour**  
+Former Chair, Parks & Recreation Advisory Board
+
 **Pam	Yugar**  
 Former Chair, Parks & Recreation Advisory Board
 
@@ -185,11 +194,13 @@ Marina	Bernstein	<br>
 Renee	Beshures	<br>
 Matt	Bissonette	<br>
 Nancy	Blackwood	<br>
+Mark	Bloomfield	<br>
 Shelly	Bobbins	<br>
 Kim	Boston	<br>
 Terri	Brncic	<br>
 Michael	Broder	<br>
 Betsy	Broder	<br>
+Ed	Byrne	<br>
 Alan	Caplan	<br>
 Russ	Chandler	<br>
 Leslie	Chandler	<br>
@@ -359,7 +370,7 @@ Jill	Vidas	<br>
 Stuart	Walker	<br>
 John	Wesley	<br>
 Michael	Whelan	<br>
-Jim	Williams	<br>
+Jim	Williams 	<br>
 Howard	Witkin	<br>
 Patty	Witkin	<br>
 Val	Yates	<br>

@@ -70,6 +70,11 @@ Sam	Weaver, Former Boulder Mayor
 
 <br>
 
+Matt Appelbaum, Former Boulder Mayor
+> Although Tara started her first term on Council with much to learn and uncertain views on some important issues, she quickly and energetically became a supporter of key approaches to resolving our most critical issues, including housing and transportation, and fostering a more diverse community.
+
+<br>
+
 Jan Burton, Former Boulder City Council
 > Tara works hard to understand the issues and represent a broad group of constituents.
 
