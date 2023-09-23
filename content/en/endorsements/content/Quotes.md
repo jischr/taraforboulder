@@ -286,6 +286,11 @@ Kathleen McCormick
 
 <br>
 
+Hope Michelsen
+> Tara makes an effort to listen to the citizens of Boulder. We need people in office who are willing to listen to and represent our residents.
+
+<br>
+
 Sara Mitton
 > A valuable member of Council to work towards Boulder's future.
 

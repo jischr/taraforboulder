@@ -142,7 +142,7 @@ Chair, City of Louisville Revitalization Commission
 Downtown Management Commission
 
 **Shelly Benford**  
-Colorado Chautauqua Association - CEO
+CEO, Colorado Chautauqua Association
 
 **Trudy Turvey**  
 Colorado Chautauqua Association Board of Directors
@@ -159,11 +159,14 @@ Colorado Chautauqua Association Board of Directors
 **Stephanie Rudy**  
 Downtown Boulder Community Initiatives (DCBI) Board
 
+**Hernán Villanueva**  
+Chair, Environmental Advisory Board
+
 **Bill Rigler**  
-Former Chair Transportation Advisory Board
+Former Chair, Transportation Advisory Board
 
 **Sean Maher**  
-Former CEO of the Downtown Boulder Partnership
+Former CEO, Downtown Boulder Partnership
 
 **John Spitzer**  
 Former Boulder Planning Board Member
@@ -176,6 +179,9 @@ Former Chair, Parks & Recreation Advisory Board
 
 **Pam	Yugar**  
 Former Chair, Parks & Recreation Advisory Board
+
+**Nikhil Mankekar**  
+Former Chair, Human Relations Commission
 
 ### Endorsers in Our Community
 Cindy	Agnes	<br>
