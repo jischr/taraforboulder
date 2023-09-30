@@ -268,6 +268,7 @@ Liz	Hanson	<br>
 John	Harris	<br>
 Elaine	Harris	<br>
 Brooke	Harrison	<br>
+Tom	Hast	<br>
 Katharine	Hauge	<br>
 Jim	Hooton	<br>
 Zach	Hunter	<br>
@@ -371,12 +372,14 @@ Tim	Thomas	<br>
 Scott	Thomas	<br>
 Jean	Thompson	<br>
 Jack	Thompson	<br>
+Marion	Thurnauer	<br>
 Nancy	Travis	<br>
 Andrew	Trees	<br>
 Tami	Turczyn	<br>
 Jud	Valeski	<br>
 Jill	Vidas	<br>
 Stuart	Walker	<br>
+Steve	Welter	<br>
 John	Wesley	<br>
 Michael	Whelan	<br>
 Jim	Williams 	<br>

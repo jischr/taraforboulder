@@ -188,6 +188,8 @@ David	Ensign
 
 Jean Friedberg
 > I admire Tara's ability to explore all sides of an issue in depth -- and to explain her reasoning -- before casting a vote.
+> 
+> Tara is one of those people who defies categorization. She combines a love of community with a pragmatism born of observation and experience. I join those who look forward to Tara's continuing leadership as a member of the Boulder City Council.
 
 <br>
 
@@ -376,13 +378,14 @@ Amy	Skaife
 
 <br>
 
+
 Douglas Sparks
 > Tara is thoughtful and considered in her positions and is practical in examining issues while equally values driven.
 
 <br>
 
 Miriam Sproul
-> Tara works hard to understand City issues, and supports common-sense, attainable, non-partisan solutions.
+> Tara has a thorough grounding in Boulder's issues and should be retained on Council. She gives high priority to community safety, and listens well as she seeks practical solutions.
 
 <br>
 
