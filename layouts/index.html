@@ -71,6 +71,18 @@
         {{ end }}
       </div>
       <div class="col-md-4 col-8 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/boulderweekly.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-8 endorsement-logo">
+        {{ $image := resources.GetMatch "images/orgs/dailycamera.png" }}
+        {{ with $image }}
+          <img class="w-100" src="{{ .RelPermalink }}">
+        {{ end }}
+      </div>
+      <div class="col-md-4 col-8 endorsement-logo">
         {{ $image := resources.GetMatch "images/orgs/plan.png" }}
         {{ with $image }}
           <img class="w-100" src="{{ .RelPermalink }}">
