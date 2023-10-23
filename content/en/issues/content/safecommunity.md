@@ -23,7 +23,7 @@ We need to ensure that our infrastructure is robust enough to meet the growing f
 
 ## Safety & Maintenance
 ### Boulder Creek
-Boulder Creek is a local recreation destination for people of all ages. Boulder's SAMPS team (Safe and Managed Public Spaces) has been doing a godd job with trash cleanup by the creek.  Our 2023 budget included an increase in the monies allocated to that team so look for some progress to come.
+Boulder Creek is a local recreation destination for people of all ages. Boulder's SAMPS team (Safe and Managed Public Spaces) has been doing a good job with trash cleanup by the creek.  Our 2023 budget included an increase in the monies allocated to that team so look for some progress to come.
 ### Bike paths and underpasses
 The Boulder bike paths provide necessary transportation and recreation for our residents. As a bike advocate and lover of my electric bike, I am working on better lighting in the underpasses for better visibility as well as more frequent clean-ups to keep paths clean, safe, and free of obstructions. We as a city have prioritized trash pick-up in the bike underpasses,  and we are seeing a difference. 
 ### Parks
