@@ -1,6 +1,6 @@
 
 ---
-title: "Tara's Endorsers"
+title: "Tara's Endorsers in the 2023 Election"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -14,7 +14,7 @@ weight: 150
 toc: true
 ---
 
-To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
+To hear what Tara's Endorsers said, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
 ___
 
 ### Endorsements by Organizations
@@ -406,4 +406,4 @@ Patty	Witkin	<br>
 Val	Yates	<br>
 Joan	Zimmermann	<br>
 
-To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
+To hear what Tara's Endorsers said in 2023, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").

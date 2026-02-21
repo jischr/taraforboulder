@@ -5,11 +5,10 @@
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
       <div class="card-list">
-        {{ $newsPages := where .Site.RegularPages "Section" "news" }}
-        {{ range $newsPages.ByPublishDate.Reverse }}
+        {{ range .Pages.ByPublishDate.Reverse }}
           <div class="card my-3">
             <div class="card-body">
-              <p class="mb-1 text-muted small">{{ .PublishDate.Format "January 2, 2006" }}</p>
+              <p class="mb-1 text-muted small">{{ .PublishDate.Format "January 2, 2006" }}{{ with .Section }} · {{ . | humanize }}{{ end }}</p>
               <a class="stretched-link" href="{{ .RelPermalink }}">{{ .LinkTitle }} &rarr;</a>
             </div>
           </div>

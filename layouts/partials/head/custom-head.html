@@ -1,1 +1,5 @@
-<!-- Custom head -->
+{{ if .IsHome }}
+  {{ with resources.Get "/images/headshot2.png" }}
+  <link rel="preload" as="image" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

@@ -1,7 +1,4 @@
-{{ $fillImage := .Scratch.Get "fillImage" }}
-{{ if not $fillImage -}}
-  {{ $fillImage = site.Params.fillImage }}
-{{ end -}}
+{{ $fillImage := .Params.fillImage | default site.Params.fillImage }}
 
 {{ $image := .Resources.GetMatch (printf "**%s" (index .Params.images 0)) }}
 {{ if not $image -}}

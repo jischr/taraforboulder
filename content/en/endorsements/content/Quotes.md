@@ -1,5 +1,5 @@
 ---
-title: "Hear What People are Saying"
+title: "Hear What People Said in 2023"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-To see the full list of Tara's Endorser's, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers")
+To see the full list of Tara's 2023 Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers")
 ___
 
 ## Quotes from Tara's Endorsers
@@ -409,4 +409,4 @@ Michael Whelan
 
 <br>
 
-To see the full list of Tara's Endorser's, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers").
+To see the full list of Tara's 2023 Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers").

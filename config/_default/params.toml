@@ -69,11 +69,19 @@ footer = "Paid for and authorized by Tara Winer for Council"
 # Feed
 copyRight = "Copyright (c) 2023 Tara Winer for Council"
 
-# Alert
+# Alert (banner link uses yardSignForm below)
 alert = true
 alertDismissable = true
 alertText = "Show your support and put up a yard sign. Request one now!"
-alertLink = "https://forms.gle/DWWN9DLst6CPba118"
+
+# Google Form URLs — update these when links change (used site-wide: nav, footer, alerts, endorse/yard sign CTAs)
+yardSignForm = "https://forms.gle/DWWN9DLst6CPba118"
+endorseForm = "https://forms.gle/YtJU1AqWsxUQKqnS6"
+contactForm = "https://forms.gle/NkJo5bzddj8UHzCn6"
+
+# Endorsements: which year's content to show at /endorsements/content/endorsers/ and /endorsements/content/quotes/
+# Set to "2026" when ready to make the 2026 endorsers/quotes the live version (no file swap needed).
+endorsementsYear = "2023"
 
 # Edit Page
 repoHost = "GitHub"
@@ -84,19 +92,19 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["issues", "experience", "bio", "news", "endorsements"]
+  sectionNav = ["issues", "experience", "bio", "endorsements"]
 
 [options]
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = true
+  flexSearch = false
   searchSectionsShow = []
   searchSectionsIndex = []
   darkMode = false
   bootStrapJs = true
   breadCrumb = false
-  highLight = true
+  highLight = false
   kaTex = false
   multilingualMode = false
   docsVersioning = false

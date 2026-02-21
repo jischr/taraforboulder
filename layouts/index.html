@@ -1,142 +1,57 @@
 {{ define "main" }}
-<section class="container-fluid my-0 p-0 justify-content-center no-gutters">
-    <div style="height:80vh;">
-      {{- .Scratch.Set "fillImage" "Center" -}}
-      {{ with resources.Get "/images/headshot2.png" }}
-      <div class="row justify-content-center px-0 mx-0 bg-image w-100 h-100"
-      style="background-image: url('{{ .RelPermalink }}');">
-      {{ end }}
-        <div class="row align-items-end">
-          <div class="text-center pb-5">
-            <h1 class="text-white header">Re-elect Tara Winer</h1>
-            <h2 class="text-white mt-0">Boulder City Council</h2>
-            <p class="mb-0 mt-4"><a class="btn btn-dark btn-lg px-3 mb-2" href="{{ "issues/content/economicvitality" | relURL }}" role="button">Tara's Priorities</a></p>
-          </div>
-  
-        </div>
-      </div>
+{{ $heroImg := resources.Get "/images/headshot2.png" }}
+<section class="hero-home container-fluid g-0">
+  <div class="hero-home__overlay" aria-hidden="true"></div>
+  <div class="hero-home__bg w-100 h-100" {{ with $heroImg }}style="--hero-bg: url('{{ .RelPermalink }}');"{{ end }}></div>
+  <div class="hero-home__content w-100">
+    <div class="container">
+      <h1 class="text-white header mb-0">Re-elect Tara Winer</h1>
+      <h2 class="text-white mt-0 mb-4">Boulder City Council</h2>
+      <p class="mb-0"><a class="btn btn-dark btn-lg px-4" href="{{ "issues/content/" | relURL }}" role="button">Tara's Priorities</a></p>
+    </div>
   </div>
 </section>
+
 {{ partial "sidebar/quote.html" . }}
-<section class="bg-green h-100">
-  <div class="d-flex">
-    <div class="p-2 px-0 py-0" style="width: 110%;">
-      {{ $image := resources.GetMatch "images/flowers.jpeg" }}
-      {{ with $image }}
-      <div class="h-100 bg-image"
-      style="background-image: url('{{ .RelPermalink }}');">
-      {{end}}
-      </div>
+
+<section class="issues-section" id="issues" aria-labelledby="issues-heading">
+  <div class="issues-section__bg" {{ with resources.GetMatch "images/flowers.jpeg" }}style="--issues-bg: url('{{ .RelPermalink }}');"{{ end }} aria-hidden="true"></div>
+  <div class="container position-relative">
+    <div class="issues-section__header text-center">
+      <h2 id="issues-heading" class="issues-section__title">On the Issues</h2>
+      <p class="issues-section__lead">The key priorities I'm continuing to focus on for Boulder.</p>
     </div>
-    <div class="p-2 flex-shrink-1">
-      <div class="w-75 align-items-center mx-auto no-gutters">
-        <div class="row flex-grow-1 py-3">
-          <h2>___</h2>
-          <h2 class="text-uppercase mb-0"><b>On the Issues</b></h2>
-          <p><i></i>The key issues I'm continuing to focus on</p>
-          <ul class="mx-3 my-3">
-            <li>Improving the safety of our public spaces</li>
-            <li>Upgrading bike underpasses and multi-use paths</li>
-            <li>Creating upstream solutions to prevent homelessness</li>
-            <li>Providing more treatment options for those with substance abuse and mental health issues</li>
-            <li>Increasing affordable and middle-income housing</li>
-            <li>Enhancing fire and flood preparedness and mitigation</li>
-            <li>Supporting funding for the arts</li>
-            <li>Improving economic vitality</li>
-          </ul>
-          <p class="mb-0 mt-4"><a class="btn btn-dark px-3 mb-3" href="{{ "issues/content/economicvitality" | relURL }}" role="button">Learn More</a></p>
+    <div class="row g-4 issues-section__grid">
+      {{ $issues := slice
+        (dict "title" "Safety of our public spaces" "slug" "safecommunity")
+        (dict "title" "Bike underpasses and multi-use paths" "slug" "transportation")
+        (dict "title" "Upstream solutions to prevent homelessness" "slug" "homelessness")
+        (dict "title" "Treatment options for substance abuse and mental health" "slug" "")
+        (dict "title" "Affordable and middle-income housing" "slug" "housing")
+        (dict "title" "Fire and flood preparedness and mitigation" "slug" "climate")
+        (dict "title" "Funding for the arts" "slug" "artsculture")
+        (dict "title" "Economic vitality" "slug" "economicvitality")
+      }}
+      {{ range $issues }}
+        <div class="col-sm-6 col-lg-4 col-xl-3">
+          <a class="issues-card" href="{{ if .slug }}{{ printf "issues/content/%s/" .slug | relURL }}{{ else }}{{ "issues/content/" | relURL }}{{ end }}">
+            <h3 class="issues-card__title">{{ .title }}</h3>
+            <span class="issues-card__link">Learn more &rarr;</span>
+          </a>
         </div>
-      </div>
+      {{ end }}
+    </div>
+    <div class="issues-section__cta text-center">
+      <a class="btn btn-dark px-4" href="{{ "issues/content/" | relURL }}" role="button">Explore all priorities</a>
     </div>
   </div>
 </section>
 
-<section class="section section-open-collective">
-  <div class="container">
-    <div class="row text-center">
-      <h2 class="text-green">Community Endorsements</h2>
-    </div>
-    <div class="row pb-3">
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/betterboulder.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/boulderelevated.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/boulderweekly.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/dailycamera.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/plan.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/sc.png" }}
-        {{ with $image }}
-          <img class="w-100" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-      <div class="col-md-4 col-8 endorsement-logo">
-        {{ $image := resources.GetMatch "images/orgs/thinkboulder.jpeg" }}
-        {{ with $image }}
-          <img class="w-100 my-4" src="{{ .RelPermalink }}">
-        {{ end }}
-      </div>
-    </div>
-    <div class="row justify-content-center align-items-center">
-      <div class="col col-12 bg-light py-4">
-        <p>"Tara Winer has been a responsive, hard-working, and evolving council member during her first term. We admire her commitment to transportation equity and bicycle safety, and housing accessibility. We also appreciate her willingness to meet with Boulder residents and truly consider their differing perspectives - a quality that has become a true hallmark of her character as council member."</p>
-        <p>-Better Boulder</p>
-        <br>
-        <p>"Tara Winer has proven to be hard-working and open-minded in her first term on the city council. She has a record of supporting environmental policies and demonstrated a willingness to work collaboratively on difficult issues surrounding land use, housing, affordability, and transportation."</p>
-        <p>-Sierra Club</p>
-        <hr>
-        <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara today.</a></p>
-        <div class="mb-4 mt-4 text-center">
-          <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
-          <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ partial "sidebar/video.html" . }}
-
+<!-- {{ partial "main/endorsements-section.html" . }} -->
+  <!-- {{ partial "sidebar/video.html" . }} -->
 
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm justify-content-center container">
-  <div class="row justify-content-center">
-    <div class="col-12">
-      {{ partial "main/yardsign.html" . -}}
-    </div>
-  </div>
-</section>
-
-<!-- <section class="section section-sm my-3 justify-content-center container">
-  <div class="row justify-content-center">
-    <div class="col-12">
-      {{ partial "main/endorse.html" . -}}
-    </div>
-  </div>
-</section> -->
-
+{{ partial "main/yardsign-section.html" . }}
 {{ end }}

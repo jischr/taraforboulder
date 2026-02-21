@@ -33,6 +33,8 @@
           {{- $current := . -}}
           {{ range .Site.Menus.main -}}
             {{- $externalLink := eq .Name "Yard Sign"}}
+            {{- $menuURL := .URL -}}
+            {{- if eq .Name "Yard Sign" }}{{ $menuURL = $current.Site.Params.yardSignForm }}{{ end -}}
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Docs") (eq $current.Section "docs")) -}}
@@ -40,7 +42,7 @@
             {{- $active = or $active (and (eq .Name "Showcase") (eq $current.Section "showcase")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "authors")) -}}
             <li class="nav-item">
-              <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}" target="{{if $externalLink}}_blank{{end}}">{{ .Name }}</a>
+              <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ if $externalLink }}{{ $menuURL }}{{ else }}{{ $menuURL | relURL }}{{ end }}" {{ if $externalLink }}target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Name }}</a>
             </li>
           {{ end -}}
         </ul>

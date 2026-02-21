@@ -1,34 +1,27 @@
-<footer class="footer">
-  <div class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }}">
-    <div class="row text-muted">
-      <p class="md__image text-center">
-        {{ $image := resources.GetMatch "/images/logo-tw.png" }}
-        {{ $image := $image.Resize "250x" }}
-        {{ with $image }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-        {{ end }}
-      </p>      
+<footer class="footer" role="contentinfo">
+  <div class="footer__inner container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }}">
+    <div class="footer__logo">
+      {{ $image := resources.GetMatch "/images/logo-tw.png" }}
+      {{ $image := $image.Resize "220x" }}
+      {{ with $image }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $.Site.Params.Title }}">
+      {{ end }}
     </div>
-    <div class="row text-center">
-      <div class="col">
-        <hr>
-        <a class="btn btn-orange btn-lg px-3 my-2 mx-1 text-white" target="_blank" href="https://forms.gle/NkJo5bzddj8UHzCn6">Contact</a>
-        <a class="btn btn-orange btn-lg px-3 my-2 mx-1 text-white" target="_blank" href="https://forms.gle/DWWN9DLst6CPba118">Yard Sign</a>
-      </div>
+    <div class="footer__cta">
+      <a class="btn btn-dark px-4 me-2 mb-2" href="{{ .Site.Params.contactForm }}" target="_blank" rel="noopener">Contact</a>
+      <a class="btn btn-dark px-4 me-2 mb-2" href="{{ .Site.Params.endorseForm }}" target="_blank" rel="noopener">Endorse</a>
+      <a class="btn btn-dark px-4 mb-2" href="{{ .Site.Params.yardSignForm }}" target="_blank" rel="noopener">Yard Sign</a>
     </div>
-    <div class="row text-muted">
-      <div class="text-center">
-        <ul class="list-inline">
-          <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
-        </ul>
-      </div>
-      <!-- <div class="col-lg-8 order-first order-lg-last text-lg-end">
-        <ul class="list-inline">
-          {{ range .Site.Menus.footer -}}
-            <li class="list-inline-item"><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-          {{ end -}}
-        </ul>
-      </div> -->
+    {{ with .Site.Menus.social }}
+    <div class="footer__social">
+      {{ range . }}
+      <a class="footer__social-link" href="{{ .URL }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .Name }}">{{ .Pre | safeHTML }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    <div class="footer__legal">
+      <p class="footer__tagline">{{ .Site.Params.footer | safeHTML }}</p>
+      <p class="footer__copyright">© {{ now.Year }} Tara Winer for Council</p>
     </div>
   </div>
 </footer>

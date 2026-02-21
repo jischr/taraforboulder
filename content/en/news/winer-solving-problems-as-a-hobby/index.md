@@ -10,7 +10,7 @@ images: []
 categories: ["News"]
 tags: ["2021 election"]
 publisher: "Richard Valenty Communications"
-publisherlink: "ttps://richardvalenty.com"
+publisherlink: "https://richardvalenty.com"
 contributors: ["Richard Valenty"]
 link: "https://richardvalenty.com/2021/09/winer-solving-problems-as-a-hobby/"
 pinned: false

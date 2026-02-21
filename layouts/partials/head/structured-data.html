@@ -1,19 +1,18 @@
 {{ $baseURL := "/" | absURL -}}
 
-{{ $dot := . -}}
-{{ $dot.Scratch.Set "path" "" -}}
-{{ $dot.Scratch.Set "breadcrumb" slice -}}
-
-{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" -}}
-{{ $.Scratch.Add "path" .Site.BaseURL -}}
-
-{{ $.Scratch.Add "breadcrumb" (slice (dict "url" .Site.BaseURL "name" "home" "position" 1 )) -}}
-  {{ range $index, $element := split $url "/" -}}
-    {{ $dot.Scratch.Add "path" $element -}}
-    {{ $.Scratch.Add "path" "/" -}}
-    {{ if ne $element "" -}}
-    {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 2))) -}}
+{{ $path := .Site.BaseURL -}}
+{{ $breadcrumb := slice (dict "url" .Site.BaseURL "name" "home" "position" 1) -}}
+{{ $url := replace .Permalink (printf "%s" .Site.BaseURL) "" -}}
+{{ range $index, $element := split $url "/" -}}
+  {{ if ne $element "" -}}
+    {{ $path = printf "%s%s/" $path $element -}}
+    {{ $breadcrumb = $breadcrumb | append (dict "url" $path "name" $element "position" (add $index 2)) -}}
   {{ end -}}
+{{ end -}}
+
+{{ $primaryImage := "" -}}
+{{ with .Site.Params.images -}}
+  {{ $primaryImage = index . 0 | absURL -}}
 {{ end -}}
 
 <script type="application/ld+json">
@@ -119,7 +118,7 @@
       "@type": "BreadcrumbList",
       "@id": {{ print .Permalink "#/schema/breadcrumb/1" }},
       "name": "Breadcrumbs",
-      "itemListElement": [{{ $list := $.Scratch.Get "breadcrumb" }}{{ $len := (len $list) }}{{ range $index, $element := $list }}{{ if ne .position 1 }},{{ end }}{
+      "itemListElement": [{{ $len := len $breadcrumb }}{{ range $index, $element := $breadcrumb }}{{ if ne .position 1 }},{{ end }}{
         "@type": "ListItem",
         "position": {{ .position }},
         "item": {
@@ -198,8 +197,8 @@
         {
           "@type": "ImageObject",
           "@id": {{ print .Permalink "#/schema/image/2" }},
-          "url": {{ $.Scratch.Get "primaryImage" }},
-          "contentUrl": {{ $.Scratch.Get "primaryImage" }},
+          "url": {{ $primaryImage | jsonify }},
+          "contentUrl": {{ $primaryImage | jsonify }},
           "caption": "{{ .Title }}"
         }
       ]

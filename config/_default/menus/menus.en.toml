@@ -19,9 +19,10 @@
   url = "/endorsements/content/endorsers/"
   weight = 40
 
+  # URL comes from params.yardSignForm (see config/_default/params.toml)
   [[main]]
   name = "Yard Sign"
-  url = "https://forms.gle/DWWN9DLst6CPba118"
+  url = "#"
   weight = 50
 
 [[social]]

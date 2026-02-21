@@ -126,11 +126,15 @@ Source:
     suggestions.innerHTML = "";
     suggestions.classList.remove('d-none');
 
-    // inform user that no results were found
+    // inform user that no results were found (use textContent to avoid DOM XSS from searchQuery)
     if (flatResults.size === 0 && searchQuery) {
-      const noResultsMessage = document.createElement('div')
-      noResultsMessage.innerHTML = `No results for "<strong>${searchQuery}</strong>"`
+      const noResultsMessage = document.createElement('div');
       noResultsMessage.classList.add("suggestion__no-results");
+      const strong = document.createElement('strong');
+      strong.textContent = searchQuery;
+      noResultsMessage.appendChild(document.createTextNode('No results for "'));
+      noResultsMessage.appendChild(strong);
+      noResultsMessage.appendChild(document.createTextNode('"'));
       suggestions.appendChild(noResultsMessage);
       return;
     }

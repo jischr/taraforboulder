@@ -4,21 +4,21 @@
       <div class="row align-items-center">
         <div class="col-md-6 col-sm-12">
           {{ with resources.Get "/images/endorse-tw.png" }}
-            <img style="vertical-align:middle" src="{{ .RelPermalink }}" width="100%" alt="Tara Winer extending arm out to the mountains">
+            <img class="endorse-card__img img-fluid" src="{{ .RelPermalink }}" alt="Tara Winer extending arm out to the mountains">
           {{ end }}
         </div>
         <div class="col">
           <h3 class="h4 card-title">Endorse Tara Winer for Boulder City Council</h3>
           <div class="mb-4 mt-4">
             {{ if (or (and (isset .Params "title") (eq .Params.title "Hear What People are Saying")) (.IsHome)) }}
-            <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/endorsers/">See Tara's Supporters</a>
+            <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/endorsers/" | relURL }}">See Tara's Supporters</a>
             {{ end }}
             {{ if (and (isset .Params "title") (eq .Params.title "Tara's Endorsers"))}}
-            <a class="btn btn-dark mb-2 mx-1" href="/endorsements/content/quotes/">Quotes from Supporters</a>
+            <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/quotes/" | relURL }}">Quotes from Supporters</a>
             {{ end }}
-            <a class="btn btn-dark mb-2 mx-1 " target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara</a>
+            <a class="btn btn-dark mb-2 mx-1" target="_blank" rel="noopener" href="{{ .Site.Params.endorseForm }}">Endorse Tara</a>
           </div>
-          <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" href="https://forms.gle/YtJU1AqWsxUQKqnS6">Endorse Tara today.</a></p>
+          <p class="card-text">We often vote for candidates based on what we hear from the people we know and trust. <a class="text-orange" target="_blank" rel="noopener" href="{{ .Site.Params.endorseForm }}">Endorse Tara today.</a></p>
         </div>
       </div>
     </div>

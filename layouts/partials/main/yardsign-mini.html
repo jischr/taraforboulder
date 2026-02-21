@@ -1,0 +1,12 @@
+<div class="yardsign-mini">
+  <div class="yardsign-mini__inner">
+    <h3 class="yardsign-mini__title">Request a Yard Sign</h3>
+    <p class="yardsign-mini__text">Live or work in Boulder? We'll deliver yard signs in August.</p>
+    <a class="btn btn-dark yardsign-mini__cta" target="_blank" rel="noopener" href="{{ .Site.Params.yardSignForm }}">Get a Sign</a>
+  </div>
+  {{ with resources.Get "/images/yardsign.png" }}
+  <div class="yardsign-mini__img">
+    <img src="{{ .RelPermalink }}" alt="" role="presentation" loading="lazy">
+  </div>
+  {{ end }}
+</div>

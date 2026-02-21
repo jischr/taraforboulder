@@ -1,0 +1,41 @@
+<section class="endorsements-section" id="endorsements" aria-labelledby="endorsements-heading">
+  <div class="container">
+    <div class="endorsements-section__header text-center">
+      <p class="endorsements-section__kicker" id="endorsements-heading">Support</p>
+      <h2 class="endorsements-section__title">Community endorsements</h2>
+      <p class="endorsements-section__lead">Trusted organizations and neighbors are backing Tara's re-election.</p>
+    </div>
+    {{ $logoAlts := dict "betterboulder" "Better Boulder" "boulderelevated" "Boulder Elevated" "boulderweekly" "Boulder Weekly" "dailycamera" "Daily Camera" "plan" "PLAN" "sc" "Sierra Club" "thinkboulder" "Think Boulder" }}
+    {{ $logoOrder := slice "betterboulder" "boulderelevated" "boulderweekly" "dailycamera" "plan" "sc" "thinkboulder" }}
+    <div class="endorsements-section__logos row g-3 justify-content-center">
+      {{ range $logoOrder }}
+        {{ $slug := . }}
+        {{ $img := resources.GetMatch (printf "images/orgs/%s.*" $slug) }}
+        {{ with $img }}
+      <div class="col-6 col-md-4 col-lg-3 endorsement-logo">
+        <img src="{{ .RelPermalink }}" alt="{{ index $logoAlts $slug }}" loading="lazy">
+      </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="endorsements-section__card">
+          <blockquote class="endorsements-section__quote">
+            <p>"Tara Winer has been a responsive, hard-working, and evolving council member during her first term. We admire her commitment to transportation equity and bicycle safety, and housing accessibility. We also appreciate her willingness to meet with Boulder residents and truly consider their differing perspectives—a quality that has become a true hallmark of her character as council member."</p>
+            <cite>— Better Boulder</cite>
+          </blockquote>
+          <blockquote class="endorsements-section__quote">
+            <p>"Tara Winer has proven to be hard-working and open-minded in her first term on the city council. She has a record of supporting environmental policies and demonstrated a willingness to work collaboratively on difficult issues surrounding land use, housing, affordability, and transportation."</p>
+            <cite>— Sierra Club</cite>
+          </blockquote>
+          <p class="endorsements-section__invite">We often vote for candidates based on what we hear from the people we know and trust. <a href="{{ .Site.Params.endorseForm }}" target="_blank" rel="noopener" class="endorsements-section__link">Endorse Tara today.</a></p>
+          <div class="endorsements-section__cta">
+            <a class="btn btn-dark mb-2 me-2" href="{{ "endorsements/content/endorsers/" | relURL }}">See Tara's Supporters</a>
+            <a class="btn btn-outline-dark mb-2" href="{{ "endorsements/content/quotes/" | relURL }}">Quotes from Supporters</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

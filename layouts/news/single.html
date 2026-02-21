@@ -10,11 +10,13 @@
     </div>
     <div class="col-md-12 col-lg-9">
         {{ .Content }}
-        <a href="{{ .Params.link }}">Read Full Article &rarr;</a>
+        {{ if .Params.link }}
+        <a href="{{ if or (hasPrefix .Params.link "https://") (hasPrefix .Params.link "http://") }}{{ .Params.link }}{{ else }}#{{ end }}" target="_blank" rel="noopener noreferrer">Read Full Article &rarr;</a>
+        {{ end }}
         {{ if .Params.tags -}}
         <div class="mt-4">
         {{ range $index, $tag := .Params.tags -}}
-            <a class="btn btn-light" href="{{ "/tags/" | absURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+            <a class="btn btn-light" href="{{ printf "tags/%s/" (. | urlize) | relURL }}" role="button">{{ . }}</a>
         {{ end -}}
         </div>
         {{ end -}}
