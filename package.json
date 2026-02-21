@@ -2,11 +2,9 @@
   "name": "Tara for Boulder",
   "version": "0.0.1",
   "engines": {
-    "node": ">=16.16.0"
+    "node": ">=24.0.0"
   },
-  "browserslist": [
-    "defaults"
-  ],
+  "browserslist": ["defaults"],
   "repository": "https://github.com/jischr/taraforboulder",
   "license": "MIT",
   "scripts": {
