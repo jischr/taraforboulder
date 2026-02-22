@@ -13,11 +13,12 @@ This guide is for anyone who updates content on the Tara for Boulder site using 
 
 ## How to edit a file on GitHub
 
-You work on the **dev** branch and commit directly to it. 
-1. Open the file you want to edit (see the **What to edit** table below) and click the **pencil icon** to edit.
-2. Make your changes in the text box.
-4. Scroll down and click **Commit changes**. Leave **"Commit directly to the dev branch"** selected
-5. Add a short commit message (e.g. "Update endorsers") and click **Commit changes** again.
+1. Find the file you want to edit in the **What to edit** table below.
+2. Click on the link (helpful to open in a new tab).
+3. Click the **pencil icon** to edit at the top of the file.
+4. Make your changes in the text box.
+5. Scroll down and click **Commit changes**. Leave **"Commit directly to the dev branch"** selected
+6. Add a short commit message (e.g. "Update endorsers") and click **Commit directly to dev branch** again.
 
 Your changes are now on **dev**. The live site will update when the repo owner merges dev into main for a release.
 
