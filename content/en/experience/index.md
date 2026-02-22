@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
+<!-- EDIT BELOW -->
+
 ## My Career 
 
 - Small business owner for over 25 years, working to solve complex problems and negotiating creative, mutually beneficial outcomes

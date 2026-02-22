@@ -1,0 +1,13 @@
+{{ $sections := . }}
+{{ if $sections }}
+  {{ range $sections }}
+    <h3>{{ .heading }}</h3>
+    {{ range .quotes }}
+      <blockquote>
+        <p>{{ .quote }}</p>
+        <cite>— {{ .name }}{{ with .title }}{{ if . }}, {{ . }}{{ end }}{{ end }}</cite>
+      </blockquote>
+      <br>
+    {{ end }}
+  {{ end }}
+{{ end }}

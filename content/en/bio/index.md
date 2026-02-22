@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
+<!-- EDIT BELOW -->
+
 {{< figure src="TaraWiner_Hiking.jpg" alt="Tara hiking" caption="Hiking in Indian Peaks Wilderness">}}
 
 ## My Family & Life in Boulder

@@ -1,0 +1,11 @@
+# Draft 2026 quotes (not live until endorsementsYear is set to "2026" in config).
+# Use 2 spaces for indentation. Copy an existing entry from quotes-2023.yaml to add one.
+# For each quote use: name, title (optional), and quote.
+
+sections:
+  - heading: Elected Officials
+    quotes: []
+  - heading: Board & Commission Members
+    quotes: []
+  - heading: Community
+    quotes: []

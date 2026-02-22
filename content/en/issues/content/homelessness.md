@@ -13,6 +13,8 @@ weight: 160
 toc: true
 ---
 
+<!-- EDIT BELOW -->
+
 We all agree that more should be done to lift people out of homelessness in Boulder and know that it requires substantial financial resources to do so, whether it’s mental health programs, substance abuse programs, needed housing, or ready-to-work programs. Boulder will need to rely on funds and other support from county, state, and non-governmental sources to make meaningful progress. We must start with compassion. We must treat people as individuals. There is not one reason why people fall into homelessness and so there is no one-size-fits-all solution.
 
 Boulder created Coordinated Entry (CE), an intake center to assess the needs of each individual and connect them with the appropriate services when available. Boulder also took a “housing first” approach under the belief that a stable, four-walled environment was key to lifting people out of homelessness. Boulder now has a good foundation for reducing homelessnesess. However, we need to add to that and find alternatives, like group homes, for people who are not quite ready or able to live on their own. Laslty, we need more wrap around services and employment programs. 

@@ -48,6 +48,15 @@
 			</nav>
 			{{ end -}}
 			{{ $page.Content }}
+			{{ $year := $page.Site.Params.endorsementsYear | default "2023" }}
+			{{ $base := $page.File.BaseFileName }}
+			{{ if hasPrefix $base "Endorsers" }}
+				{{ $data := index $page.Site.Data (printf "endorsers-%s" $year) }}
+				{{ partial "endorsements/endorsers-from-data.html" $data }}
+			{{ else if hasPrefix $base "Quotes" }}
+				{{ $data := index $page.Site.Data (printf "quotes-%s" $year) }}
+				{{ with $data.sections }}{{ partial "endorsements/quotes-from-data.html" . }}{{ end }}
+			{{ end }}
 			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
 				{{ if .Site.Params.lastMod -}}
 					{{ partial "main/last-modified.html" . }}

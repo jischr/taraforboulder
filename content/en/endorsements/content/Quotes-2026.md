@@ -14,25 +14,3 @@ _build:
 
 To see the full list of Tara's Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers")
 ___
-
-## Quotes from Tara's Endorsers
-
-### Elected Officials
-
-_(Add 2026 quotes from elected officials here. Use the format:)_
-
-Name, Title
-> Quote text.
-
-<br>
-
-### Board & Commission Members
-
-_(Add 2026 quotes from board/commission members here.)_
-
-### Community
-
-_(Add 2026 quotes from community endorsers here.)_
-
-___
-To see the full list of Tara's Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers").

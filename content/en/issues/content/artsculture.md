@@ -12,6 +12,9 @@ menu:
 weight: 180
 toc: true
 ---
+
+<!-- EDIT BELOW -->
+
 The arts and culture are an important part of Boulder’s ethos as a welcoming, vibrant community. Boulderites not only enjoy music, theater, visual arts, dance, food, festivals, and diverse cultures, but have also built a strong local and tourist economy around it, bringing in over $70M a year.
 
 On the Downtown Boulder Community Initiatives board I am surrounded by a group of community leaders who believe that Boulder’s vibrancy is driven by arts, culture, diversity, and equity. There is an imperative to preserve and expand arts and culture through consistent funding, designated affordable space, and grant opportunities. 

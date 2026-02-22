@@ -2,6 +2,8 @@
 
 Made with [Doks Starter theme](https://github.com/h-enk/doks)
 
+**Updating site content (endorsers, quotes, issues)?** See [CONTENT-UPDATES.md](CONTENT-UPDATES.md) for step-by-step instructions using GitHub in your browser—no dev environment needed.
+
 ## Requirements
 
 - [Git](https://git-scm.com/) — latest source release
@@ -33,9 +35,11 @@ Output is in the `public/` directory.
 
 ## Endorsements (2023 / 2026)
 
-The live endorsers and quotes are in `content/en/endorsements/content/Endorsers.md` and `Quotes.md`. To work on 2026 content without changing the live site, edit **Endorsers-2026.md** and **Quotes-2026.md** in the same folder.
+The live endorsers and quotes are in `data/endorsers-2023.yaml` and `data/quotes-2023.yaml`. To work on 2026 content without changing the live site, edit **data/endorsers-2026.yaml** and **data/quotes-2026.yaml**.
 
 **To make 2026 the live version:** In `config/_default/params.toml` set `endorsementsYear = "2026"`, then build and deploy. The same URLs will show the 2026 content. Set back to `"2023"` to revert.
+
+See [CONTENT-UPDATES.md](CONTENT-UPDATES.md) for how to edit these files (and issue pages, bio, experience) via the GitHub UI.
 
 ## Build & deploy
 

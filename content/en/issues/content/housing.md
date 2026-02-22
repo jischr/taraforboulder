@@ -13,6 +13,8 @@ weight: 170
 toc: true
 ---
 
+<!-- EDIT BELOW -->
+
 We all agree that Boulder needs more housing options for low and middle-income families. The fastest, more probable path is to pursue new housing developments in the transit corridors, unused urban spaces, and East Boulder’s light industrial areas. Why? These areas have more space and more flexible zoning, which increases the likelihood of project completion, timeliness, and ideal design. 
 
 Let’s reimagine transit corridors, old shopping centers, unused parking lots, and other unused urban spaces as vibrant neighborhoods with a mix of affordable and market-rate housing, neighborhood-serving retail, green space, and a high walkability score. 

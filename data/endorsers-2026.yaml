@@ -1,0 +1,17 @@
+# Draft 2026 endorsers (not live until endorsementsYear is set to "2026" in config).
+# Use 2 spaces for indentation. Copy an existing entry to add one.
+# Do not remove or rename the section keys below.
+#
+# Ordering: Entry order in each section = order on the page; "community" is sorted by last name.
+
+organizations: []
+
+# Each entry: first_name, last_name, title
+elected_officials: []
+
+former_officials: []
+
+board_commission: []
+
+# Each entry: first_name, last_name (sorted by last name)
+community: []

@@ -14,22 +14,3 @@ _build:
 
 To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
 ___
-
-### Endorsements by Organizations
-
-_(Add 2026 organizations here.)_
-
-### Endorsements by Elected Officials
-
-_(Add 2026 elected officials here.)_
-
-### Endorsements by Former Elected Officials
-
-_(Add 2026 former officials here.)_
-
-### Endorsers in Our Community
-
-_(Add 2026 community endorsers here.)_
-
-___
-To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").

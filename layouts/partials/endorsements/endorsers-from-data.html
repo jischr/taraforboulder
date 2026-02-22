@@ -1,0 +1,33 @@
+{{ $data := . }}
+{{ if $data }}
+  {{ with $data.organizations }}
+    <h3>Endorsements by Organizations</h3>
+    <p>
+      {{ range . }}{{ . }}<br>{{ end }}
+    </p>
+  {{ end }}
+  {{ with $data.elected_officials }}
+    <h3>Endorsements by Elected Officials</h3>
+    {{ range . }}
+      <p><strong>{{ .first_name }} {{ .last_name }}</strong><br>{{ .title }}</p>
+    {{ end }}
+  {{ end }}
+  {{ with $data.former_officials }}
+    <h3>Endorsements by Former Elected Officials</h3>
+    {{ range . }}
+      <p><strong>{{ .first_name }} {{ .last_name }}</strong><br>{{ .title }}</p>
+    {{ end }}
+  {{ end }}
+  {{ with $data.board_commission }}
+    <h3>Endorsements by Board & Commission Members</h3>
+    {{ range . }}
+      <p><strong>{{ .first_name }} {{ .last_name }}</strong><br>{{ .title }}</p>
+    {{ end }}
+  {{ end }}
+  {{ with $data.community }}
+    <h3>Endorsers in Our Community</h3>
+    <p>
+      {{ range sort . "last_name" }}{{ .first_name }} {{ .last_name }}<br>{{ end }}
+    </p>
+  {{ end }}
+{{ end }}

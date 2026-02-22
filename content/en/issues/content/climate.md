@@ -13,6 +13,8 @@ weight: 130
 toc: true
 ---
 
+<!-- EDIT BELOW -->
+
 ## Fire Mitigation
 
 We can no longer fully prevent wildfires, although we can decrease the risk to our community.  We need to build resilience. Making sure our homes are fire resistant and thinning our forests that are on the wildland-urban interface are just two of the many ways we can mitigate and or manage fire risk. 

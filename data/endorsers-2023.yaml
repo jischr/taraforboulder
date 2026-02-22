@@ -1,0 +1,587 @@
+# Live endorsers list (2023). Edit this file to add or change endorsers.
+# Use 2 spaces for indentation. Copy an existing entry to add one.
+# Do not remove or rename the section keys below.
+#
+# Ordering: The order of entries in each section is the order shown on the page,
+# except "community", which is always sorted alphabetically by last name.
+
+organizations:
+  - Better Boulder
+  - Boulder Elevated
+  - Boulder Weekly
+  - Daily Camera
+  - PLAN Boulder
+  - Sierra Club
+  - Think Boulder
+  - Yellow Scene
+
+elected_officials:
+  - first_name: Steve
+    last_name: Fenberg
+    title: Colorado Senate President
+  - first_name: Judy
+    last_name: Amabile
+    title: Colorado State Representation HD49
+  - first_name: Junie
+    last_name: Joseph
+    title: Colorado State Representative HD10, Boulder City Council Member
+  - first_name: Ashley
+    last_name: Stolzmann
+    title: Boulder County Commissioner
+  - first_name: Matt
+    last_name: Benjamin
+    title: Boulder City Council Member
+  - first_name: Rachel
+    last_name: Friend
+    title: Boulder City Council Member
+  - first_name: Mark
+    last_name: Wallach
+    title: Boulder City Council Member
+  - first_name: Bob
+    last_name: Yates
+    title: Boulder City Council Member
+  - first_name: Lesley
+    last_name: Smith
+    title: CU Regent
+
+former_officials:
+  - first_name: Edie
+    last_name: Hooton
+    title: Former State Representative
+  - first_name: Matt
+    last_name: Appelbaum
+    title: Former Boulder Mayor
+  - first_name: Susan
+    last_name: Osborne
+    title: Former Boulder Mayor
+  - first_name: Sam
+    last_name: Weaver
+    title: Former Boulder Mayor
+  - first_name: Leslie
+    last_name: Durgin
+    title: Former Boulder Mayor Pro Tem
+  - first_name: Lisa
+    last_name: Morzel
+    title: Former Boulder Mayor Pro Tem
+  - first_name: Crystal
+    last_name: Gray
+    title: Former Boulder Deputy Mayor
+  - first_name: George
+    last_name: Karakehian
+    title: Former Boulder Deputy Mayor
+  - first_name: Jan
+    last_name: Burton
+    title: Former Boulder City Council Member
+  - first_name: Macon
+    last_name: Cowles
+    title: Former Boulder City Council Member
+  - first_name: Allyn
+    last_name: Feinberg
+    title: Former Boulder City Council Member
+  - first_name: Steve
+    last_name: Pomerance
+    title: Former Boulder City Council Member
+  - first_name: Gordon
+    last_name: Riggle
+    title: Former Boulder City Council Member
+  - first_name: Andrew
+    last_name: Shoemaker
+    title: Former Boulder City Council Member
+  - first_name: Mary
+    last_name: Young
+    title: Former Boulder City Council Member
+
+board_commission:
+  - first_name: Charles (Chuck)
+    last_name: Brock
+    title: Chair, Parks & Recreation Advisory Board
+  - first_name: Elliott
+    last_name: Hood
+    title: Parks & Recreation Advisory Board
+  - first_name: Jason
+    last_name: Unger
+    title: Parks & Recreation Advisory Board
+  - first_name: Jorge
+    last_name: Boone
+    title: City of Boulder Planning Board
+  - first_name: Benita
+    last_name: Duran
+    title: Boulder Public Library District Trustee
+  - first_name: Joni
+    last_name: Teter
+    title: Boulder Public Library District Trustee
+  - first_name: Joel
+    last_name: Koenig
+    title: Boulder Library Foundation Board
+  - first_name: Miriam
+    last_name: Gilbert
+    title: Boulder Library Commission
+  - first_name: Philip
+    last_name: Ogren
+    title: Housing Advisory Board
+  - first_name: Michael
+    last_name: Carr
+    title: Beverage Licensing Authority Board
+  - first_name: Michael
+    last_name: Christy
+    title: Cannabis Licensing Advisory Board
+  - first_name: Tom
+    last_name: Kunstman
+    title: Cannabis Licensing Advisory Board
+  - first_name: Robyn
+    last_name: Ronen
+    title: Boulder Junction Access District Parking Commission
+  - first_name: Lexi
+    last_name: Adler
+    title: Chair, City of Louisville Revitalization Commission
+  - first_name: Stephanie
+    last_name: Trees
+    title: Downtown Management Commission
+  - first_name: Shelly
+    last_name: Benford
+    title: CEO, Colorado Chautauqua Association
+  - first_name: Trudy
+    last_name: Turvey
+    title: Colorado Chautauqua Association Board of Directors
+  - first_name: Pat
+    last_name: Shanks
+    title: Colorado Chautauqua Association Board of Directors
+  - first_name: Peter
+    last_name: Speer
+    title: Colorado Chautauqua Association Board of Directors
+  - first_name: Star
+    last_name: Waring
+    title: Colorado Chautauqua Association Board of Directors
+  - first_name: Stephanie
+    last_name: Rudy
+    title: Downtown Boulder Community Initiatives (DCBI) Board
+  - first_name: Hernán
+    last_name: Villanueva
+    title: Chair, Environmental Advisory Board
+  - first_name: Bill
+    last_name: Rigler
+    title: Former Chair, Transportation Advisory Board
+  - first_name: Sean
+    last_name: Maher
+    title: Former CEO, Downtown Boulder Partnership
+  - first_name: John
+    last_name: Spitzer
+    title: Former Boulder Planning Board Member
+  - first_name: Tina
+    last_name: Marquis
+    title: Former BVSD Board Member
+  - first_name: Raj
+    last_name: Seymour
+    title: Former Chair, Parks & Recreation Advisory Board
+  - first_name: Pam
+    last_name: Yugar
+    title: Former Chair, Parks & Recreation Advisory Board
+  - first_name: Nikhil
+    last_name: Mankekar
+    title: Former Chair, Human Relations Commission
+# Community: first_name, last_name (sorted by last name)
+community:
+  - first_name: Colin
+    last_name: Dart
+  - first_name: Cindy
+    last_name: Agnes
+  - first_name: Gerry
+    last_name: Agnes
+  - first_name: Daniel
+    last_name: Aizenman
+  - first_name: Andy
+    last_name: Allison
+  - first_name: Siga
+    last_name: Andrew
+  - first_name: Mike
+    last_name: Atkinson
+  - first_name: Meghan
+    last_name: Bach
+  - first_name: Jennifer
+    last_name: Banyan
+  - first_name: Peter
+    last_name: Barlerin
+  - first_name: Len
+    last_name: Barron
+  - first_name: Doug
+    last_name: Bendt
+  - first_name: Sonia
+    last_name: Bendt
+  - first_name: Marina
+    last_name: Bernstein
+  - first_name: Renee
+    last_name: Beshures
+  - first_name: Matt
+    last_name: Bissonette
+  - first_name: Nancy
+    last_name: Blackwood
+  - first_name: Mark
+    last_name: Bloomfield
+  - first_name: Shelly
+    last_name: Bobbins
+  - first_name: Kim
+    last_name: Boston
+  - first_name: Terri
+    last_name: Brncic
+  - first_name: Michael
+    last_name: Broder
+  - first_name: Betsy
+    last_name: Broder
+  - first_name: Ed
+    last_name: Byrne
+  - first_name: Alan
+    last_name: Caplan
+  - first_name: Russ
+    last_name: Chandler
+  - first_name: Leslie
+    last_name: Chandler
+  - first_name: Jonathan
+    last_name: Chernoff
+  - first_name: Debra
+    last_name: Chernoff
+  - first_name: Andree, Olivia, and Jack
+    last_name: Christy
+  - first_name: Madelyn
+    last_name: Clair
+  - first_name: Rachel
+    last_name: Clair
+  - first_name: Sarah-Jane
+    last_name: Cohen
+  - first_name: Bill
+    last_name: Cohen
+  - first_name: Sandi
+    last_name: Collins
+  - first_name: Macon
+    last_name: Cowles
+  - first_name: George
+    last_name: Craft
+  - first_name: David
+    last_name: Dadone
+  - first_name: Elaine
+    last_name: Danemiller
+  - first_name: Virginia
+    last_name: Dart
+  - first_name: David
+    last_name: Davalos
+  - first_name: Mike
+    last_name: Deskevich
+  - first_name: Betty
+    last_name: Devine
+  - first_name: Karen
+    last_name: Ditz
+  - first_name: Itai
+    last_name: Divinsky
+  - first_name: Roz
+    last_name: Dorf
+  - first_name: Brian
+    last_name: Draves
+  - first_name: Chris
+    last_name: Drummond
+  - first_name: Shari
+    last_name: Edelstein
+  - first_name: Sarah
+    last_name: Edelstein
+  - first_name: Dan
+    last_name: Elliott
+  - first_name: Mary
+    last_name: Ellis
+  - first_name: John
+    last_name: Ellis
+  - first_name: Trish
+    last_name: Emser
+  - first_name: Janos
+    last_name: Englander
+  - first_name: David
+    last_name: Ensign
+  - first_name: Michelle
+    last_name: Estrella
+  - first_name: Stuart
+    last_name: Feinhor
+  - first_name: Eli
+    last_name: Feldman
+  - first_name: Paul
+    last_name: Ferris
+  - first_name: Jeffrey
+    last_name: Flynn
+  - first_name: Nick
+    last_name: Forster
+  - first_name: Annie
+    last_name: Fox
+  - first_name: Liz
+    last_name: Fox
+  - first_name: Sid
+    last_name: Fox
+  - first_name: Jean
+    last_name: Friedberg
+  - first_name: Sarah
+    last_name: Friend
+  - first_name: Ruth
+    last_name: Friend
+  - first_name: George
+    last_name: Friend
+  - first_name: Deanne
+    last_name: Fujii
+  - first_name: Ruhama
+    last_name: Gedamu
+  - first_name: Kokeb
+    last_name: Gedamu
+  - first_name: Ebenezer
+    last_name: Gedamu
+  - first_name: Mary
+    last_name: Girard
+  - first_name: Paula
+    last_name: Glinkman
+  - first_name: Merrill
+    last_name: Glustrom
+  - first_name: Carla
+    last_name: Graubard
+  - first_name: Molly
+    last_name: Greacen
+  - first_name: Stephanie
+    last_name: Greenberg
+  - first_name: Brent
+    last_name: Grohman
+  - first_name: Liz
+    last_name: Hanson
+  - first_name: John
+    last_name: Harris
+  - first_name: Elaine
+    last_name: Harris
+  - first_name: Brooke
+    last_name: Harrison
+  - first_name: Tom
+    last_name: Hast
+  - first_name: Katharine
+    last_name: Hauge
+  - first_name: Jim
+    last_name: Hooton
+  - first_name: Zach
+    last_name: Hunter
+  - first_name: Leeann
+    last_name: Hyland
+  - first_name: Lynne
+    last_name: Jones
+  - first_name: Mike
+    last_name: Jones
+  - first_name: Nina
+    last_name: Judd
+  - first_name: Terry
+    last_name: Keatley
+  - first_name: Alexandr
+    last_name: Khizver
+  - first_name: Nancy
+    last_name: Kornblum
+  - first_name: Ellen
+    last_name: Kort
+  - first_name: Rex
+    last_name: Laceby
+  - first_name: Kathleen
+    last_name: Landrum
+  - first_name: Ryan
+    last_name: Lapham
+  - first_name: Tamar
+    last_name: Larsen
+  - first_name: Tyler
+    last_name: Larson
+  - first_name: Margaret
+    last_name: Lazar
+  - first_name: Beth
+    last_name: Lesniak
+  - first_name: Lois
+    last_name: Linsky
+  - first_name: Jan
+    last_name: Liverance
+  - first_name: Jen
+    last_name: Livovich
+  - first_name: Steve
+    last_name: Lynton
+  - first_name: Sean
+    last_name: Maher
+  - first_name: Maryann
+    last_name: Mahoney
+  - first_name: Julie
+    last_name: Marshall
+  - first_name: Mandi
+    last_name: Mateer
+  - first_name: Peter
+    last_name: Mayer
+  - first_name: Lyra
+    last_name: Mayfield
+  - first_name: Liam
+    last_name: McClintock
+  - first_name: Kathleen
+    last_name: McCormick
+  - first_name: Ty
+    last_name: Melton
+  - first_name: Andrea
+    last_name: Meneghel
+  - first_name: Hope
+    last_name: Michelsen
+  - first_name: Sara
+    last_name: Mitton
+  - first_name: Jeff
+    last_name: Mitton
+  - first_name: Tara
+    last_name: Mohr
+  - first_name: Richard
+    last_name: Monje
+  - first_name: Estere
+    last_name: Morris
+  - first_name: Joan
+    last_name: Nagel
+  - first_name: Chistopher
+    last_name: Nicholson
+  - first_name: Robin
+    last_name: Noble
+  - first_name: Ann
+    last_name: Norris
+  - first_name: Fern
+    last_name: O'Brien
+  - first_name: Jill
+    last_name: Oliver
+  - first_name: Justin
+    last_name: Olson
+  - first_name: Kerry
+    last_name: Patterson
+  - first_name: Dennis
+    last_name: Paul
+  - first_name: Debra
+    last_name: Paul
+  - first_name: Anne
+    last_name: Peters
+  - first_name: Tom
+    last_name: Phillips
+  - first_name: Marilyn
+    last_name: Pinsker
+  - first_name: Jerry
+    last_name: Pinsker
+  - first_name: Bev
+    last_name: Pogreba
+  - first_name: Jennifer Polk
+    last_name: Robins
+  - first_name: Danica
+    last_name: Powell
+  - first_name: Perry
+    last_name: Quinn
+  - first_name: Dawn
+    last_name: Reinfeld
+  - first_name: Jennifer
+    last_name: Rhodes
+  - first_name: Chris
+    last_name: Robins
+  - first_name: Amir
+    last_name: Ronen
+  - first_name: Sharon
+    last_name: Rosall
+  - first_name: Nolan
+    last_name: Rosall
+  - first_name: Rabbi Charna
+    last_name: Rosenholtz
+  - first_name: Marci
+    last_name: Rosenthal
+  - first_name: Shari
+    last_name: Roth
+  - first_name: Diz
+    last_name: Rotta
+  - first_name: Daphna
+    last_name: Rubin
+  - first_name: Shelley
+    last_name: Russell
+  - first_name: Karen
+    last_name: Sandburg
+  - first_name: Peggy
+    last_name: Sands
+  - first_name: Paul
+    last_name: Sattizahn
+  - first_name: Dave
+    last_name: Schell
+  - first_name: Jen
+    last_name: Schreiber
+  - first_name: Matt
+    last_name: Schreiber
+  - first_name: Michael
+    last_name: Schreiner
+  - first_name: Edina
+    last_name: Segal
+  - first_name: Jackie
+    last_name: Seltzer
+  - first_name: Wayne
+    last_name: Seltzer
+  - first_name: Amanda
+    last_name: Sfeir
+  - first_name: Bruce
+    last_name: Shaffer
+  - first_name: David
+    last_name: Shomper
+  - first_name: Sina
+    last_name: Simantob
+  - first_name: Amy
+    last_name: Skaife
+  - first_name: Joel
+    last_name: Smith
+  - first_name: Kerri
+    last_name: Somers
+  - first_name: Lisa
+    last_name: Spalding
+  - first_name: Douglas
+    last_name: Sparks
+  - first_name: Stephen
+    last_name: Sparn
+  - first_name: Miriam
+    last_name: Sproul
+  - first_name: Aza
+    last_name: Squarer
+  - first_name: Ron
+    last_name: Squarer
+  - first_name: Wyatt
+    last_name: Stack
+  - first_name: Charlie
+    last_name: Stein
+  - first_name: Valerie
+    last_name: Stoyva
+  - first_name: Mary
+    last_name: Strynar
+  - first_name: Mark
+    last_name: Strynar
+  - first_name: Eric
+    last_name: Swanson
+  - first_name: Stephen and Tatiana
+    last_name: Tebo
+  - first_name: Tim
+    last_name: Thomas
+  - first_name: Scott
+    last_name: Thomas
+  - first_name: Jean
+    last_name: Thompson
+  - first_name: Jack
+    last_name: Thompson
+  - first_name: Marion
+    last_name: Thurnauer
+  - first_name: Nancy
+    last_name: Travis
+  - first_name: Andrew
+    last_name: Trees
+  - first_name: Tami
+    last_name: Turczyn
+  - first_name: Jud
+    last_name: Valeski
+  - first_name: Jill
+    last_name: Vidas
+  - first_name: Stuart
+    last_name: Walker
+  - first_name: Steve
+    last_name: Welter
+  - first_name: John
+    last_name: Wesley
+  - first_name: Michael
+    last_name: Whelan
+  - first_name: Jim
+    last_name: Williams
+  - first_name: Howard
+    last_name: Witkin
+  - first_name: Patty
+    last_name: Witkin
+  - first_name: Val
+    last_name: Yates
+  - first_name: Joan
+    last_name: Zimmermann

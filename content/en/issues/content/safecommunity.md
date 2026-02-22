@@ -13,6 +13,8 @@ weight: 120
 toc: true
 ---
 
+<!-- EDIT BELOW -->
+
 My top safety priorities include:
 - expanding fire prevention and mitigation
 - increasing the safety of Boulder Creek, our bike paths and underpasses, our parks, and our schools

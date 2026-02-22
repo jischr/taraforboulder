@@ -13,6 +13,8 @@ weight: 150
 toc: true
 ---
 
+<!-- EDIT BELOW -->
+
 My top priorities for Transportation include:
 - improving biking safety by creating protected bike lanes and enhancing Boulder bike paths
 - increasing the quality and consistency of our public transit

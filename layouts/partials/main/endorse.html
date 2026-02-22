@@ -10,10 +10,10 @@
         <div class="col">
           <h3 class="h4 card-title">Endorse Tara Winer for Boulder City Council</h3>
           <div class="mb-4 mt-4">
-            {{ if (or (and (isset .Params "title") (eq .Params.title "Hear What People are Saying")) (.IsHome)) }}
+            {{ if or .IsHome (and (isset .Params "title") (or (in .Params.title "People") (in .Params.title "Saying") (in .Params.title "Said"))) }}
             <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/endorsers/" | relURL }}">See Tara's Supporters</a>
             {{ end }}
-            {{ if (and (isset .Params "title") (eq .Params.title "Tara's Endorsers"))}}
+            {{ if and (isset .Params "title") (in .Params.title "Endorsers") }}
             <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/quotes/" | relURL }}">Quotes from Supporters</a>
             {{ end }}
             <a class="btn btn-dark mb-2 mx-1" target="_blank" rel="noopener" href="{{ .Site.Params.endorseForm }}">Endorse Tara</a>
