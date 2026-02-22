@@ -11,7 +11,7 @@ This guide is for anyone who updates content on the Tara for Boulder site using 
 
 ---
 
-## How to edit a file on GitHub (commit to dev)
+## How to edit a file on GitHub
 
 You work on the **dev** branch and commit directly to it. 
 1. Open the file you want to edit (see the **What to edit** table below) and click the **pencil icon** to edit.
