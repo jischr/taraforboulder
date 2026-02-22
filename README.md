@@ -1,4 +1,4 @@
-# Updating site content (endorsers, quotes, issues)
+# Updating site content
 
 This guide is for anyone who updates content on the Tara for Boulder site using **only the GitHub website**—no coding experience or development environment needed.
 
@@ -11,14 +11,12 @@ This guide is for anyone who updates content on the Tara for Boulder site using 
 
 ---
 
-## How to edit a file on GitHub (commit to dev)
+## How to edit a file on GitHub
 
-You work on the **dev** branch and commit directly to it. No branches or pull requests—just edit and save.
-
-1. Open the repo on GitHub. At the top left, use the **branch dropdown** (it may say `main` or `dev`) and select **dev**. If **dev** is the default branch, you're already there.
-2. Open the file you want to edit (see the **What to edit** table below) and click the **pencil icon** to edit.
-3. Make your changes in the text box.
-4. Scroll down and click **Commit changes**. Leave **"Commit directly to the dev branch"** selected (don't switch to "Create a new branch").
+You work on the **dev** branch and commit directly to it. 
+1. Open the file you want to edit (see the **What to edit** table below) and click the **pencil icon** to edit.
+2. Make your changes in the text box.
+4. Scroll down and click **Commit changes**. Leave **"Commit directly to the dev branch"** selected
 5. Add a short commit message (e.g. "Update endorsers") and click **Commit changes** again.
 
 Your changes are now on **dev**. The live site will update when the repo owner merges dev into main for a release.
@@ -43,11 +41,10 @@ Your changes are now on **dev**. The live site will update when the repo owner m
 
 ### Endorsers and quotes (YAML files in `data/`)
 
-- Use **2 spaces** for indentation. Don't use tabs.
 - To **add** an entry, copy an existing one and change the name, title, or quote.
 - **Don't remove or rename** the section headers (e.g. `organizations:`, `elected_officials:`, `community:`).
 
-**Endorsers:** Each person or group belongs under one section. For **organizations**, each line is one name. For **elected officials**, **former officials**, and **board/commission**, each entry has `first_name:`, `last_name:`, and `title:` (no quotes needed). For **community**, each entry has `first_name:` and `last_name:` (the list is sorted by last name). Copy an existing entry and change the values; use 2 spaces for indentation.
+**Endorsers:** Each person or group belongs under one section. For **organizations**, each line is one name. For **elected officials**, **former officials**, and **board/commission**, each entry has `first_name:`, `last_name:`, and `title:`. For **community**, each entry has `first_name:` and `last_name:` (the list is sorted by last name). Copy an existing entry and change the values; use 2 spaces for indentation.
 
 **Quotes:** Each quote has `name:`, `title:` (optional), and `quote:` (the quote text). Copy an existing quote block and change the text.
 
