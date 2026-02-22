@@ -1,4 +1,4 @@
-# Updating site content (endorsers, quotes, issues)
+# Updating site content
 
 This guide is for anyone who updates content on the Tara for Boulder site using **only the GitHub website**—no coding experience or development environment needed.
 
