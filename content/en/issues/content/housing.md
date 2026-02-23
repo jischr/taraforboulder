@@ -14,7 +14,7 @@ toc: true
 ---
 
 <!-- EDIT BELOW -->
-<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/main/README.md -->
 
 We all agree that Boulder needs more housing options for low and middle-income families. The fastest, more probable path is to pursue new housing developments in the transit corridors, unused urban spaces, and East Boulder’s light industrial areas. Why? These areas have more space and more flexible zoning, which increases the likelihood of project completion, timeliness, and ideal design. 
 

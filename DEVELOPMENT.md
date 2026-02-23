@@ -45,9 +45,8 @@ Netlify runs `npm run build` (with devDependencies installed). Hugo version is s
 
 ## For repo owners: branches and release
 
-- **dev** is the working branch. Content editors commit directly to **dev** (see [README.md](README.md)). If you don't have a `dev` branch yet, create it from `main` (e.g. in GitHub: switch to main, then create a new branch named `dev` from it).
-- **main** is protected; no one should push or merge directly to main. To protect main: GitHub → Settings → Branches → Add rule → branch name pattern `main` → enable "Do not allow bypassing the above settings" and restrict who can push (e.g. no one, or only you).
-- **Release:** When you're ready to update the live site, merge **dev** into **main**. Netlify will build and deploy from main. Optionally set **dev** as the default branch (Settings → General → Default branch) so editors start on dev when they open the repo.
+- **main** is the working branch. Content editors commit directly to **main** (see [README.md](README.md)).
+- Netlify builds and deploys from **main**. To update the deploy branch (if you use it), run the **update-deploy** workflow from the Actions tab.
 
 ## Documentation
 

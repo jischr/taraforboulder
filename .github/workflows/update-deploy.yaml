@@ -1,0 +1,50 @@
+name: update-deploy
+
+on:
+  workflow_dispatch:  # manual trigger only
+
+jobs:
+  fast-forward-main-into-deploy:
+    runs-on: ubuntu-latest
+    permissions: {}
+
+    steps:
+      - name: Fast-forward main into deploy
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.DEPLOY_PAT }}  # fine-grained PAT: Contents Read and Write only
+          script: |
+            // Get the SHA of main
+            const mainRef = await github.rest.git.getRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'heads/main'
+            });
+
+            const mainSha = mainRef.data.object.sha;
+
+            // Skip if deploy already matches main
+            const deployRef = await github.rest.git.getRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'heads/deploy'
+            });
+            if (deployRef.data.object.sha === mainSha) {
+              console.log('✅ deploy already matches main');
+              return;
+            }
+
+            // Update deploy branch to point at main SHA (fast-forward only)
+            try {
+              await github.rest.git.updateRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'heads/deploy',
+                sha: mainSha,
+                force: false  // ensures no accidental overwrite if deploy diverged
+              });
+              console.log(`✅ deploy branch fast-forwarded to match main (${mainSha})`);
+            } catch (error) {
+              console.error(`❌ Failed to update deploy: ${error.message}`);
+              throw error;
+            }

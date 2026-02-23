@@ -14,7 +14,7 @@ toc: true
 ---
 
 <!-- EDIT BELOW -->
-<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/main/README.md -->
 
 In the last few years, growth and development in Colorado, and particularly the Front Range, have been substantial. As Boulder grows, housing and affordability are on everyone's mind. With dramatically increasing housing prices, in-city housing is closed off to large segments of the population who work here. 
 

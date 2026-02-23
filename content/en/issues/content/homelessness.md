@@ -14,7 +14,7 @@ toc: true
 ---
 
 <!-- EDIT BELOW -->
-<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/main/README.md -->
 
 We all agree that more should be done to lift people out of homelessness in Boulder and know that it requires substantial financial resources to do so, whether it’s mental health programs, substance abuse programs, needed housing, or ready-to-work programs. Boulder will need to rely on funds and other support from county, state, and non-governmental sources to make meaningful progress. We must start with compassion. We must treat people as individuals. There is not one reason why people fall into homelessness and so there is no one-size-fits-all solution.
 
