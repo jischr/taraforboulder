@@ -14,10 +14,11 @@ toc: true
 ---
 
 <!-- EDIT BELOW -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
 
 ## Fire Mitigation
 
-We can no longer fully prevent wildfires, although we can decrease the risk to our community.  We need to build resilience. Making sure our homes are fire resistant and thinning our forests that are on the wildland-urban interface are just two of the many ways we can mitigate and or manage fire risk. 
+We can no longer fully prevent wildfires, although we can decrease the risk to our community.  We need to build resilience. Making sure our homes are fire resistant and thinning our forests that are on the wildland-urban interface are just two of the many ways we can mitigate and or manage fire risk.
 
 ## Flood Mitigation
 
@@ -35,7 +36,7 @@ I fully support Boulder’s targets to address our climate emergency:
 In order to achieve our emissions targets, our city government must take action to transition our infrastructure away from fossil fuels toward renewables.
 
 ### Partnerships
-Let's work with our local businesses, CU, and neighborhood organizations to identify impediments and potential incentives to speed up the transition (e.g. CU is the leading source of commuting vehicle trips: 12,000+/day)
+Let's work with our local businesses, CU, and neighborhood organizations to identify impediments and potential incentives to speed up the transition (e.g. CU is the leading source of commuting vehicle trips: 12,000+/day).
 
 ### Transportation
 - Transition our city bus fleet from diesel fuel to electricity

@@ -14,6 +14,7 @@ toc: true
 ---
 
 <!-- EDIT BELOW -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
 
 The arts and culture are an important part of Boulder’s ethos as a welcoming, vibrant community. Boulderites not only enjoy music, theater, visual arts, dance, food, festivals, and diverse cultures, but have also built a strong local and tourist economy around it, bringing in over $70M a year.
 

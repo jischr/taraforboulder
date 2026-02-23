@@ -8,6 +8,7 @@ images: []
 ---
 
 <!-- EDIT BELOW -->
+<!-- Are you lost? Go back to the README for instructions: https://github.com/jischr/taraforboulder/blob/dev/README.md -->
 
 ## My Career 
 
