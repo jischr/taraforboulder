@@ -248,6 +248,17 @@
   color: $black;
 }
 
+.issues-card__description {
+  font-size: 0.875rem;
+  color: $gray-600;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .issues-card__link {
   font-size: 0.875rem;
   font-weight: 500;

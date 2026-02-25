@@ -22,20 +22,14 @@
       <p class="issues-section__lead">The key priorities I'm continuing to focus on for Boulder.</p>
     </div>
     <div class="row g-4 issues-section__grid">
-      {{ $issues := slice
-        (dict "title" "Safety of our public spaces" "slug" "safecommunity")
-        (dict "title" "Bike underpasses and multi-use paths" "slug" "transportation")
-        (dict "title" "Upstream solutions to prevent homelessness" "slug" "homelessness")
-        (dict "title" "Treatment options for substance abuse and mental health" "slug" "")
-        (dict "title" "Affordable and middle-income housing" "slug" "housing")
-        (dict "title" "Fire and flood preparedness and mitigation" "slug" "climate")
-        (dict "title" "Funding for the arts" "slug" "artsculture")
-        (dict "title" "Economic vitality" "slug" "economicvitality")
-      }}
+      {{ $issues := slice }}
+      {{ with .Site.GetPage "issues/content" }}
+        {{ $issues = .Pages.ByWeight }}
+      {{ end }}
       {{ range $issues }}
         <div class="col-sm-6 col-lg-4 col-xl-3">
-          <a class="issues-card" href="{{ if .slug }}{{ printf "issues/content/%s/" .slug | relURL }}{{ else }}{{ "issues/content/" | relURL }}{{ end }}">
-            <h3 class="issues-card__title">{{ .title }}</h3>
+          <a class="issues-card" href="{{ .RelPermalink }}">
+            <h3 class="issues-card__title">{{ .Title }}</h3>
             <span class="issues-card__link">Learn more &rarr;</span>
           </a>
         </div>

@@ -1,7 +1,7 @@
 ---
 title: "Climate Action"
 description: ""
-lead: "Climate change poses a greater risk to Boulder year over year, contributing to floods, drought, wildfires, rising temperatures, record-low water levels, and air pollution."
+lead: "Fire and flood preparedness and mitigation"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false

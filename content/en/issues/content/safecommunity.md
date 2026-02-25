@@ -1,7 +1,7 @@
 ---
 title: "Safe & Welcoming Community"
 description: ""
-lead: "A safe and welcoming community for both residents and visitors is one of the core responsibilities of the city government and my highest, near-term priority for Boulder."
+lead: "Safe parks and paths for a welcoming community"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
