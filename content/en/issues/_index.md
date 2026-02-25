@@ -1,9 +1,11 @@
 ---
-title : "Tara for Boulder"
-description: "Tara for Boulder"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: "On the Issues"
+description: ""
+lead: "The key priorities I'm continuing to focus on for Boulder."
+cardLinkText: "Learn more →"
+ctaText: "Explore all priorities"
+date: 2023-06-16T19:35:13-06:00
+lastmod: 2023-06-16T19:35:13-06:00
 draft: false
 images: []
 ---

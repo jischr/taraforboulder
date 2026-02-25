@@ -2,8 +2,8 @@
 title: "Tara's Endorsers in the 2023 Election"
 description: ""
 lead: ""
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+date: 2026-02-21T17:07:08-07:00
+lastmod: 2026-02-21T17:07:08-07:00
 draft: false
 images: []
 menu:

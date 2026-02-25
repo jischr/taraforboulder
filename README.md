@@ -17,13 +17,18 @@ This guide is for anyone who updates content on the Tara for Boulder site using 
 
 | What you want to change | File to open on GitHub |
 |------------------------|------------------------|
+| **Homepage “My approach” block** (kicker, headline, lead, body paragraph, and “Request a Yard Sign” button text) | [content/en/approach.md](content/en/approach.md) |
+| **Homepage issues section** (heading “On the Issues”, lead line, “Learn more” link text, “Explore all priorities” button text) | [content/en/issues/_index.md](content/en/issues/_index.md) |
+| **Issue pages** (e.g. transportation, housing, safety) | [content/en/issues/content/](content/en/issues/content/) — then open the file you need (e.g. `transportation.md`, `housing.md`, `safecommunity.md`, `homelessness.md`, `climate.md`, `economicvitality.md`, `artsculture.md`, `growth.md`) |
+| **Bio** | [content/en/bio/index.md](content/en/bio/index.md) |
+| **Experience** | [content/en/experience/index.md](content/en/experience/index.md) |
+| **Privacy policy** | [content/en/privacy-policy/index.md](content/en/privacy-policy/index.md) |
+| **Endorsements hub** (intro text and title for the Support / Endorse area) | [content/en/endorsements/_index.md](content/en/endorsements/_index.md) |
+| **Endorsements pages** (intro text on the “Endorsers” and “Quotes” pages) | [content/en/endorsements/content/](content/en/endorsements/content/) — open `Endorsers.md`, `Endorsers-2026.md`, `Quotes.md`, or `Quotes-2026.md` as needed |
 | **Live endorsers list** (what’s on the site now) | [data/endorsers-2023.yaml](data/endorsers-2023.yaml) |
 | **Live quotes from supporters** | [data/quotes-2023.yaml](data/quotes-2023.yaml) |
 | **Draft 2026 endorsers** (not live yet) | [data/endorsers-2026.yaml](data/endorsers-2026.yaml) |
 | **Draft 2026 quotes** | [data/quotes-2026.yaml](data/quotes-2026.yaml) |
-| **Issue pages** (e.g. transportation, housing, safety) | [content/en/issues/content/](content/en/issues/content/) — then open the file you need (e.g. `transportation.md`, `housing.md`, `safecommunity.md`, `homelessness.md`, `climate.md`, `economicvitality.md`, `artsculture.md`, `growth.md`) |
-| **Bio** | [content/en/bio/index.md](content/en/bio/index.md) |
-| **Experience** | [content/en/experience/index.md](content/en/experience/index.md) |
 
 ---
 
@@ -61,6 +66,32 @@ Your changes are now saved. You’ll see a confirmation at the top of the screen
 
 - **Edit only the content below the line that says `<!-- EDIT BELOW -->`.**
 - Don’t change or delete anything **above** that line (the block at the top with the page title and description). If you need to change the page title or short description, ask someone who’s done it before or leave it as is.
+
+### Homepage “My approach” block ([content/en/approach.md](content/en/approach.md))
+
+This file controls the quote/mission block on the homepage (the “My approach” section with the headline, lead, body paragraph, and yard sign button).
+
+- **Top of the file (front matter):** The block between the two `---` lines. You can edit:
+  - **title** — The main headline (e.g. “Balanced solutions for a stronger community.”).
+  - **kicker** — The small label above the headline (e.g. “My approach”).
+  - **lead** — The subheading under the headline.
+  - **ctaText** — The button label (e.g. “Request a Yard Sign”). The button still links to the yard sign form; only the visible text changes here.
+- **Body (below the second `---`):** The main paragraph. Edit it like normal text; you can use **bold** and *italic* if you like. Don’t remove the `---` lines.
+
+### Homepage issues section ([content/en/issues/_index.md](content/en/issues/_index.md))
+
+This file controls the “On the Issues” block on the homepage (the section heading, lead line, card link text, and bottom button).
+
+- **In the block at the top (between the two `---` lines)** you can edit:
+  - **title** — The section heading (e.g. “On the Issues”).
+  - **lead** — The line under the heading (e.g. “The key priorities I'm continuing to focus on for Boulder.”).
+  - **cardLinkText** — The link text on each issue card (e.g. “Learn more →”).
+  - **ctaText** — The bottom button text (e.g. “Explore all priorities”). Don’t remove the `---` lines.
+
+### Privacy policy and endorsements pages
+
+- **Privacy policy:** Edit the content below the top `---` block. The short summary and the bullet list are normal text; you can change wording as needed.
+- **Endorsements hub and pages:** For the hub ([content/en/endorsements/_index.md](content/en/endorsements/_index.md)), edit **title** and **lead** in the top block if you want to change the section intro. For the Endorsers and Quotes pages in [content/en/endorsements/content/](content/en/endorsements/content/), edit the body text (and **title** / **lead** in the top block if needed). Don’t remove the `---` lines.
 
 ---
 

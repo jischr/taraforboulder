@@ -36,7 +36,6 @@ schemaImageHeight = 640
 schemaTwitter = ""
 schemaLinkedIn = ""
 schemaGitHub = ""
-# schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false

@@ -14,29 +14,31 @@
 
 {{ partial "sidebar/quote.html" . }}
 
+{{ $issuesSection := .Site.GetPage "issues" }}
 <section class="issues-section" id="issues" aria-labelledby="issues-heading">
   <div class="issues-section__bg" {{ with resources.GetMatch "images/flowers.jpeg" }}style="--issues-bg: url('{{ .RelPermalink }}');"{{ end }} aria-hidden="true"></div>
   <div class="container position-relative">
     <div class="issues-section__header text-center">
-      <h2 id="issues-heading" class="issues-section__title">On the Issues</h2>
-      <p class="issues-section__lead">The key priorities I'm continuing to focus on for Boulder.</p>
+      <h2 id="issues-heading" class="issues-section__title">{{ $issuesSection.Title }}</h2>
+      <p class="issues-section__lead">{{ $issuesSection.Params.lead | default "The key priorities I'm continuing to focus on for Boulder." }}</p>
     </div>
     <div class="row g-4 issues-section__grid">
       {{ $issues := slice }}
       {{ with .Site.GetPage "issues/content" }}
         {{ $issues = .Pages.ByWeight }}
       {{ end }}
+      {{ $cardLink := $issuesSection.Params.cardLinkText | default "Learn more →" }}
       {{ range $issues }}
         <div class="col-sm-6 col-lg-4 col-xl-3">
           <a class="issues-card" href="{{ .RelPermalink }}">
             <h3 class="issues-card__title">{{ .Title }}</h3>
-            <span class="issues-card__link">Learn more &rarr;</span>
+            <span class="issues-card__link">{{ $cardLink }}</span>
           </a>
         </div>
       {{ end }}
     </div>
     <div class="issues-section__cta text-center">
-      <a class="btn btn-dark px-4" href="{{ "issues/content/" | relURL }}" role="button">Explore all priorities</a>
+      <a class="btn btn-dark px-4" href="{{ "issues/content/" | relURL }}" role="button">{{ $issuesSection.Params.ctaText | default "Explore all priorities" }}</a>
     </div>
   </div>
 </section>

@@ -1,19 +1,22 @@
-<section class="quote-section"{{ with resources.Get "/images/mountains.png" }} style="--quote-bg: url('{{ .RelPermalink }}');"{{ end }} aria-labelledby="quote-heading">
+{{ $approach := .Site.GetPage "approach" }}
+{{ with $approach }}
+<section class="quote-section" aria-labelledby="quote-heading">
   <div class="quote-section__inner">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-lg-9 col-xl-8">
-          <p class="quote-section__kicker" id="quote-heading">My approach</p>
-          <h2 class="quote-section__title">Balanced solutions for a stronger community.</h2>
-          <p class="quote-section__lead">I’m committed to a Boulder that’s welcoming, inclusive, safe, and accessible—a place that values creativity and mutual respect.</p>
+          <p class="quote-section__kicker" id="quote-heading">{{ .Params.kicker | default "My approach" }}</p>
+          <h2 class="quote-section__title">{{ .Title }}</h2>
+          <p class="quote-section__lead">{{ .Params.lead | safeHTML }}</p>
           <div class="quote-section__body">
-            <p>It has been an honor to serve as your representative on City Council. I’m running for re-election because there is still important work to do, and I want to keep building on the progress we’ve made together.</p>
+            {{ .Content }}
           </div>
           <div class="quote-section__cta">
-            <a class="btn btn-dark btn-lg px-4" target="_blank" rel="noopener" href="{{ .Site.Params.yardSignForm }}" role="button">Request a Yard Sign</a>
+            <a class="btn btn-dark btn-lg px-4" target="_blank" rel="noopener" href="{{ $.Site.Params.yardSignForm }}" role="button">{{ .Params.ctaText | default "Request a Yard Sign" }}</a>
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+{{ end }}
