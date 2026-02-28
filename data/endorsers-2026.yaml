@@ -27,9 +27,6 @@ elected_officials:
   - first_name: Mark
     last_name: Wallach
     title: Boulder City Council Member
-  - first_name: Bob
-    last_name: Yates
-    title: Boulder City Council Member
   - first_name: Lesley
     last_name: Smith
     title: CU Regent
@@ -49,16 +46,16 @@ former_officials:
     title: Former Boulder Mayor
   - first_name: Leslie
     last_name: Durgin
-    title: Former Boulder Mayor Pro Tem
+    title: Former Boulder City Council Member
   - first_name: Lisa
     last_name: Morzel
-    title: Former Boulder Mayor Pro Tem
+    title: Former City Council Member
   - first_name: Crystal
     last_name: Gray
-    title: Former Boulder Deputy Mayor
+    title: Former Boulder City Council Member
   - first_name: George
     last_name: Karakehian
-    title: Former Boulder Deputy Mayor
+    title: Former Boulder City Council Member
   - first_name: Jan
     last_name: Burton
     title: Former Boulder City Council Member
@@ -80,6 +77,9 @@ former_officials:
   - first_name: Mary
     last_name: Young
     title: Former Boulder City Council Member
+  - first_name: Bob
+    last_name: Yates
+    title: Boulder City Council Member
 
 board_commission:
   - first_name: Charles (Chuck)
