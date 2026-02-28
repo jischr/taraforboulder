@@ -22,6 +22,7 @@ My top priorities for Economic Vitality include:
 - expanding the labor pool by providing incentives and housing diversity
 - finding ways to increase affordability for new businesses
 - broadening community outreach so all community members feel welcome and included
+- reduce red tape costs to businesses
 
 ### Increasing Downtown Safety
 The new Ambassador and Ranger programs provide a non-police presence in the Downtown and aims to reduce crime affecting local businesses. I am interested in extending these programs to include the commercial Hill district. In order to do so, finding solutions for those experiencing mental health and drug addiction challenges will be a top priority. A new Day Shelter will help, as the unhoused will have a place they can go during the day to find services and other daily health needs. 
