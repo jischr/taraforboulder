@@ -104,7 +104,6 @@ lastMod = false
   bootStrapJs = true
   breadCrumb = false
   highLight = false
-  kaTex = false
   multilingualMode = false
   docsVersioning = false
   fullWidth = true

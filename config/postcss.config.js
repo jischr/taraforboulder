@@ -100,7 +100,6 @@ module.exports = {
           './assets/scss/common/_dark.scss',
           './assets/scss/layouts/_home.scss',
           './node_modules/bootstrap/scss/_dropdown.scss',
-          './node_modules/katex/dist/katex.css',
         ]),
       ],
     }),
