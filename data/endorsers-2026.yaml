@@ -9,20 +9,30 @@ organizations: []
 
 # Each entry: first_name, last_name, title
 elected_officials:
-  - first_name: Steve
-    last_name: Fenberg
-    title: Colorado Senate President
+  
   - first_name: Judy
     last_name: Amabile
-    title: Colorado State Representation HD49
+    title: Colorado State Senator D18
+  - first_name: Karen
+    last_name: McCormick
+    title: Colorado State Rep HD11
   - first_name: Ashley
     last_name: Stolzmann
     title: Boulder County Commissioner
+  - first_name: Aaron
+    last_name: Brockett
+    title: Boulder Mayor
   - first_name: Matt
     last_name: Benjamin
     title: Boulder City Council Member
-  - first_name: Rachel
-    last_name: Friend
+  - first_name: Rob
+    last_name: Kaplan
+    title: Boulder City Council Member
+  - first_name: Tina
+    last_name: Marquis
+    title: Boulder City Council Member
+  - first_name: Ryan
+    last_name: Schuchard
     title: Boulder City Council Member
   - first_name: Mark
     last_name: Wallach
@@ -30,8 +40,17 @@ elected_officials:
   - first_name: Lesley
     last_name: Smith
     title: CU Regent
+  - first_name: Elliott
+    last_name: Hood
+    title: CU Regent
+  - first_name: Jason
+    last_name: Unger
+    title: BVSD School Board Treasurer
 
 former_officials:
+   -first_name: Steve
+    last_name: Fenberg
+    title: Former Colorado Senate President
   - first_name: Edie
     last_name: Hooton
     title: Former State Representative
@@ -44,6 +63,9 @@ former_officials:
   - first_name: Sam
     last_name: Weaver
     title: Former Boulder Mayor
+  - first_name: Rachel
+    last_name: Friend
+    title: Boulder City Council Member
   - first_name: Leslie
     last_name: Durgin
     title: Former Boulder City Council Member
@@ -82,15 +104,6 @@ former_officials:
     title: Boulder City Council Member
 
 board_commission:
-  - first_name: Charles (Chuck)
-    last_name: Brock
-    title: Chair, Parks & Recreation Advisory Board
-  - first_name: Elliott
-    last_name: Hood
-    title: Parks & Recreation Advisory Board
-  - first_name: Jason
-    last_name: Unger
-    title: Parks & Recreation Advisory Board
   - first_name: Jorge
     last_name: Boone
     title: City of Boulder Planning Board
@@ -114,7 +127,7 @@ board_commission:
     title: Beverage Licensing Authority Board
   - first_name: Michael
     last_name: Christy
-    title: Cannabis Licensing Advisory Board
+    title: Former Cannabis Licensing Advisory Board
   - first_name: Tom
     last_name: Kunstman
     title: Cannabis Licensing Advisory Board
@@ -123,10 +136,10 @@ board_commission:
     title: Boulder Junction Access District Parking Commission
   - first_name: Lexi
     last_name: Adler
-    title: Chair, City of Louisville Revitalization Commission
+    title: City of Louisville Revitalization Commission
   - first_name: Stephanie
     last_name: Trees
-    title: Downtown Management Commission
+    title: Former Downtown Management Commission
   - first_name: Shelly
     last_name: Benford
     title: CEO, Colorado Chautauqua Association
@@ -139,15 +152,12 @@ board_commission:
   - first_name: Peter
     last_name: Speer
     title: Colorado Chautauqua Association Board of Directors
-  - first_name: Star
-    last_name: Waring
-    title: Colorado Chautauqua Association Board of Directors
   - first_name: Stephanie
     last_name: Rudy
     title: Downtown Boulder Community Initiatives (DCBI) Board
   - first_name: Hernán
     last_name: Villanueva
-    title: Chair, Environmental Advisory Board
+    title: Former Chair, Environmental Advisory Board
   - first_name: Bill
     last_name: Rigler
     title: Former Chair, Transportation Advisory Board
@@ -157,9 +167,6 @@ board_commission:
   - first_name: John
     last_name: Spitzer
     title: Former Boulder Planning Board Member
-  - first_name: Tina
-    last_name: Marquis
-    title: Former BVSD Board Member
   - first_name: Raj
     last_name: Seymour
     title: Former Chair, Parks & Recreation Advisory Board
