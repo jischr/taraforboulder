@@ -21,7 +21,10 @@ elected_officials:
     title: Boulder County Commissioner
   - first_name: Aaron
     last_name: Brockett
-    title: Boulder Mayor
+    title: Mayor of Boulder
+  - first_name: Saul
+    last_name: Tapia Vega
+    title: Mayor of Lafayette
   - first_name: Matt
     last_name: Benjamin
     title: Boulder City Council Member
@@ -54,6 +57,9 @@ former_officials:
   - first_name: Edie
     last_name: Hooton
     title: Former State Representative
+  - first_name: Hollie
+    last_name: Rogin
+    title: Former Mayor of Lyons
   - first_name: Matt
     last_name: Appelbaum
     title: Former Boulder Mayor
