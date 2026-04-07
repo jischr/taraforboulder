@@ -46,7 +46,7 @@
     "hugo-installer": "^4.0.1",
     "instant.page": "^5.1",
     "lazysizes": "^5.3",
-    "markdownlint-cli2": "^0.21.0",
+    "markdownlint-cli2": "^0.22.0",
     "netlify-plugin-submit-sitemap": "^0.4.0",
     "node-fetch": "^3.2",
     "postcss": "^8.4",
