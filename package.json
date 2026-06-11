@@ -44,7 +44,7 @@
     "flexsearch": "^0.7.21",
     "highlight.js": "11.7.0",
     "hugo-installer": "^4.0.1",
-    "instant.page": "^5.1",
+    "instant.page": "^5.2",
     "lazysizes": "^5.3",
     "markdownlint-cli2": "^0.21.0",
     "netlify-plugin-submit-sitemap": "^0.4.0",
