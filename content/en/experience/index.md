@@ -22,7 +22,8 @@ images: []
 *2021 - present*
 
 - Role: Council Member
-- Elected to a 2-year term starting November 2021
+- Elected to a 2-year term in November 2021
+- Re-elected to a 3-year term in November 2023
 
 ### Downtown Boulder Community Initiatives Board (DBCI)
 *2020 - present*
