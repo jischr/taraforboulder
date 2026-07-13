@@ -15,6 +15,11 @@
   weight = 30
 
 [[main]]
+  name = "Fun Photos"
+  url = "/fun-photos/"
+  weight = 35
+
+[[main]]
   name = "Endorsements"
   url = "/endorsements/content/endorsers/"
   weight = 40

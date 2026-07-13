@@ -1,3 +1,31 @@
+// —— Fun Photos page ——
+article:has(.fun-photos-gallery) > h1 {
+  color: $green;
+  font-weight: 700;
+}
+
+.fun-photos-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+
+  figure {
+    margin: 0;
+    display: block;
+    width: 100%;
+  }
+
+  figure img {
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+
+  figcaption {
+    margin-top: 0.5rem;
+  }
+}
+
 .docs-content > h2[id]::before,
 .docs-content > h3[id]::before,
 .docs-content > h4[id]::before {

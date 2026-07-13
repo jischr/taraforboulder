@@ -335,6 +335,17 @@
   color: $primary;
 }
 
+.navbar-light .navbar-nav .nav-link--green {
+  color: $green;
+  font-weight: 600;
+
+  &:hover,
+  &:focus,
+  &.active {
+    color: darken($green, 8%);
+  }
+}
+
 #search-placeholder .placeholder {
   width: 7.25rem;
 }
