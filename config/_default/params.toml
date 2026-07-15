@@ -71,7 +71,7 @@ copyRight = "Copyright (c) 2023 Tara Winer for Council"
 # Alert (banner link uses contributeLink below)
 alert = true
 alertDismissable = true
-alertText = "Show your support and contribute to Tara's re-election campaign."
+alertText = "Tara intends to run of re-election. Show your support and contribute!"
 
 # Campaign URLs — update these when links change (used site-wide: nav, footer, alerts)
 contributeLink = "https://tarawinerforcouncil.square.site/"
