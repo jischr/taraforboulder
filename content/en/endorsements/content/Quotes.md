@@ -1,10 +1,10 @@
 ---
-title: "Hear What People Said in 2023"
+title: "Hear What People Saying about Tara"
 description: ""
 lead: ""
 date: 2026-02-21T17:07:08-07:00
 lastmod: 2026-02-21T17:07:08-07:00
-draft: false
+draft: true
 images: []
 menu:
   endorsements:
@@ -13,5 +13,5 @@ weight: 200
 toc: true
 ---
 
-To see the full list of Tara's 2023 Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers")
+To see the full list of Tara's Endorsers, [click here]({{< ref "Endorsers" >}} "Tara's Endorsers")
 ___

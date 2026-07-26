@@ -32,7 +32,9 @@
           <p class="endorsements-section__invite">We often vote for candidates based on what we hear from the people we know and trust. <a href="{{ .Site.Params.endorseForm }}" target="_blank" rel="noopener" class="endorsements-section__link">Endorse Tara today.</a></p>
           <div class="endorsements-section__cta">
             <a class="btn btn-dark mb-2 me-2" href="{{ "endorsements/content/endorsers/" | relURL }}">See Tara's Supporters</a>
-            <a class="btn btn-outline-dark mb-2" href="{{ "endorsements/content/quotes/" | relURL }}">Quotes from Supporters</a>
+            {{ with .Site.GetPage "/endorsements/content/quotes" }}
+            <a class="btn btn-outline-dark mb-2" href="{{ .RelPermalink }}">Quotes from Supporters</a>
+            {{ end }}
           </div>
         </div>
       </div>

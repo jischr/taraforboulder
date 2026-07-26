@@ -12,5 +12,5 @@ _build:
   render: never
 ---
 
-To hear what Tara's Endorsers are saying, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
+{{< endorsements-quotes-link verb="are saying" >}}
 ___

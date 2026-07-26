@@ -1,5 +1,5 @@
 ---
-title: "Tara's Endorsers in the 2023 Election"
+title: "Tara's Endorsers"
 description: ""
 lead: ""
 date: 2026-02-21T17:07:08-07:00
@@ -13,5 +13,5 @@ weight: 150
 toc: true
 ---
 
-To hear what Tara's Endorsers said, [click here]({{< ref "Quotes" >}} "Hear What People are Saying About Tara").
+{{< endorsements-quotes-link verb="said" >}}
 ___

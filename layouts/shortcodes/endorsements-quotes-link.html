@@ -1,0 +1,8 @@
+{{/*
+  Renders a link to the Quotes page only when that page is published (draft: false).
+  Usage: {{< endorsements-quotes-link verb="said" >}}
+*/}}
+{{ $verb := .Get "verb" | default "are saying" }}
+{{ with .Site.GetPage "/endorsements/content/quotes" }}
+<p>To hear what Tara's Endorsers {{ $verb }}, <a href="{{ .RelPermalink }}" title="Hear What People are Saying About Tara">click here</a>.</p>
+{{ end }}

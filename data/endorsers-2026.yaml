@@ -99,12 +99,9 @@ former_officials:
   - first_name: Andrew
     last_name: Shoemaker
     title: Former Boulder City Council Member
-  - first_name: Mary
-    last_name: Young
-    title: Former Boulder City Council Member
   - first_name: Bob
     last_name: Yates
-    title: Boulder City Council Member
+    title: Former Boulder City Council Member
 
 board_commission:
   - first_name: Jorge
@@ -122,9 +119,6 @@ board_commission:
   - first_name: Miriam
     last_name: Gilbert
     title: Boulder Library Commission
-  - first_name: Philip
-    last_name: Ogren
-    title: Housing Advisory Board
   - first_name: Michael
     last_name: Carr
     title: Beverage Licensing Authority Board
@@ -149,11 +143,8 @@ board_commission:
   - first_name: Trudy
     last_name: Turvey
     title: Colorado Chautauqua Association Board of Directors
-  - first_name: Pat
-    last_name: Shanks
-    title: Colorado Chautauqua Association Board of Directors
   - first_name: Peter
-    last_name: Speer
+    last_name: Spear
     title: Colorado Chautauqua Association Board of Directors
   - first_name: Stephanie
     last_name: Rudy
@@ -170,9 +161,6 @@ board_commission:
   - first_name: John
     last_name: Spitzer
     title: Former Boulder Planning Board Member
-  - first_name: Raj
-    last_name: Seymour
-    title: Former Chair, Parks & Recreation Advisory Board
   - first_name: Pam
     last_name: Yugar
     title: Former Chair, Parks & Recreation Advisory Board
@@ -181,4 +169,92 @@ board_commission:
     title: Former Chair, Human Relations Commission
 
 # Each entry: first_name, last_name (sorted by last name)
-community: []
+community:
+  - first_name: Meghan
+    last_name: Bach
+  - first_name: Douglas
+    last_name: Bendt
+  - first_name: Alan
+    last_name: Caplan
+  - first_name: Bill
+    last_name: Cohen
+  - first_name: Sara-Jane
+    last_name: Cohen
+  - first_name: Roz
+    last_name: Dorf
+  - first_name: Trish
+    last_name: Emser
+  - first_name: Janos
+    last_name: Englander
+  - first_name: Michelle
+    last_name: Estrella
+  - first_name: Ebenezer
+    last_name: Gedamu
+  - first_name: Merrill
+    last_name: Glustrom
+  - first_name: Molly
+    last_name: Greacen
+  - first_name: Stephanie
+    last_name: Greenberg
+  - first_name: Ruhama
+    last_name: Hailu
+  - first_name: Lynne
+    last_name: Jones
+  - first_name: Nancy
+    last_name: Kornblum
+  - first_name: Tamar
+    last_name: Larsen
+  - first_name: Margaret
+    last_name: Lazar
+  - first_name: Lois
+    last_name: Linsky
+  - first_name: Lyra
+    last_name: Mayfield
+  - first_name: Sarabeth
+    last_name: Mitton
+  - first_name: Joan
+    last_name: Nagel
+  - first_name: Ann
+    last_name: Norris
+  - first_name: Cary
+    last_name: Paul
+  - first_name: Jerry
+    last_name: Pinsker
+  - first_name: Danica
+    last_name: Powell
+  - first_name: Marci
+    last_name: Rosenthal
+  - first_name: Shelley
+    last_name: Russell
+  - first_name: Karen
+    last_name: Sandburg
+  - first_name: Peggy
+    last_name: Sands
+  - first_name: Jackie
+    last_name: Seltzer
+  - first_name: Wayne
+    last_name: Seltzer
+  - first_name: Sina
+    last_name: Simantob
+  - first_name: Kerri
+    last_name: Somers
+  - first_name: Douglas
+    last_name: Sparks
+  - first_name: Stephen
+    last_name: Sparn
+  - first_name: Miriam
+    last_name: Sproul
+  - first_name: Mark
+    last_name: Strynar
+  - first_name: Stephen
+    last_name: Tebo
+  - first_name: Tatiana
+    last_name: Tebo
+  - first_name: Jill
+    last_name: Vidas
+  - first_name: Star
+    last_name: Waring
+  - first_name: Howard
+    last_name: Witkin
+  - first_name: Valerie
+    last_name: Yates

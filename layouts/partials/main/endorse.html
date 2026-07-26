@@ -14,7 +14,9 @@
             <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/endorsers/" | relURL }}">See Tara's Supporters</a>
             {{ end }}
             {{ if and (isset .Params "title") (in .Params.title "Endorsers") }}
-            <a class="btn btn-dark mb-2 mx-1" href="{{ "endorsements/content/quotes/" | relURL }}">Quotes from Supporters</a>
+            {{ with .Site.GetPage "/endorsements/content/quotes" }}
+            <a class="btn btn-dark mb-2 mx-1" href="{{ .RelPermalink }}">Quotes from Supporters</a>
+            {{ end }}
             {{ end }}
             <a class="btn btn-dark mb-2 mx-1" target="_blank" rel="noopener" href="{{ .Site.Params.endorseForm }}">Endorse Tara</a>
           </div>
