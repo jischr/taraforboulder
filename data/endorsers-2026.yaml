@@ -35,7 +35,9 @@ elected_officials:
     title: Mayor of Lafayette
   - first_name: Aaron
     last_name: Brockett
-    title: Mayor of Boulder
+  - first_name: Chris
+    last_name: Leh
+    title: Mayor of Louisville
   - first_name: Matt
     last_name: Benjamin
     title: Boulder City Council Member
