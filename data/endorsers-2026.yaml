@@ -126,6 +126,12 @@ board_commission:
     title: Beverage Licensing Authority Board
   - first_name: Benita
     last_name: Duran
+  - first_name: Aaron
+    last_name: Garcia
+    title: Colorado Chautauqua Association Board of Directors
+  - first_name: Allen R.
+    last_name: Jones III
+    title: Colorado Chautauqua Association Board of Directors
     title: Boulder Public Library District Trustee
   - first_name: Joel
     last_name: Koenig
@@ -133,6 +139,9 @@ board_commission:
   - first_name: Tom
     last_name: Kunstman
     title: Cannabis Licensing Advisory Board
+  - first_name: Sophia
+    last_name: Rickard
+    title: Colorado Chautauqua Association Board of Directors
   - first_name: Robyn
     last_name: Ronen
     title: Boulder Junction Access District Parking Commission
@@ -147,7 +156,7 @@ board_commission:
     title: Boulder Public Library District Trustee
   - first_name: Trudy
     last_name: Turvey
-    title: Colorado Chautauqua Association Board of Directors
+    title: Chair, Colorado Chautauqua Association Board of Directors
   - first_name: Jorge
     last_name: Boone
     title: Former City of Boulder Planning Board
