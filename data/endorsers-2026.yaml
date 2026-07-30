@@ -183,6 +183,8 @@ board_commission:
 community:
   - first_name: Meghan
     last_name: Bach
+  - first_name: Miche
+    last_name: Bacher
   - first_name: Douglas
     last_name: Bendt
   - first_name: Alan
@@ -207,12 +209,16 @@ community:
     last_name: Greenberg
   - first_name: Ruhama
     last_name: Hailu
+  - first_name: Ardee
+    last_name: Imerman
   - first_name: Lynne
     last_name: Jones
   - first_name: Nancy
     last_name: Kornblum
   - first_name: Dr. Tamar
     last_name: Larsen
+  - first_name: Carl
+    last_name: Lawrence
   - first_name: Margaret
     last_name: Lazar
   - first_name: Lois
@@ -225,6 +231,8 @@ community:
     last_name: Nagel
   - first_name: Ann
     last_name: Norris
+  - first_name: Rob
+    last_name: O'Dea
   - first_name: Cary
     last_name: Paul
   - first_name: Jerry
@@ -253,6 +261,8 @@ community:
     last_name: Sparn
   - first_name: Miriam
     last_name: Sproul
+  - first_name: Karen
+    last_name: Shaviv Straus
   - first_name: Mark
     last_name: Strynar
   - first_name: Stephen
