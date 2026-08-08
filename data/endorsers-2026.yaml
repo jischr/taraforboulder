@@ -198,6 +198,8 @@ board_commission:
 
 # Each entry: first_name, last_name (sorted by last name)
 community:
+ - first_name: Anna
+    last_name: Acosta
   - first_name: Meghan
     last_name: Bach
   - first_name: Miche
