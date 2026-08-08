@@ -5,7 +5,8 @@
 #
 # Ordering: Entry order in each section = order on the page; "community" is sorted by last name.
 
-organizations: []
+organizations:
+  - Reimagine South Boulder Recreation Advocacy Group
 
 # Each entry: first_name, last_name, title
 elected_officials:
