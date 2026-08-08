@@ -143,6 +143,9 @@ board_commission:
   - first_name: Tom
     last_name: Kunstman
     title: Cannabis Licensing Advisory Board
+  - first_name: Mark
+    last_name: McIntyre
+    title: City of Boulder Planning Board
   - first_name: Sophia
     last_name: Rickard
     title: Colorado Chautauqua Association Board of Directors
@@ -200,6 +203,8 @@ community:
     last_name: Bacher
   - first_name: Douglas
     last_name: Bendt
+  - first_name: Yvonne
+    last_name: Bennett
   - first_name: Alan
     last_name: Caplan
   - first_name: Bill
@@ -290,5 +295,4 @@ community:
     last_name: Waring
   - first_name: Howard
     last_name: Witkin
-  - first_name: Valerie
-    last_name: Yates
+  
