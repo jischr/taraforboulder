@@ -206,8 +206,14 @@ community:
     last_name: Bendt
   - first_name: Yvonne
     last_name: Bennett
+  - first_name: Grace
+    last_name: Blunck
   - first_name: Alan
     last_name: Caplan
+  - first_name: Keri
+    last_name: Clowes
+  - first_name: Peter
+    last_name: Clowes
   - first_name: Bill
     last_name: Cohen
   - first_name: Sara-Jane
@@ -242,10 +248,14 @@ community:
     last_name: Lazar
   - first_name: Lois
     last_name: Linsky
+  - first_name: Emma
+    last_name: Marshall
   - first_name: Lyra
     last_name: Mayfield
   - first_name: Sarabeth
     last_name: Mitton
+  - first_name: Anna
+    last_name: Mubin
   - first_name: Joan
     last_name: Nagel
   - first_name: Ann
@@ -280,12 +290,18 @@ community:
     last_name: Sparn
   - first_name: Miriam
     last_name: Sproul
+  - first_name: Sarah
+    last_name: Staunton
   - first_name: Karen
     last_name: Shaviv Straus
   - first_name: Mark
     last_name: Strynar
   - first_name: Dave
     last_name: Sutherland
+   - first_name: Andrew
+    last_name: Tan
+  - first_name: Celene
+    last_name: Tan
   - first_name: Stephen
     last_name: Tebo
   - first_name: Tatiana
@@ -296,4 +312,6 @@ community:
     last_name: Waring
   - first_name: Howard
     last_name: Witkin
+  - first_name: Catherine
+    last_name: Williams
   
