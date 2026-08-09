@@ -34,6 +34,9 @@ elected_officials:
   - first_name: Jason
     last_name: Unger
     title: BVSD School Board Treasurer
+  - first_name: Guyleen
+    last_name: Castriotta
+    title: Mayor of Broomfield
   - first_name: Saul
     last_name: Tapia Vega
     title: Mayor of Lafayette
@@ -291,6 +294,8 @@ community:
     last_name: Seltzer
   - first_name: Wayne
     last_name: Seltzer
+  - first_name: Narayn
+    last_name: Shrestha
   - first_name: Sina
     last_name: Simantob
   - first_name: Kerri
