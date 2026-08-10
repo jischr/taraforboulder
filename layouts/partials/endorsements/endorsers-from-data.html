@@ -2,7 +2,7 @@
 {{ if $data }}
   {{ with $data.organizations }}
     <h3>Endorsements by Organizations</h3>
-    <p>
+    <p class="endorsers-orgs">
       {{ range . }}{{ . }}<br>{{ end }}
     </p>
   {{ end }}

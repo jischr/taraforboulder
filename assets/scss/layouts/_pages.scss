@@ -1,3 +1,15 @@
+// —— Endorsers list ——
+.endorsers-orgs {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.7;
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.375rem;
+    line-height: 1.75;
+  }
+}
+
 // —— Fun Photos page ——
 article:has(.fun-photos-gallery) > h1 {
   color: $green;
