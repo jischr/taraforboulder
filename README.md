@@ -58,7 +58,7 @@ Your changes are now saved. You’ll see a confirmation at the top of the screen
 - To **add** someone or a quote, copy an existing entry and change the name, title, or quote.
 - **Don’t remove or rename** the labels at the top of each section (e.g. `organizations:`, `elected_officials:`, `community:`).
 
-**Endorsers:** Each person or group goes under one section. For **organizations**, each line is one name. For **elected officials**, **former officials**, and **board/commission**, each entry has `first_name:`, `last_name:`, and `title:`. For **community**, each entry has `first_name:` and `last_name:` (the list is sorted by last name). Copy an existing entry and change the values; keep the same spacing (2 spaces before each line under a label).
+**Endorsers:** Each person or group goes under one section. For **organizations**, each entry has `name:` and optional `logo:` (basename of a file in `assets/images/orgs/`, without the extension — e.g. `logo: betterboulder` for `betterboulder.png`). Orgs with a matching logo file show on the homepage and Endorsers page; orgs without a logo still appear as text on the Endorsers page. For **elected officials**, **former officials**, and **board/commission**, each entry has `first_name:`, `last_name:`, and `title:`. For **community**, each entry has `first_name:` and `last_name:` (the list is sorted by last name). Copy an existing entry and change the values; keep the same spacing (2 spaces before each line under a label).
 
 **Quotes:** Each quote has `name:`, `title:` (optional), and `quote:` (the quote text). Copy an existing quote block and change the text.
 

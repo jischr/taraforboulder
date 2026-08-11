@@ -1,0 +1,44 @@
+{{/*
+  Renders a logo grid for organization endorsements.
+  Pass either:
+    - the organizations list, or
+    - a dict: { "organizations": ..., "align": "start"|"center" }
+  Only entries with a resolvable assets/images/orgs/{logo}.* file are shown.
+*/}}
+{{ $orgs := . }}
+{{ $align := "center" }}
+{{ if and (reflect.IsMap .) (isset . "organizations") }}
+  {{ $orgs = .organizations }}
+  {{ $align = .align | default "center" }}
+{{ end }}
+{{ $logos := slice }}
+{{ range $orgs }}
+  {{ $name := "" }}
+  {{ if reflect.IsMap . }}
+    {{ $name = .name }}
+  {{ else }}
+    {{ $name = . }}
+  {{ end }}
+  {{ if and (reflect.IsMap .) .logo }}
+    {{ with resources.GetMatch (printf "images/orgs/%s.*" .logo) }}
+      {{ $logos = $logos | append (dict "img" . "name" $name) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with $logos }}
+{{ if eq $align "start" }}
+<div class="endorsers-org-logos">
+  {{ range . }}
+  <img class="endorsers-org-logos__img" src="{{ .img.RelPermalink }}" alt="{{ .name }}" loading="lazy">
+  {{ end }}
+</div>
+{{ else }}
+<div class="endorsements-section__logos row g-3 justify-content-center">
+  {{ range . }}
+  <div class="col-10 col-md-6 col-lg-5 endorsement-logo">
+    <img src="{{ .img.RelPermalink }}" alt="{{ .name }}" loading="lazy">
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

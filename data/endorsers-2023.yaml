@@ -6,15 +6,23 @@
 # Ordering: The order of entries in each section is the order shown on the page,
 # except "community", which is always sorted alphabetically by last name.
 
+# Organizations: name (required), logo (optional basename under assets/images/orgs/, no extension)
 organizations:
-  - Better Boulder
-  - Boulder Elevated
-  - Boulder Weekly
-  - Daily Camera
-  - PLAN Boulder
-  - Sierra Club
-  - Think Boulder
-  - Yellow Scene
+  - name: Better Boulder
+    logo: betterboulder
+  - name: Boulder Elevated
+    logo: boulderelevated
+  - name: Boulder Weekly
+    logo: boulderweekly
+  - name: Daily Camera
+    logo: dailycamera
+  - name: PLAN Boulder
+    logo: plan
+  - name: Sierra Club
+    logo: sc
+  - name: Think Boulder
+    logo: thinkboulder
+  - name: Yellow Scene
 
 elected_officials:
   - first_name: Steve

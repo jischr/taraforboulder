@@ -2,9 +2,30 @@
 {{ if $data }}
   {{ with $data.organizations }}
     <h3>Endorsements by Organizations</h3>
+    {{ partial "endorsements/org-logos.html" (dict "organizations" . "align" "start") }}
+    {{ $textOrgs := slice }}
+    {{ range . }}
+      {{ $name := "" }}
+      {{ if reflect.IsMap . }}
+        {{ $name = .name }}
+      {{ else }}
+        {{ $name = . }}
+      {{ end }}
+      {{ $hasLogo := false }}
+      {{ if and (reflect.IsMap .) .logo }}
+        {{ with resources.GetMatch (printf "images/orgs/%s.*" .logo) }}
+          {{ $hasLogo = true }}
+        {{ end }}
+      {{ end }}
+      {{ if not $hasLogo }}
+        {{ $textOrgs = $textOrgs | append $name }}
+      {{ end }}
+    {{ end }}
+    {{ with $textOrgs }}
     <p class="endorsers-orgs">
       {{ range . }}{{ . }}<br>{{ end }}
     </p>
+    {{ end }}
   {{ end }}
   {{ with $data.elected_officials }}
     <h3>Endorsements by Elected Officials</h3>
