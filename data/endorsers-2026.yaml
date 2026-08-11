@@ -65,6 +65,9 @@ former_officials:
   - first_name: Steve
     last_name: Fenberg
     title: Former Colorado Senate President
+  - first_name: KC
+    last_name: Becker
+    title: Former Colorado Speaker of the House
   - first_name: Edie
     last_name: Hooton
     title: Former State Representative
@@ -85,9 +88,6 @@ former_officials:
     title: Former Boulder Mayor
   - first_name: Jan
     last_name: Burton
-    title: Former Boulder City Council Member
-  - first_name: Macon
-    last_name: Cowles
     title: Former Boulder City Council Member
   - first_name: Leslie
     last_name: Durgin
