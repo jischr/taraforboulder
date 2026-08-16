@@ -5,8 +5,87 @@
 
 sections:
   - heading: Elected Officials
-    quotes: []
+    quotes:
+      - name: Congressman Joe Neguse
+        title: Colorado's 2nd Congressional District, U.S. House of Representatives
+        quote: Tara Winer has an incredible commitment to the people of Boulder and brings the kind of every day public service that this role needs. I am excited to support her re-election campaign for Boulder City Council.
+      - name: Judy Amabile
+        title: Colorado State Senator D18
+        quote: I enthusiastically support Tara Winer for Boulder City Council. If there is a better solution to a problem, Tara is a leader who listens and works to bring forth solutions – no matter who suggests them. That is the Magic of Tara Winer.
+      - name: Michael Dougherty
+        title: Boulder County District Attorney
+        quote: Tara Winer has a proven track record as a leader, public servant, independent voice, and hard worker. She has been an ally in building a safer and stronger Boulder. I'm excited to support her re-election to Boulder City Council.
+      - name: Ashley Stolzmann
+        title: Boulder County Commissioner
+        quote: It's an honor to endorse Tara Winer. Tara has a real gift for listening, balancing different perspectives, and then making policy decisions that are both evidence-based and heart-centered.
+      - name: Rob Kaplan
+        title: Boulder City Council Member
+        quote: Tara will have you laughing one minute and locked in on the hard questions the next. That combination of warmth and seriousness is exactly what our community needs at the table.
   - heading: Board & Commission Members
-    quotes: []
+    quotes:
+      - name: Shelly Benford
+        title: CEO, Colorado Chautauqua Association
+        quote: I love her!
+      - name: Carla Graubard
+        title: Colorado Chautauqua Association Board of Directors
+        quote: Tara is a thoughtful, hardworking, enthusiastic and wise representative. She always adds something helpful and relevant to city council deliberations.
+  - heading: Former Electeds, Board, & Commission Members
+    quotes:
+      - name: Rachel Friend
+        title: Boulder County Treasurer Democratic Party Nominee
+        quote: I love Tara. She brings her whole heart to Council, along with the requisite work ethic and intellectual rigor. I am grateful she's willing to keep at it.
+      - name: Andrew Shoemaker
+        title: Former Boulder City Council Member
+        quote: Practical and cares about the Hill and downtown.
   - heading: Community
-    quotes: []
+    quotes:
+      - name: Rachel Amaru
+        title: ""
+        quote: She's earned my trust, and Tara will insure that all citizens of Boulder are treated fairly.
+      - name: Meghan Bach
+        title: Realtor
+        quote: I'm eternally grateful for Tara's steadfast, selfless work to continue making Boulder an incredible place to call home.
+      - name: Bob Baskerville
+        title: ""
+        quote: Her vision for the vitality of Boulder.
+      - name: Yvonne Bennett
+        title: ""
+        quote: >-
+          I'm proud to endorse Tara Winer for Boulder City Council. Tara consistently makes herself available to listen to and talk with community members. She genuinely takes the time to understand the issues that matter to Boulder residents.
+
+          During the fight to protect South Boulder Recreation Center, Tara was the only City Council member who stood up for our community and helped get our core amenities, including a lap pool protected in the ballot language. She listened when our community needed an advocate and then took action.
+
+          Boulder needs leaders who listen, show up, and stand up for their communities. I'm grateful for her leadership and proud to support her.
+      - name: John-Wesley Davis
+        title: ""
+        quote: Tara is a voice for the people who paid the taxes and who live here for Boulder, it's value of nature, it's tradition of supporting the University of Colorado and the intellect that is constantly evolving at the University and in our community.
+      - name: Trish Emser
+        title: Bike BOLDER Team Lead
+        quote: As a supporter of Bike BOLDER advocacy, Tara's energy and commitment to cyclists (tunnel lighting, clear paths, security) has made Boulder safer for everyone.
+      - name: Brooke Harrison
+        title: ""
+        quote: Tara has proven her value on council time and time again.
+      - name: Jan Liverance
+        title: ""
+        quote: Tara approaches her responsibilities with an open, inquiring mind and willingness to listen, understand and collaborate.
+      - name: Mark Loewenstein
+        title: ""
+        quote: Terrific Council member
+      - name: Ann Notris
+        title: ""
+        quote: She has done an excellent job on City Council so far!
+      - name: Brian Posen
+        title: ""
+        quote: Because she has a wonderful brain and heart
+      - name: Shari Roth
+        title: ""
+        quote: For the past five years, Tara Winer has exemplified what public service should look like. She has been one of the most accessible and responsive members of City Council, always willing to listen, engage, and work thoughtfully through the complex challenges facing Boulder.
+      - name: Peggy Sands
+        title: ""
+        quote: "Tara has something most CC members lack: Critical thinking abilities and common sense."
+      - name: Marcia Segall
+        title: ""
+        quote: Tara has been a steady, consistent, smart and fair council member. We would be so lucky to have her continue serving our City.
+      - name: Joel Smith
+        title: ""
+        quote: Tara shows good judgement and leadership on Council.
