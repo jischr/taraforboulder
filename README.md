@@ -29,6 +29,7 @@ This guide is for anyone who updates content on the Tara for Boulder site using 
 | **Live quotes from supporters** | [data/quotes-2023.yaml](data/quotes-2023.yaml) |
 | **Draft 2026 endorsers** (not live yet) | [data/endorsers-2026.yaml](data/endorsers-2026.yaml) |
 | **Draft 2026 quotes** | [data/quotes-2026.yaml](data/quotes-2026.yaml) |
+| **Homepage featured quotes** (4 photo+quote cards between My Approach and On the Issues) | [data/featured-quotes-2026.yaml](data/featured-quotes-2026.yaml) — portraits go in [assets/images/endorsers/](assets/images/endorsers/) using the `photo:` basename (e.g. `photo: joe-neguse` → `joe-neguse.jpg`) |
 
 ---
 
@@ -61,6 +62,8 @@ Your changes are now saved. You’ll see a confirmation at the top of the screen
 **Endorsers:** Each person or group goes under one section. For **organizations**, each entry has `name:` and optional `logo:` (basename of a file in `assets/images/orgs/`, without the extension — e.g. `logo: betterboulder` for `betterboulder.png`). Orgs with a matching logo file show on the homepage and Endorsers page; orgs without a logo still appear as text on the Endorsers page. For **elected officials**, **former officials**, and **board/commission**, each entry has `first_name:`, `last_name:`, and `title:`. For **community**, each entry has `first_name:` and `last_name:` (the list is sorted by last name). Copy an existing entry and change the values; keep the same spacing (2 spaces before each line under a label).
 
 **Quotes:** Each quote has `name:`, `title:` (optional), and `quote:` (the quote text). Copy an existing quote block and change the text.
+
+**Homepage featured quotes:** [data/featured-quotes-2026.yaml](data/featured-quotes-2026.yaml) drives the four large quote cards on the homepage. Each entry needs `name:`, `quote:`, and optional `title:`. Optional `photo:` is the basename of an image in `assets/images/endorsers/` (e.g. `photo: joe-neguse` for `joe-neguse.jpg`). Omit `photo:` when you don’t have one — the card is quote-only with no placeholder. Keep quote text aligned with [data/quotes-2026.yaml](data/quotes-2026.yaml).
 
 ### Issue pages, Bio, and Experience
 

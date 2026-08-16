@@ -1,0 +1,76 @@
+{{ $year := .Site.Params.endorsementsYear | default "2023" }}
+{{ $data := index .Site.Data (printf "featured-quotes-%s" $year) }}
+{{ with $data }}
+{{ with .quotes }}
+<section class="featured-quotes" id="featured-quotes" aria-labelledby="featured-quotes-heading">
+  <div class="container">
+    <div class="featured-quotes__header text-center">
+      <p class="featured-quotes__kicker">Endorsements</p>
+      <h2 id="featured-quotes-heading" class="featured-quotes__title">What leaders are saying</h2>
+    </div>
+    <div class="row g-4 featured-quotes__grid align-items-stretch">
+      {{ range . }}
+      {{ $photo := false }}
+      {{ with .photo }}
+        {{ with resources.GetMatch (printf "images/endorsers/%s.*" .) }}
+          {{ $photo = . }}
+        {{ end }}
+      {{ end }}
+      {{ $paras := slice }}
+      {{ range split .quote "\n" }}
+        {{ $line := trim . " \t\r\n" }}
+        {{ if $line }}
+          {{ $paras = $paras | append $line }}
+        {{ end }}
+      {{ end }}
+      {{ $expandable := gt (len $paras) 2 }}
+      <div class="col-16 col-md-8">
+        <figure class="featured-quotes__card{{ if not $photo }} featured-quotes__card--text{{ end }}">
+          {{ with $photo }}
+          <div class="featured-quotes__person">
+            <img class="featured-quotes__photo" src="{{ .RelPermalink }}" alt="" width="240" height="240" loading="lazy">
+          </div>
+          {{ end }}
+          <figcaption class="featured-quotes__body">
+            <blockquote class="featured-quotes__quote">
+              {{ if $expandable }}
+                {{ range first 2 $paras }}
+                <p>{{ . }}</p>
+                {{ end }}
+                <details class="featured-quotes__more">
+                  <summary>
+                    <span class="featured-quotes__more-show">Read more</span>
+                    <span class="featured-quotes__more-hide">Show less</span>
+                  </summary>
+                  {{ range after 2 $paras }}
+                  <p>{{ . }}</p>
+                  {{ end }}
+                </details>
+              {{ else }}
+                {{ range $paras }}
+                <p>{{ . }}</p>
+                {{ end }}
+              {{ end }}
+            </blockquote>
+            <div class="featured-quotes__meta">
+              <cite class="featured-quotes__name">{{ .name }}</cite>
+              {{ with .title }}
+                {{ if . }}
+                <span class="featured-quotes__role">{{ . }}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+          </figcaption>
+        </figure>
+      </div>
+      {{ end }}
+    </div>
+    {{ with $.Site.GetPage "/endorsements/content/quotes" }}
+    <div class="featured-quotes__cta text-center">
+      <a class="btn btn-dark px-4" href="{{ .RelPermalink }}">Quotes from My Supporters</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

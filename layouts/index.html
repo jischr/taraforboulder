@@ -14,6 +14,8 @@
 
 {{ partial "sidebar/quote.html" . }}
 
+{{ partial "main/featured-quotes-section.html" . }}
+
 {{ $issuesSection := .Site.GetPage "issues" }}
 <section class="issues-section" id="issues" aria-labelledby="issues-heading">
   <div class="issues-section__bg" {{ with resources.GetMatch "images/flowers.jpeg" }}style="--issues-bg: url('{{ .RelPermalink }}');"{{ end }} aria-hidden="true"></div>

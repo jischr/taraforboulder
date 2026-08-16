@@ -10,10 +10,5 @@
     {{ with $data.organizations }}
       {{ partial "endorsements/org-logos.html" . }}
     {{ end }}
-    {{ with .Site.GetPage "/endorsements/content/quotes" }}
-    <div class="endorsements-section__cta text-center">
-      <a class="btn btn-outline-dark mb-2" href="{{ .RelPermalink }}">Quotes from Supporters</a>
-    </div>
-    {{ end }}
   </div>
 </section>

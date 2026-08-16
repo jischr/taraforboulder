@@ -15,7 +15,7 @@
   weight = 30
 
 [[main]]
-  name = "Fun Photos"
+  name = "Fun Community Photos"
   url = "/fun-photos/"
   weight = 35
 

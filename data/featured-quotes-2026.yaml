@@ -1,0 +1,22 @@
+# Featured homepage quote cards (between My Approach and On the Issues).
+# photo: basename of a file in assets/images/endorsers/ (no extension), e.g. joe-neguse → joe-neguse.jpg
+# Omit photo entirely when you don't have one — the card becomes quote-only (no placeholder strip).
+# Keep quote text in sync with quotes-2026.yaml. Are you lost? See the README.
+
+quotes:
+  - name: Congressman Joe Neguse
+    title: Colorado's 2nd Congressional District, U.S. House of Representatives
+    photo: joe-neguse
+    quote: Tara Winer has an incredible commitment to the people of Boulder and brings the kind of every day public service that this role needs. I am excited to support her re-election campaign for Boulder City Council.
+  - name: Judy Amabile
+    title: Colorado State Senator SD18
+    photo: judy-amabile
+    quote: I enthusiastically support Tara Winer for Boulder City Council. If there is a better solution to a problem, Tara is a leader who listens and works to bring forth solutions – no matter who suggests them. That is the Magic of Tara Winer.
+  - name: Michael Dougherty
+    title: Boulder County District Attorney
+    photo: michael-dougherty
+    quote: Tara Winer has a proven track record as a leader, public servant, independent voice, and hard worker. She has been an ally in building a safer and stronger Boulder. I'm excited to support her re-election to Boulder City Council.
+  - name: Ashley Stolzmann
+    title: Boulder County Commissioner
+    photo: ashley-stolzmann
+    quote: It's an honor to endorse Tara Winer. Tara has a real gift for listening, balancing different perspectives, and then making policy decisions that are both evidence-based and heart-centered.

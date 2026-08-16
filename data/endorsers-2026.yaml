@@ -17,13 +17,16 @@ elected_officials:
     title: Colorado's 2nd Congressional District, U.S. House of Representatives
   - first_name: Judy
     last_name: Amabile
-    title: Colorado State Senator D18
+    title: Colorado State Senator SD18
   - first_name: Lesley
     last_name: Smith
     title: Colorado State Rep HD49
   - first_name: Karen
     last_name: McCormick
     title: Colorado State Rep HD11
+  - first_name: Kathy
+    last_name: Gebhardt
+    title: CO State Board of Education, 2nd CD
   - first_name: Elliott
     last_name: Hood
     title: CU Regent
@@ -153,6 +156,9 @@ board_commission:
   - first_name: Tom
     last_name: Kunstman
     title: Cannabis Licensing Advisory Board
+  - first_name: Morgan
+    last_name: Lommele
+    title: Open Space Board of Trustees
   - first_name: Mark
     last_name: McIntyre
     title: City of Boulder Planning Board
@@ -207,6 +213,8 @@ board_commission:
 
 # Each entry: first_name, last_name (sorted by last name)
 community:
+  - first_name: Joe
+    last_name: Aamidor
   - first_name: Anna
     last_name: Acosta
   - first_name: Rachel
