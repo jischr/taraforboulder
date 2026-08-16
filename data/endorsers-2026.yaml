@@ -209,12 +209,18 @@ board_commission:
 community:
   - first_name: Anna
     last_name: Acosta
+  - first_name: Rachel
+    last_name: Amaru
   - first_name: Meghan
     last_name: Bach
   - first_name: Miche
     last_name: Bacher
+  - first_name: Bob
+    last_name: Baskerville
   - first_name: Douglas
     last_name: Bendt
+  - first_name: Jessica
+    last_name: Benjamin
   - first_name: Yvonne
     last_name: Bennett
   - first_name: Grace
@@ -231,12 +237,16 @@ community:
     last_name: Cohen
   - first_name: Sara-Jane
     last_name: Cohen
+  - first_name: John-Wesley
+    last_name: Davis
   - first_name: Roz
     last_name: Dorf
   - first_name: Trish
     last_name: Emser
   - first_name: Janos
     last_name: Englander
+  - first_name: Nushin
+    last_name: Farjadi
   - first_name: Ebenezer
     last_name: Gedamu
   - first_name: Merrill
@@ -247,12 +257,16 @@ community:
     last_name: Greenberg
   - first_name: Ruhama
     last_name: Hailu
+  - first_name: Brooke
+    last_name: Harrison
   - first_name: Ardee
     last_name: Imerman
   - first_name: Lynne
     last_name: Jones
   - first_name: Nancy
     last_name: Kornblum
+  - first_name: Lauren
+    last_name: Lambert Feldman
   - first_name: Dr. Tamar
     last_name: Larsen
   - first_name: Carl
@@ -261,12 +275,20 @@ community:
     last_name: Lazar
   - first_name: Lois
     last_name: Linsky
+  - first_name: Jan
+    last_name: Liverance
+  - first_name: Linda
+    last_name: Loewenstein
+  - first_name: Mark
+    last_name: Loewenstein
   - first_name: Cherie
     last_name: MacFarlane
   - first_name: Emma
     last_name: Marshall
   - first_name: Lyra
     last_name: Mayfield
+  - first_name: John
+    last_name: McElveen
   - first_name: Mindy
     last_name: Miller
   - first_name: Sarabeth
@@ -276,31 +298,45 @@ community:
   - first_name: Joan
     last_name: Nagel
   - first_name: Ann
-    last_name: Norris
+    last_name: Notris
   - first_name: Rob
     last_name: O'Dea
   - first_name: Cary
     last_name: Paul
   - first_name: Jerry
     last_name: Pinsker
+  - first_name: Brian
+    last_name: Posen
   - first_name: Danica
     last_name: Powell
+  - first_name: Dave
+    last_name: Query
   - first_name: Marci
     last_name: Rosenthal
+  - first_name: Shari
+    last_name: Roth
   - first_name: Shelley
     last_name: Russell
   - first_name: Karen
     last_name: Sandburg
   - first_name: Peggy
     last_name: Sands
+  - first_name: Lindsey
+    last_name: Schwartz Terry
+  - first_name: Marcia
+    last_name: Segall
   - first_name: Jackie
     last_name: Seltzer
   - first_name: Wayne
     last_name: Seltzer
-  - first_name: Narayn
+  - first_name: Karen
+    last_name: Shaviv Straus
+  - first_name: Narayan
     last_name: Shrestha
   - first_name: Sina
     last_name: Simantob
+  - first_name: Joel
+    last_name: Smith
   - first_name: Kerri
     last_name: Somers
   - first_name: Douglas
@@ -311,8 +347,8 @@ community:
     last_name: Sproul
   - first_name: Sarah
     last_name: Staunton
-  - first_name: Karen
-    last_name: Shaviv Straus
+  - first_name: Charlie
+    last_name: Stein
   - first_name: Mark
     last_name: Strynar
   - first_name: Dave
@@ -329,8 +365,9 @@ community:
     last_name: Vidas
   - first_name: Star
     last_name: Waring
-  - first_name: Howard
-    last_name: Witkin
   - first_name: Catherine
     last_name: Williams
-  
+  - first_name: Howard
+    last_name: Witkin
+  - first_name: Julie
+    last_name: Young
