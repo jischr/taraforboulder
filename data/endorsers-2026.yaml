@@ -180,6 +180,9 @@ board_commission:
   - first_name: Trudy
     last_name: Turvey
     title: Chair, Colorado Chautauqua Association Board of Directors
+  - first_name: Alex
+    last_name: Weinheimer
+    title: City of Boulder Landmarks Board
   - first_name: Jorge
     last_name: Boone
     title: Former City of Boulder Planning Board
@@ -231,8 +234,14 @@ community:
     last_name: Benjamin
   - first_name: Yvonne
     last_name: Bennett
+  - first_name: Matt
+    last_name: Bissonette
   - first_name: Grace
     last_name: Blunck
+  - first_name: Bryan
+    last_name: Bowen
+  - first_name: Charles (Chuck)
+    last_name: Brock
   - first_name: Alan
     last_name: Caplan
   - first_name: Stefanie
@@ -249,6 +258,8 @@ community:
     last_name: Davis
   - first_name: Roz
     last_name: Dorf
+  - first_name: Sarah
+    last_name: Edelstein
   - first_name: Trish
     last_name: Emser
   - first_name: Janos
@@ -259,6 +270,8 @@ community:
     last_name: Gedamu
   - first_name: Merrill
     last_name: Glustrom
+  - first_name: Michelle
+    last_name: Goldman
   - first_name: Molly
     last_name: Greacen
   - first_name: Stephanie
@@ -365,6 +378,8 @@ community:
     last_name: Tan
   - first_name: Celene
     last_name: Tan
+  - first_name: Ellen
+    last_name: Taxman
   - first_name: Stephen
     last_name: Tebo
   - first_name: Tatiana
