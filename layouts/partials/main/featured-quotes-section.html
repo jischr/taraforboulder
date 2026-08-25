@@ -13,7 +13,7 @@
       {{ $photo := false }}
       {{ with .photo }}
         {{ with resources.GetMatch (printf "images/endorsers/%s.*" .) }}
-          {{ $photo = . }}
+          {{ $photo = . | fingerprint }}
         {{ end }}
       {{ end }}
       {{ $paras := slice }}
