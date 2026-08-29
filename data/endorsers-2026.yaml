@@ -125,9 +125,6 @@ former_officials:
   - first_name: Mark
     last_name: Wallach
     title: Former Boulder City Council Member
-  - first_name: Bob
-    last_name: Yates
-    title: Former Boulder City Council Member
 
 board_commission:
   - first_name: Lexi
@@ -189,6 +186,9 @@ board_commission:
   - first_name: Jorge
     last_name: Boone
     title: Former City of Boulder Planning Board
+  - first_name: Chuck
+    last_name: Brock
+    title: Former Chair, Parks & Recreation Board
   - first_name: Michael
     last_name: Christy
     title: Former Cannabis Licensing Advisory Board
