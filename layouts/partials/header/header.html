@@ -32,9 +32,9 @@
           </a></li>
           {{- $current := . -}}
           {{ range .Site.Menus.main -}}
-            {{- $externalLink := eq .Name "Yard Sign" -}}
+            {{- $externalLink := in .Name "Yard Sign" -}}
             {{- $menuURL := .URL -}}
-            {{- if eq .Name "Yard Sign" }}{{ $menuURL = $current.Site.Params.yardSignForm }}{{ end -}}
+            {{- if $externalLink }}{{ $menuURL = $current.Site.Params.yardSignForm }}{{ end -}}
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             <li class="nav-item">
