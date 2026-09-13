@@ -53,6 +53,8 @@ module.exports = {
         'section-open-collective',
         'bg-green',
         'endorsement-logo',
+        'endorsement-logo--compact',
+        'endorsers-org-logos__img--compact',
         'endorsements-section',
         'endorsements-section__header',
         'endorsements-section__kicker',

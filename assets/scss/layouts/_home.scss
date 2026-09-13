@@ -610,6 +610,14 @@
       max-width: 20rem;
     }
   }
+
+  &--compact img {
+    max-width: 13.5rem;
+
+    @include media-breakpoint-up(md) {
+      max-width: 16.5rem;
+    }
+  }
 }
 
 .endorsements-section__card {

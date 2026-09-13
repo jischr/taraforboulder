@@ -7,6 +7,12 @@
 
 # Organizations: name (required), logo (optional basename under assets/images/orgs/, no extension)
 organizations:
+  - name: Sierra Club
+    logo: sc
+  - name: Open Boulder
+    logo: openboulder
+  - name: PLAN Boulder
+    logo: plan
   - name: Reimagine South Boulder Recreation Advocacy Group
     logo: sbr
 
@@ -257,6 +263,8 @@ community:
     last_name: Cohen
   - first_name: Sara-Jane
     last_name: Cohen
+  - first_name: Lise
+    last_name: Cordsen
   - first_name: John-Wesley
     last_name: Davis
   - first_name: Roz

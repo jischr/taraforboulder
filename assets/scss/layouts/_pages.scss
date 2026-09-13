@@ -30,6 +30,14 @@
   @include media-breakpoint-up(md) {
     max-height: 14rem;
   }
+
+  &--compact {
+    max-height: 8rem;
+
+    @include media-breakpoint-up(md) {
+      max-height: 11.5rem;
+    }
+  }
 }
 
 // —— Fun Photos page ——
