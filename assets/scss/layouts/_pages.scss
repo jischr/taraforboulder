@@ -11,32 +11,30 @@
 }
 
 .endorsers-org-logos {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: center;
-  justify-content: flex-start;
+  justify-items: center;
   gap: 1.5rem 2rem;
   margin: 0.5rem 0 1.75rem;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 .endorsers-org-logos__img {
   display: block;
-  width: auto;
-  max-width: 100%;
-  height: auto;
-  max-height: 10rem;
+  width: 100%;
+  max-width: 12rem;
+  height: 7.5rem;
+  object-fit: contain;
+  object-position: center;
   margin: 0;
 
   @include media-breakpoint-up(md) {
-    max-height: 14rem;
-  }
-
-  &--compact {
-    max-height: 8rem;
-
-    @include media-breakpoint-up(md) {
-      max-height: 11.5rem;
-    }
+    max-width: 14rem;
+    height: 9rem;
   }
 }
 

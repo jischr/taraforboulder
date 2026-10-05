@@ -17,7 +17,7 @@
     <div class="offcanvas offcanvas-end border-0 py-md-1" tabindex="-1" id="offcanvasDoks" data-bs-backdrop="true" aria-labelledby="offcanvasDoksLabel">
       <div class="header-bar d-md-none"></div>
       <div class="offcanvas-header d-md-none">
-        <h2 class="h5 offcanvas-title ps-2" id="offcanvasDoksLabel"><a class="text-dark" href="{{ "/" | relURL }}">{{ .Site.Params.Title }}</a></h2>
+        <p class="h5 offcanvas-title ps-2" id="offcanvasDoksLabel"><a class="text-dark" href="{{ "/" | relURL }}">{{ .Site.Params.Title }}</a></p>
         <button type="button" class="btn-close text-reset me-2" data-bs-dismiss="offcanvas" aria-label="Close main menu"></button>
       </div>
       <div class="offcanvas-body px-4">
@@ -27,7 +27,7 @@
             {{ $image := resources.GetMatch "/images/logo-tw.png" }}
             {{ $image := $image.Resize "150x" }}
             {{ with $image }}
-              <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+              <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Tara for Boulder home">
             {{ end }}
           </a></li>
           {{- $current := . -}}

@@ -35,9 +35,9 @@
   {{ end }}
 </div>
 {{ else }}
-<div class="endorsements-section__logos row g-3 justify-content-center">
+<div class="endorsements-section__logos row g-3">
   {{ range . }}
-  <div class="col-10 col-md-6 col-lg-5 endorsement-logo{{ if eq .logo "sc" }} endorsement-logo--compact{{ end }}">
+  <div class="col-8 col-md-5 col-lg-4 endorsement-logo{{ if eq .logo "sc" }} endorsement-logo--compact{{ end }}">
     <img src="{{ .img.RelPermalink }}" alt="{{ .name }}" loading="lazy">
   </div>
   {{ end }}

@@ -1,0 +1,39 @@
+{{ $year := .Site.Params.endorsementsYear | default "2023" }}
+{{ $data := index .Site.Data (printf "featured-quotes-%s" $year) }}
+{{ with $data.press }}
+{{ $name := .name }}
+{{ $logo := false }}
+{{ with .logo }}
+  {{ with resources.GetMatch (printf "images/orgs/%s.*" .) }}
+    {{ $logo = . }}
+  {{ end }}
+{{ end }}
+<section class="press-section" id="press" aria-labelledby="press-heading">
+  <div class="container">
+    <div class="row align-items-center g-4 justify-content-center">
+      <div class="col-12 col-md-8">
+        <figure class="press-section__quote">
+          <blockquote class="press-section__excerpt">
+            <h2 id="press-heading" class="press-section__title">“In the best possible way, Winer’s expertise is quite simply being in the community.</h2>
+            <div class="press-section__lead">
+              <p>She is the leader who shows up, who listens and who gets your pothole fixed. And by being this sort of leader, it gives her a unique insight into our community when it comes time to build policy and vote.”</p>
+            </div>
+          </blockquote>
+          <figcaption class="press-section__source">
+            {{ with $logo }}
+            <img class="press-section__logo" src="{{ .RelPermalink }}" alt="{{ $name }}" loading="lazy">
+            {{ else }}
+            <span class="press-section__kicker">{{ $name }}</span>
+            {{ end }}
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-12 col-md-4 order-md-first text-center">
+        {{ with resources.GetMatch "images/tara-yard-sign.*" }}
+        <img src="{{ .RelPermalink }}" alt="Tara Winer yard sign" class="press-section__img img-fluid" loading="lazy">
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -13,8 +13,14 @@ organizations:
     logo: openboulder
   - name: PLAN Boulder
     logo: plan
+  - name: Daily Camera
+    logo: dailycamera
+  - name: Colorado Jewish Action Alliance
+    logo: cojaa
   - name: Reimagine South Boulder Recreation Advocacy Group
     logo: sbr
+  - name: Better Boulder
+    logo: betterboulder
 
 # Each entry: first_name, last_name, title
 elected_officials:

@@ -68,10 +68,11 @@ footer = "Paid for and authorized by Tara Winer for Council"
 # Feed
 copyRight = "Copyright (c) 2026 Tara Winer for Council"
 
-# Alert (banner link uses yardSignForm below)
+# Alert (set alertLink to make the banner clickable; leave empty for plain text)
 alert = true
 alertDismissable = true
-alertText = "Tara is running for re-election. Show your support and request a yard sign!"
+alertText = "Ballots are on their way! Vote by Nov 3."
+alertLink = ""
 
 # Campaign URLs — update these when links change (used site-wide: nav, footer, alerts)
 yardSignForm = "https://docs.google.com/forms/d/e/1FAIpQLScTexM0QQg4A3A0YKdA051kvwI_2BxKt_277zXwX6NxJD02oQ/viewform?usp=preview"
