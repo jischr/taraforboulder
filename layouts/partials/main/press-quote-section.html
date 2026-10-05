@@ -1,13 +1,5 @@
-{{ $year := .Site.Params.endorsementsYear | default "2023" }}
-{{ $data := index .Site.Data (printf "featured-quotes-%s" $year) }}
-{{ with $data.press }}
-{{ $name := .name }}
-{{ $logo := false }}
-{{ with .logo }}
-  {{ with resources.GetMatch (printf "images/orgs/%s.*" .) }}
-    {{ $logo = . }}
-  {{ end }}
-{{ end }}
+{{ $name := "Daily Camera" }}
+{{ $logo := resources.GetMatch "images/orgs/dailycamera.*" }}
 <section class="press-section" id="press" aria-labelledby="press-heading">
   <div class="container">
     <div class="row align-items-center g-4 justify-content-center">
@@ -36,4 +28,3 @@
     </div>
   </div>
 </section>
-{{ end }}
