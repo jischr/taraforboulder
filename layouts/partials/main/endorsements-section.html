@@ -10,5 +10,8 @@
     {{ with $data.organizations }}
       {{ partial "endorsements/org-logos.html" . }}
     {{ end }}
+    {{ with $data.distinctions }}
+      {{ partial "endorsements/distinctions.html" (dict "items" . "align" "center" "showNote" false) }}
+    {{ end }}
   </div>
 </section>

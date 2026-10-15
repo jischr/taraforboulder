@@ -719,6 +719,66 @@
   }
 }
 
+.distinction {
+  margin-top: 2.25rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid $gray-200;
+  max-width: 40rem;
+}
+
+.distinction--center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+  @include media-breakpoint-up(lg) {
+    max-width: none;
+  }
+}
+
+.distinction__title {
+  margin: 0 0 0.75rem;
+  font-family: $headings-font-family;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: $headings-line-height;
+  letter-spacing: -0.02em;
+  color: $black;
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.5rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    white-space: nowrap;
+  }
+}
+
+.distinction__name {
+  margin-bottom: 0.75rem;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.distinction__logo {
+  display: block;
+  width: 7.5rem;
+  height: auto;
+  margin: 0 0 1rem;
+
+  .distinction--center & {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.distinction__note {
+  margin-bottom: 0;
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: $gray-600;
+}
+
 .endorsements-section__card {
   background: $white;
   border-radius: 0.5rem;

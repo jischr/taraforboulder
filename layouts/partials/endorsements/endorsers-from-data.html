@@ -27,6 +27,9 @@
     </p>
     {{ end }}
   {{ end }}
+  {{ with $data.distinctions }}
+    {{ partial "endorsements/distinctions.html" (dict "items" . "align" "start") }}
+  {{ end }}
   {{ with $data.elected_officials }}
     <h3>Endorsements by Elected Officials</h3>
     {{ range . }}

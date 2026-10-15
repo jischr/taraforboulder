@@ -22,6 +22,15 @@ organizations:
   - name: Better Boulder
     logo: betterboulder
 
+# Distinctions are not endorsements. Do not list them under organizations.
+# Each entry: name, logo (basename under assets/images/orgs/), note (required disclaimer).
+distinctions:
+  - name: 2026 Moms Demand Action Gun Sense Candidate Distinction
+    logo: momsdemandaction
+    note: >
+      Not an endorsement, but rather a signal that a candidate advocates for gun
+      violence prevention and will govern with gun safety in mind.
+
 # Each entry: first_name, last_name, title
 elected_officials:
   - first_name: Congressman Joe

@@ -71,7 +71,7 @@ copyRight = "Copyright (c) 2026 Tara Winer for Council"
 # Alert (set alertLink to make the banner clickable; leave empty for plain text)
 alert = true
 alertDismissable = true
-alertText = "Ballots are on their way! Vote by Nov 3."
+alertText = "Ballots have arrived! Vote by Nov 3."
 alertLink = ""
 
 # Campaign URLs — update these when links change (used site-wide: nav, footer, alerts)
