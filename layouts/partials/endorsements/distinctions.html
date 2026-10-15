@@ -1,0 +1,32 @@
+{{/*
+  Renders distinctions that must not be labeled as endorsements.
+  Pass a dict: { "items": ..., "align": "start"|"center", "showNote": true|false }
+  Each item: name, logo (optional), note (required disclaimer).
+*/}}
+{{ $items := .items }}
+{{ $align := .align | default "start" }}
+{{ $showNote := true }}
+{{ if isset . "showNote" }}
+  {{ $showNote = .showNote }}
+{{ end }}
+{{ with $items }}
+<div class="distinction{{ if eq $align "center" }} distinction--center{{ end }}">
+  {{ range . }}
+    {{ $name := .name }}
+    {{ $note := .note }}
+    {{ if eq $align "center" }}
+      <h3 class="distinction__title">{{ $name }}</h3>
+    {{ else }}
+      <p class="distinction__name"><strong>{{ $name }}</strong></p>
+    {{ end }}
+    {{ with .logo }}
+      {{ with resources.GetMatch (printf "images/orgs/%s.*" .) }}
+        <img class="distinction__logo" src="{{ .RelPermalink }}" alt="{{ $name }}" loading="lazy">
+      {{ end }}
+    {{ end }}
+    {{ if and $showNote $note }}
+      <p class="distinction__note">{{ $note }}</p>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}
